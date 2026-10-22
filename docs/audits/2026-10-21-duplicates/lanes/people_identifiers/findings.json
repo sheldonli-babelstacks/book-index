@@ -1,0 +1,129 @@
+[
+  {
+    "case_id": "P-ID-001",
+    "entity_type": "people",
+    "ids": [
+      "hixhd2h9bcri",
+      "hixhd2h9bcup"
+    ],
+    "names": [
+      "嚴如煜",
+      "嚴如熤"
+    ],
+    "paths": [
+      "Entity/c/r/i/hixhd2h9bcri-嚴如煜.json",
+      "Entity/c/u/p/hixhd2h9bcup-嚴如熤.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条共享 Wikidata Q8048170 与 VIAF 24460405，但 CBDB 分别为35169、76312。",
+      "两条均记1759–1826、清、籍贯敘浦，且均有炳文/樂園异名；嚴如熤条已将嚴如煜列为別名。",
+      "CiNii author DA09759718 以嚴如熤为标目，明确收嚴如煜为别名；不是仅凭本库外部ID的循环论证。",
+      "人物各挂5条活跃Work，著作分裂：三省邊防備覽/苗防備覽/洋防輯要挂嚴如煜；樂園文鈔/樂園詩鈔等挂嚴如熤。"
+    ],
+    "recommendation": "可合并人物，建议保留异名较全的嚴如熤 hixhd2h9bcup；两CBDB号经权威核定后主号+cbdb_id_alt存档，保留两个上图来源；改指作者实体引用并留下墓碑。不得因人物合并自动合并全部作品。",
+    "suggested_keeper": "hixhd2h9bcup",
+    "work_reference_counts": {
+      "hixhd2h9bcri": 5,
+      "hixhd2h9bcup": 5
+    },
+    "external_sources": [
+      {
+        "url": "https://ge.nii.ac.jp/author/DA09759718",
+        "supports": "同一著者标目明确包含两种姓名",
+        "retrieval_ref": "turn3search2"
+      },
+      {
+        "url": "https://zx.hanzhong.gov.cn/hzzxwz/thhm/202511/25e84c0e6ca34edcb649a8423d43c6e1.shtml",
+        "supports": "嚴如熤生卒、字號、籍贯及著作",
+        "retrieval_ref": "turn2view3"
+      }
+    ],
+    "baseline": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "P-ID-002",
+    "entity_type": "people",
+    "ids": [
+      "hixhd2h9be6i",
+      "hixhd2h9bi20"
+    ],
+    "names": [
+      "趙宧光",
+      "趙宦光"
+    ],
+    "paths": [
+      "Entity/e/6/i/hixhd2h9be6i-趙宧光.json",
+      "Entity/i/2/0/hixhd2h9bi20-趙宦光.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "共享 Wikidata Q8070581 与 VIAF 35845398，CBDB分别438798、118004。",
+      "同为明、吳縣、字凡夫；趙宧光条明确收趙宦光为別名。",
+      "国立故宫博物院的澄泥石函硯典藏记录，著作者作趙宧光，描述与贡献者作趙宦光，并标1559–1625、字凡夫，独立佐证两字形同人。",
+      "两条各挂11条活跃Work。《說文長箋》d59f2ne1ludd及《六書長箋》d59f2neuy58h已将name=趙宦光连到趙宧光实体，显示库内同人归并只做了一部分。",
+      "《讀禮問》d59f2nd0glj8与d59f6ettcdmt分挂两人物；已交Work子会话核查，本文不重复计Work。"
+    ],
+    "recommendation": "可合并人物，建议保留有完整生卒与异名的趙宧光 hixhd2h9be6i；保留趙宦光为异名，CBDB另号核定后记alt，改指作者引用并留下墓碑；随后核查同名Work及九圜史/九圜史圖。",
+    "suggested_keeper": "hixhd2h9be6i",
+    "work_reference_counts": {
+      "hixhd2h9be6i": 11,
+      "hixhd2h9bi20": 11
+    },
+    "external_sources": [
+      {
+        "url": "https://catalog.digitalarchives.tw/item/00/1c/c4/59.html",
+        "supports": "同一故宫典藏记录同时使用趙宧光/趙宦光，并含生卒字號",
+        "retrieval_ref": "turn2view0"
+      },
+      {
+        "url": "https://www.dpm.org.cn/lemmas/243519.html",
+        "supports": "趙宧光生卒、字凡夫及說文長箋",
+        "retrieval_ref": "turn0search21"
+      }
+    ],
+    "baseline": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "P-ID-003",
+    "entity_type": "people",
+    "ids": [
+      "hixhd2h9bdu8",
+      "hixhd2h9bf09"
+    ],
+    "names": [
+      "沈一貫",
+      "沈鯉"
+    ],
+    "paths": [
+      "Entity/d/u/8/hixhd2h9bdu8-沈一貫.json",
+      "Entity/f/0/9/hixhd2h9bf09-沈鯉.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "仅VIAF 262558410碰撞；CBDB分别124055、34728，Wikidata分别Q11137860、Q15914309。",
+      "本库沈一貫字肩吾、鄞縣，沈鯉字仲化、歸德州，各有独立著作群。",
+      "《明史》沈鯉传叙述二人同时入阁并有政见冲突，直接证明是两位同时代人物。",
+      "各挂15与8条活跃Work：喙鳴文集/敬事草属沈一貫，亦玉堂稿/沈文端公家書属沈鯉。"
+    ],
+    "recommendation": "保持两人物，单独核实VIAF权威簇污染或映射错误，确认后只修错误外部ID；还应核查沈一貫的龍江异名是否由该污染链带入，不能自动删除。",
+    "suggested_keeper": null,
+    "work_reference_counts": {
+      "hixhd2h9bdu8": 15,
+      "hixhd2h9bf09": 8
+    },
+    "external_sources": [
+      {
+        "url": "https://www.shidianguji.com/book/LS0024/chapter/LS0024_1070",
+        "supports": "明史沈鯉传将沈鯉、沈一貫明确区分",
+        "retrieval_ref": "turn2view2"
+      },
+      {
+        "url": "https://www.shidianguji.com/book/LS0024/chapter/LS0024_1077",
+        "supports": "明史沈一貫传记肩吾、鄞人",
+        "retrieval_ref": "turn1search14"
+      }
+    ],
+    "baseline": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  }
+]

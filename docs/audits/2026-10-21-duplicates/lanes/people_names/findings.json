@@ -1,0 +1,5558 @@
+[
+  {
+    "group_id": "PN-001",
+    "label": "梁啟超／梁啓超",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bi1l",
+      "hixhd2h9bpp3"
+    ],
+    "names": [
+      "梁啟超",
+      "梁啓超"
+    ],
+    "paths": [
+      "Entity/i/1/l/hixhd2h9bi1l-梁啟超.json",
+      "Entity/p/p/3/hixhd2h9bpp3-梁啓超.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条都活跃；前者 dates=1873–1929，后者 dynasty_basis 明写 cbdb:691198 梁啓超（1873–1929）。",
+      "后者12条作品包括《戊戌政變記》《飲冰室全集》《梁任公文集》；前者4条包括《飲冰室文集》。",
+      "后者10/19已合并第三条梁啓超，却仍与啟字条分立；清／民国是跨朝生平而非异人。"
+    ],
+    "recommendation": "人工审核后合并到资料完整条；保留异名与墓碑，改写所有存储侧引用并重建索引。",
+    "work_reference_counts": {
+      "hixhd2h9bi1l": 4,
+      "hixhd2h9bpp3": 12
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2n112iv6",
+        "title": "飲冰室文集",
+        "path": "Work/i/v/6/d59f2n112iv6-飲冰室文集.json",
+        "author": {
+          "name": "梁啟超",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bi1l",
+          "name_basis": "2026-08-24 補繫 entity（代相鄰者）：本條 authors 有名「梁啟超」而無 entity_id，庫中同名唯一（`1j96h024mpyit`）。entity 代 modern 與本書 qing 相鄰，一人歷易代——兩代首尾相接，一人之壽足以跨之（如宋元之際、元明之際、明清之際），非同名異人，故繫之。二者之代並不改，各存其舊。"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "飲冰室文集十六卷",
+            "author_info": "梁啓超撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 2 個版本：清宣統二年上海廣智書局鉛印本（首都圖書館、北京師範大學圖書館）；清光緒二十八年上海廣智書局鉛印本（南京圖書館、北京師範大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ofobzsy",
+        "title": "漢書藝文志諸子略考釋",
+        "path": "Work/z/s/y/d59f2ofobzsy-漢書藝文志諸子略考釋.json",
+        "author": {
+          "name": "梁啟超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bi1l"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2mp7xb0i",
+        "title": "新中國未來記",
+        "path": "Work/b/0/i/d59f2mp7xb0i-新中國未來記.json",
+        "author": {
+          "name": "梁啟超",
+          "role": "撰",
+          "dynasty": "中華民國",
+          "entity_id": "hixhd2h9bi1l"
+        },
+        "indexed_by": [
+          {
+            "source": "中國通俗小說書目",
+            "source_bid": "d59f2ofwg64g",
+            "title_info": "新中國未來記",
+            "summary": "新中國未來記\n存 此書初發表於新小說，後收入飲冰室文集。\n\n梁啟超撰。書僅成四回。\n\n按：啟超此作雖係寓言，然自云「以發表政見」，則亦為時事而發。且文中所演多指當時事，與演當代事之講史書亦有相近之處，今姑入講史目。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2mqdfv9d",
+        "title": "跋周印昆所藏左文襄書牘",
+        "path": "Work/v/9/d/d59f2mqdfv9d-跋周印昆所藏左文襄書牘.json",
+        "author": {
+          "name": "梁啟超",
+          "dynasty": "清",
+          "role": "作",
+          "entity_id": "hixhd2h9bi1l"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59fxzqa3hfk",
+        "title": "飲冰室壬寅文集",
+        "path": "Work/h/f/k/d59fxzqa3hfk-飲冰室壬寅文集.json",
+        "author": {
+          "name": "梁啓超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bpp3",
+          "dynasty": "",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/0rs2exbs4fq613y6"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "飲冰室壬寅文集十二卷",
+            "author_info": "梁啓超撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：飲冰室全集本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxzraxhj4",
+        "title": "飲冰室全集",
+        "path": "Work/h/j/4/d59fxzraxhj4-飲冰室全集.json",
+        "author": {
+          "name": "梁啓超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bpp3",
+          "dynasty": "",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/0rs2exbs4fq613y6"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "飲冰室全集四十八卷",
+            "author_info": "梁啓超撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 2 個版本：民國五年上海中華書局鉛印本（北京師範大學圖書館、首都圖書館、北京大學圖書館、上海圖書館、南京大學圖書館、國家圖書館）；民國六年上海商務印書館鉛印本（北京大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59frybl6uit",
+        "title": "稼軒詞疏證",
+        "path": "Work/u/i/t/d59frybl6uit-稼軒詞疏證.json",
+        "author": {
+          "name": "梁啓超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bpp3",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/0rs2exbs4fq613y6"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "稼軒詞疏證六卷",
+            "author_info": "梁啓超、梁啓勳撰",
+            "section": "集部/詞類/別集之屬",
+            "summary": "共 1 個版本：稿本（中國社會科學院文學研究所）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxt2wy9kx",
+        "title": "飲冰室文集癸卯集",
+        "path": "Work/9/k/x/d59fxt2wy9kx-飲冰室文集癸卯集.json",
+        "author": {
+          "name": "梁啓超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bpp3",
+          "dynasty": "",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/0rs2exbs4fq613y6"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "飲冰室文集癸卯集二卷",
+            "author_info": "梁啓超撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：清光緒三十年上海廣智書局鉛印本（首都圖書館、國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsfjfzrib",
+        "title": "梁任公文集",
+        "path": "Work/r/i/b/d59fsfjfzrib-梁任公文集.json",
+        "author": {
+          "name": "梁啓超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bpp3",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/0rs2exbs4fq613y6"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "梁任公文集不分卷",
+            "author_info": "梁啓超撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國三年上海共和編譯局石印康南海文集梁任公文集合刻本（國家圖書館、北京大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsfjfzrid",
+        "title": "梁任公最近文集",
+        "path": "Work/r/i/d/d59fsfjfzrid-梁任公最近文集.json",
+        "author": {
+          "name": "梁啓超",
+          "role": "撰",
+          "entity_id": "hixhd2h9bpp3",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/0rs2exbs4fq613y6"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "梁任公最近文集（最近梁任公文集）六卷",
+            "author_info": "梁啓超撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國三年、四年上海晉益書局石印本（首都圖書館、國家圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-002",
+    "label": "毛晉／毛鳳苞",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bhmo",
+      "hixhd2h9bcxw"
+    ],
+    "names": [
+      "毛晉",
+      "毛鳳苞"
+    ],
+    "paths": [
+      "Entity/h/m/o/hixhd2h9bhmo-毛晉.json",
+      "Entity/c/x/w/hixhd2h9bcxw-毛鳳苞.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条生卒均1599–1659、籍贯均常熟；毛晉.alt_names 明列毛鳳苞。",
+      "作品分在两条：《六十種曲》及汲古阁相关编纂归毛晉；《汲古閣題跋初集》《草木蟲魚疏廣要》归毛鳳苞。"
+    ],
+    "recommendation": "建议保留毛晉；明／清与不同CBDB编号不能作为异人证据，合并时核对CBDB主号。",
+    "work_reference_counts": {
+      "hixhd2h9bhmo": 39,
+      "hixhd2h9bcxw": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59fsduppmv4",
+        "title": "和友人詩",
+        "path": "Work/m/v/4/d59fsduppmv4-和友人詩.json",
+        "author": {
+          "name": "毛晉",
+          "role": "撰",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/10trfoc56j5ekoby"
+          },
+          "entity_id": "hixhd2h9bhmo"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "和友人詩一卷",
+            "author_info": "明毛晉撰",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 1 個版本：虞山叢刻本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ngufhmq",
+        "title": "六十種曲",
+        "path": "Work/h/m/q/d59f2ngufhmq-六十種曲.json",
+        "author": {
+          "name": "毛晉",
+          "role": "輯",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bhmo",
+          "name_basis": "2026-08-24 補繫 entity（代相鄰者）：本條 authors 有名「毛晉」而無 entity_id，庫中同名唯一（`1j968r2jhr285`）。entity 代 qing 與本書 ming 相鄰，一人歷易代——兩代首尾相接，一人之壽足以跨之（如宋元之際、元明之際、明清之際），非同名異人，故繫之。二者之代並不改，各存其舊。"
+        },
+        "indexed_by": [
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《六十種曲》一百二十卷",
+            "author_info": "(明)毛晉輯",
+            "summary": "《六十種曲》一百二十卷。(明)毛晉輯。影印上海圖書館藏明末毛氏汲古閣刻本。",
+            "edition": "影印上海圖書館藏明末毛氏汲古閣刻本",
+            "volume": "第1773冊",
+            "section": "集部 集部"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《六十種曲》一百二十卷",
+            "author_info": "(明)毛晉輯",
+            "summary": "《六十種曲》一百二十卷。(明)毛晉輯。影印上海圖書館藏明末毛氏汲古閣刻本。",
+            "edition": "影印上海圖書館藏明末毛氏汲古閣刻本",
+            "volume": "第1772冊",
+            "section": "集部 集部"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《六十種曲》一百二十卷",
+            "author_info": "(明)毛晉輯",
+            "summary": "《六十種曲》一百二十卷。(明)毛晉輯。影印上海圖書館藏明末毛氏汲古閣刻本。",
+            "edition": "影印上海圖書館藏明末毛氏汲古閣刻本",
+            "volume": "第1771冊",
+            "section": "集部 集部"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《六十種曲》一百二十卷",
+            "author_info": "(明)毛晉輯",
+            "summary": "《六十種曲》一百二十卷。(明)毛晉輯。影印上海圖書館藏明末毛氏汲古閣刻本。",
+            "edition": "影印上海圖書館藏明末毛氏汲古閣刻本",
+            "volume": "第1770冊",
+            "section": "集部 集部"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《六十種曲》一百二十卷",
+            "author_info": "(明)毛晉輯",
+            "summary": "《六十種曲》一百二十卷。(明)毛晉輯。影印上海圖書館藏明末毛氏汲古閣刻本。",
+            "edition": "影印上海圖書館藏明末毛氏汲古閣刻本",
+            "volume": "第1769冊",
+            "section": "集部 集部"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《六十種曲》一百二十卷",
+            "author_info": "(明)毛晉輯",
+            "summary": "《六十種曲》一百二十卷。(明)毛晉輯。影印上海圖書館藏明末毛氏汲古閣刻本。",
+            "edition": "影印上海圖書館藏明末毛氏汲古閣刻本",
+            "volume": "第1768冊",
+            "section": "集部 集部"
+          }
+        ]
+      },
+      {
+        "id": "d59fsdk80hky",
+        "title": "和古人詩",
+        "path": "Work/h/k/y/d59fsdk80hky-和古人詩.json",
+        "author": {
+          "name": "毛晉",
+          "role": "撰",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/10trfoc56j5ekoby"
+          },
+          "entity_id": "hixhd2h9bhmo"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "和古人詩一卷",
+            "author_info": "明毛晉撰",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 1 個版本：虞山叢刻本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nhcuhoj",
+        "title": "蘇米志林",
+        "path": "Work/h/o/j/d59f2nhcuhoj-蘇米志林.json",
+        "author": {
+          "name": "毛晉",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bhmo"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《蘇米志林》•三卷",
+            "author_info": "明毛晉撰",
+            "summary": "明毛晉撰。晉有《毛詩陸疏廣要》，已著錄，是書掇蘇軾瑣言、碎事集中所遺者，編為二卷。又以米芾軼聞編為一卷。大概與《蘇米譚史》互相出入。",
+            "edition": "內府藏本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《蘇米志林》三卷",
+            "author_info": "明毛晉輯",
+            "summary": "《蘇米志林》三卷。明毛晉輯。北京圖書館藏明天啓五年毛氏綠君亭刻本。",
+            "edition": "北京圖書館藏明天啓五年毛氏綠君亭刻本",
+            "volume": "第85冊",
+            "section": "史部"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "蘇米志林三卷",
+            "author_info": "明毛晉輯",
+            "section": "集部/別集類/總傳之屬",
+            "summary": "共 2 個版本：明天啓五年毛氏綠君亭刻本（國家圖書館、吉林省圖書館、山東省圖書館、浙江圖書館、甘肅省圖書館、遼寧省圖書館）；清文粹堂刻本（上海圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2njp4kqo",
+        "title": "宋名家詞",
+        "path": "Work/k/q/o/d59f2njp4kqo-宋名家詞.json",
+        "author": {
+          "name": "毛晉",
+          "role": "編",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bhmo"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《宋名家詞》•",
+            "author_info": "明毛晉編",
+            "summary": "明毛晉編。晉有《毛詩陸疏廣要》，已著錄。詞萌於唐，而盛於宋。當時伎樂，惟以是為歌曲。而士大夫亦多知音律，如今日之用南北曲也。金、元以後，院本雜劇盛，而歌詞之法失傳。然音節婉轉，較詩易於言情，故好之者終不絕也。於是音律之事變為吟詠之事，詞遂為文章之一種。其宗宋也，亦猶詩之宗唐。明常熟吳訥，曾匯宋、元百家詞，而卷帙頗重，抄傳絕少。惟晉此刻，蒐羅頗廣，倚聲家鹹資采掇。其所錄分為六集。自晏殊《珠玉詞》至盧炳《哄堂詞》，共六十一家。每家之後各附以跋語。其次序先後，以得詞付雕為准，未嘗差以時代。且隨得隨雕，亦未嘗有所去取。故此外如王安石《半山老人》詞。張先《子野詞》，賀鑄《東山寓聲》。以暨范成大《石湖詞》，楊萬里《誠齋樂府》，王沂孫《碧山樂府》，張炎《玉田詞》之類，雖尚有傳本，而均未載入。蓋以次開雕，適先成此六集，遂以六十家詞傳，非謂宋詞止於此也。其中名姓之錯互，篇章字句之訛異，雖不能免，而於諸本之誤甲為乙，考證釐訂者亦複不少。故諸家詞集雖各分著於錄，仍附存其目，以不沒晉蒐輯校刊之功焉。",
+            "edition": "無卷數，江蘇巡撫采進本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《宋名家詞》九十卷",
+            "author_info": "明毛晉編",
+            "summary": "《宋名家詞》九十卷。明毛晉編。中國人民大學圖書館藏明崇禎毛氏汲古閣刻本。",
+            "edition": "中國人民大學圖書館藏明崇禎毛氏汲古閣刻本",
+            "volume": "第422冊",
+            "section": "集部"
+          }
+        ]
+      },
+      {
+        "id": "d59fryapz47d",
+        "title": "詞苑英華",
+        "path": "Work/4/7/d/d59fryapz47d-詞苑英華.json",
+        "author": {
+          "name": "毛晉",
+          "role": "編",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/10trfoc56j5ekoby"
+          },
+          "entity_id": "hixhd2h9bhmo"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "詞苑英華",
+            "author_info": "明毛晉編",
+            "section": "集部/詞類/叢編之屬",
+            "summary": "共 1 個版本：明末毛氏汲古閣刻本（國家圖書館、天津圖書館、北京大學圖書館、上海圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nfr3h8h",
+        "title": "汲古閣題跋初集",
+        "path": "Work/h/8/h/d59f2nfr3h8h-汲古閣題跋初集.json",
+        "author": {
+          "name": "毛鳳苞",
+          "role": "編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcxw"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "汲古閣題跋初集",
+            "summary": "汲古閣題跋初集二卷，續一卷。毛鳳苞編。"
+          }
+        ]
+      },
+      {
+        "id": "d59f6ek18ow5",
+        "title": "草木蟲魚疏廣要",
+        "path": "Work/o/w/5/d59f6ek18ow5-草木蟲魚疏廣要.json",
+        "author": {
+          "name": "毛鳳苞",
+          "role": "撰",
+          "entity_id": "hixhd2h9bcxw"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "毛鳳苞草木蟲魚疏廣要",
+            "summary": "毛鳳苞草木蟲魚疏廣要"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-003",
+    "label": "邱處機／丘處機",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bhus",
+      "hixhd2h9bonx"
+    ],
+    "names": [
+      "邱處機",
+      "丘處機"
+    ],
+    "paths": [
+      "Entity/h/u/s/hixhd2h9bhus-邱處機.json",
+      "Entity/o/n/x/hixhd2h9bonx-丘處機.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条生卒均1148–1227、字均通密。",
+      "邱条说明“全真道七真之一，長春真人”；丘条系《棲霞長春子丘神仙磻溪集》。"
+    ],
+    "recommendation": "合并并保留丘／邱异写、長春子等称谓；金／金元标签需统一口径。",
+    "work_reference_counts": {
+      "hixhd2h9bhus": 6,
+      "hixhd2h9bonx": 1
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2gghdfk2",
+        "title": "攝生消息論",
+        "path": "Work/f/k/2/d59f2gghdfk2-攝生消息論.json",
+        "author": {
+          "name": "邱處機",
+          "role": "舊題撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhus",
+          "role_basis": "據著錄語「舊本題元邱處機撰。處機，登州棲霞道士。為全真之學，自號長春子。嘗」——所題之撰人不確，非謂本書偽。見 SCHEMA〈authenticity〉。"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《攝生消息論》•一卷",
+            "author_info": "舊本題元邱處機撰",
+            "summary": "舊本題元邱處機撰。處機，登州棲霞道士。為全真之學，自號長春子。嘗應元太祖召，入西域。還燕，居長春宮。事蹟具《元史•釋老傳》。此書皆言四時調攝之法，其真出處機與否無可證驗。考處機答元太祖之問，亦止以節欲保躬，無為清淨為要，與此書頗相發明，或有所受之。亦未可知。然曹溶《學海類編》所收偽本居十之九，不能不連類疑之耳。",
+            "edition": "編修程晉芳家藏本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《攝生消息論》一卷",
+            "author_info": "元邱處機撰",
+            "summary": "《攝生消息論》一卷。元邱處機撰。江西省圖書館藏涵芬樓影印清道光十一年六安晁氏木活字學海類編本。",
+            "edition": "江西省圖書館藏涵芬樓影印清道光十一年六安晁氏木活字學海類編本",
+            "volume": "第259冊",
+            "section": "子部"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gl425mo",
+        "title": "青天歌",
+        "path": "Work/5/m/o/d59f2gl425mo-青天歌.json",
+        "author": {
+          "name": "邱處機",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhus"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "邱處機青天歌一卷",
+            "summary": "元邱處機青天歌一卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ggatg5c",
+        "title": "外史出世集",
+        "path": "Work/g/5/c/d59f2ggatg5c-外史出世集.json",
+        "author": {
+          "name": "邱處機",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhus"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "邱處機外史出世集二卷",
+            "summary": "元邱處機外史出世集二卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f2j4npou8",
+        "title": "勞山行跡詩",
+        "path": "Work/o/u/8/d59f2j4npou8-勞山行跡詩.json",
+        "author": {
+          "name": "邱處機",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhus"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "邱處機勞山行蹟詩一卷",
+            "summary": "元邱處機勞山行蹟詩一卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gemvvup",
+        "title": "大丹直指",
+        "path": "Work/v/u/p/d59f2gemvvup-大丹直指.json",
+        "author": {
+          "name": "邱處機",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhus"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "邱處機大丹直指二卷",
+            "summary": "元邱處機大丹直指二卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "大丹直指二卷",
+            "author_info": "元丘處機述",
+            "section": "子部/道家類/道教之屬/修煉",
+            "summary": "共 2 個版本：道藏本（馆藏未载）；（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gf840sh",
+        "title": "鳴道集語錄",
+        "path": "Work/0/s/h/d59f2gf840sh-鳴道集語錄.json",
+        "author": {
+          "name": "邱處機",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhus"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "邱處機鳴道集語錄一卷",
+            "summary": "元邱處機鳴道集語錄一卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gnxtips",
+        "title": "棲霞長春子丘神仙磻溪集",
+        "path": "Work/i/p/s/d59f2gnxtips-棲霞長春子丘神仙磻溪集.json",
+        "author": {
+          "name": "丘處機",
+          "role": "撰",
+          "dynasty": "金",
+          "entity_id": "hixhd2h9bonx",
+          "name_basis": "2026-08-24 新建 entity `1jcf5151293ut` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。"
+        },
+        "indexed_by": [
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《棲霞長春子丘神仙磻溪集》三卷",
+            "author_info": "(金)丘處機撰",
+            "summary": "《棲霞長春子丘神仙磻溪集》三卷。(金)丘處機撰。影印國家圖書館藏金刻本。",
+            "edition": "影印國家圖書館藏金刻本",
+            "volume": "第1322冊",
+            "section": "集部 集部"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-004",
+    "label": "張天雨／元張雨",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bhwc",
+      "hixhd2h9bf9f"
+    ],
+    "names": [
+      "張天雨",
+      "張雨"
+    ],
+    "paths": [
+      "Entity/h/w/c/hixhd2h9bhwc-張天雨.json",
+      "Entity/f/9/f/hixhd2h9bf9f-張雨.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条均元代，生卒1283–1350，字伯雨，号句曲外史。",
+      "张天雨条系《外史出世集》《茅山志》等7条；元张雨条系《句曲外史集》《貞居詞》等10条。"
+    ],
+    "recommendation": "只并这两条，排除明代1512年生張雨 hixhd2h9bgkx。",
+    "work_reference_counts": {
+      "hixhd2h9bhwc": 7,
+      "hixhd2h9bf9f": 10
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2gdbfta8",
+        "title": "尋山志",
+        "path": "Work/t/a/8/d59f2gdbfta8-尋山志.json",
+        "author": {
+          "name": "張天雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhwc"
+        },
+        "indexed_by": [
+          {
+            "source": "補遼金元藝文志",
+            "source_bid": "d59f2mp1zsox",
+            "title_info": "張天雨尋山志十五卷",
+            "summary": "元張天雨尋山志十五卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f6eokt1j5",
+        "title": "外史出世集",
+        "path": "Work/1/j/5/d59f6eokt1j5-外史出世集.json",
+        "author": {
+          "name": "張天雨",
+          "role": "撰",
+          "entity_id": "hixhd2h9bhwc"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "張天雨外史出世集",
+            "author_info": "字伯雨吳郡人年二十棄家入道道名嗣真别號真居嘗従開元道士王宗衍入朝被璽書賜驛傳成道門擢任非其志也隠于茅山為尋山志考索極博云",
+            "summary": "張天雨外史出世集⟨字伯雨吳郡人年二十棄家入道道名嗣真别號真居嘗従開元道士王宗衍入朝被璽書賜驛傳成道門擢任非其志也隠于茅山為尋山志考索極博云⟩"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gj7p6o0",
+        "title": "茅山志",
+        "path": "Work/6/o/0/d59f2gj7p6o0-茅山志.json",
+        "author": {
+          "name": "張天雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhwc"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "張天雨茅山志十五卷",
+            "summary": "元張天雨茅山志十五卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f2giuwge9",
+        "title": "出世集",
+        "path": "Work/g/e/9/d59f2giuwge9-出世集.json",
+        "author": {
+          "name": "張天雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhwc"
+        },
+        "indexed_by": [
+          {
+            "source": "補遼金元藝文志",
+            "source_bid": "d59f2mp1zsox",
+            "title_info": "張天雨出世集三卷",
+            "summary": "元張天雨出世集三卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gkl0oht",
+        "title": "碧巖玄會錄",
+        "path": "Work/o/h/t/d59f2gkl0oht-碧巖玄會錄.json",
+        "author": {
+          "name": "張天雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhwc"
+        },
+        "indexed_by": [
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "張天雨碧巖玄會錄二卷",
+            "summary": "元張天雨碧巖玄會錄二卷"
+          },
+          {
+            "source": "補遼金元藝文志",
+            "source_bid": "d59f2mp1zsox",
+            "title_info": "碧巖玄會錄二卷",
+            "author_info": "元道士，編輯南唐徐知訓、徐知證乩筆",
+            "summary": "元碧巖玄會錄二卷（元道士，編輯南唐徐知訓、徐知證乩筆）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gk2wwzk",
+        "title": "外史",
+        "path": "Work/w/z/k/d59f2gk2wwzk-外史.json",
+        "author": {
+          "name": "張天雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bhwc"
+        },
+        "indexed_by": [
+          {
+            "source": "補遼金元藝文志",
+            "source_bid": "d59f2mp1zsox",
+            "title_info": "張天雨外史",
+            "author_info": "字伯雨，吳郡人",
+            "summary": "元張天雨（字伯雨，吳郡人）外史"
+          }
+        ]
+      },
+      {
+        "id": "d59fsecrwydi",
+        "title": "句曲外史貞居先生詩集",
+        "path": "Work/y/d/i/d59fsecrwydi-句曲外史貞居先生詩集.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/t5vhxfomzdeutftg"
+          },
+          "entity_id": "hixhd2h9bf9f"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "句曲外史貞居先生詩集七卷詞一卷雜文一卷",
+            "author_info": "元張雨撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 13 個版本：清曹炎抄本（南京圖書館）；明抄本（國家圖書館）；清抄本（南京圖書館）；慈溪馮氏醉經閣抄本（中國科學院圖書館）；清影抄明初刻本（國家圖書館）；明初刻本（國家圖書館）；清抄本（國家圖書館、北京大學圖書館）；清吳城抄本（南京圖書館）；明潘是仁刻本（北京大學圖書館）；宋元四十三家集本（馆藏未载）；宋元詩本（國家圖書館）；明柳僉抄本（國家圖書館）；武林往哲遺箸本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gpi08ht",
+        "title": "句曲外史集",
+        "path": "Work/8/h/t/d59f2gpi08ht-句曲外史集.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bf9f"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《句曲外史集》•三卷、《補遺》•三卷、《集外詩》•一卷",
+            "author_info": "元張雨撰",
+            "summary": "元張雨撰。雨有《元品錄》，已著錄。其平生詩文，嘗手錄成帙，然當時未及刊版。故零縑斷素，賞鑒家多傳其墨蹟，而集則無傳。明成化間，姚綬始購得其稿。嘉靖甲午，陳應符始厘為三卷，校讎付刊，而以劉基所作墓誌、姚綬所作小傳附之。崇禎中，常熟毛晉複取烏程閔元衢所錄佚詩，為《補遺》三卷，附以同時酬贈之作。晉又與甥馮武搜得雨《集外詩》若干首，續刻於後。仍以徐世達原《序》冠於簡端者，即此本也。雨詩文豪邁灑落，體格遒上。早年及識趙孟頫，晚年猶及見倪瓚、顧阿瑛、楊維楨，中間如虞集、范梈、袁桷、黃溍諸人，皆以方外之交，深相投契。故耳濡目染，具有典型。雖托跡黃冠，而談藝之家位置於文士之列，不復以異教視之，厥有由矣。",
+            "edition": "浙江鮑士恭家藏本"
+          },
+          {
+            "source": "補遼金元藝文志",
+            "source_bid": "d59f2mp1zsox",
+            "title_info": "《句曲外史集》三卷",
+            "author_info": "字伯雨，吳郡人",
+            "summary": "元張雨（字伯雨，吳郡人）句曲外史集三卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "句曲外史集三卷補遺三卷張伯雨集外詩一卷附錄一卷",
+            "author_info": "元張雨撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 2 個版本：清嫏嬛館抄本（上海圖書館）；四庫全書本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59fyict38xt",
+        "title": "句曲外史集補遺",
+        "path": "Work/8/x/t/d59fyict38xt-句曲外史集補遺.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "entity_id": "hixhd2h9bf9f",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/t5vhxfomzdeutftg"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "句曲外史集補遺不分卷",
+            "author_info": "元張雨撰",
+            "section": "集部/總集類/叢編之屬/各體",
+            "summary": "共 1 個版本：（重慶市圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gdib18i",
+        "title": "玄品錄",
+        "path": "Work/1/8/i/d59f2gdib18i-玄品錄.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bf9f"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《玄品錄》•五卷",
+            "author_info": "元張雨撰",
+            "summary": "元張雨撰。雨字伯雨，一字天雨，別號貞居子，錢塘人，宋崇國公九成後也。年二十餘，棄家為道士。往來華陽、雲右間，自稱句曲外史。能詩詞，工書翰，當時虞集、楊維楨亟稱之。是編載歷代道家者流，起周訖宋，列為十品，曰道品、道權、道化、道儒、道術、道隱、道默、道言、道質、道華，得百三十五人。然書名玄品，自應以清淨為宗，故曹參、張良之流可以類入。至於神仙方士，別自成家；隱士逸人，各為一傳；溷而一之，已昧老氏之宗。乃至范蠡權謀之士，鬼穀捭闔之師，亦複借材，未知其可。蒐羅雖富，難免蕪雜之譏矣。又雨自序中稱題曰《玄史》，今標題之目與序不同，豈書後改名，而序則偶未及改歟？",
+            "edition": "兩淮監政采進本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《玄品錄》五卷",
+            "author_info": "元張雨撰",
+            "summary": "《玄品錄》五卷。元張雨撰。涵芬樓影印明正統刻道藏本。",
+            "edition": "涵芬樓影印明正統刻道藏本",
+            "volume": "第259冊",
+            "section": "子部"
+          },
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "張天雨玄品錄五卷",
+            "summary": "元張天雨玄品錄五卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "玄品錄五卷",
+            "author_info": "元張雨撰",
+            "section": "史部/傳記類/總傳之屬",
+            "summary": "共 1 個版本：道藏本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2n1pq9s1",
+        "title": "貞居詞一卷補遺一卷",
+        "path": "Work/9/s/1/d59f2n1pq9s1-貞居詞一卷補遺一卷.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bf9f",
+          "name_basis": "2026-09-06 qa-sweep/qing：撰人原作「張先」（清）——經 WebSearch 覆核，《貞居詞》一卷實為元代茅山道士張雨（1277–1348，號貞居子，見《知不足齋叢書》）之作，「貞居」正是其號；「張先」乃北宋詞人（字子野，1990–1078），與本條同一撞題組另一書《張子野詞》之撰人相混。entity 撞庫得「張雨」hixhd2h9bf9f（alt_names 已載「貞居子」），改繫之。"
+        },
+        "indexed_by": [
+          {
+            "source": "國立故宮博物院善本舊籍",
+            "title_info": "貞居詞一卷補遺",
+            "summary": "本書收入《國立故宮博物院善本舊籍》（統一編號 故觀001730）。清乾隆道光間長塘鮑氏刊知不足齋叢書之一。",
+            "edition": "清乾隆道光間長塘鮑氏刊知不足齋叢書之一。",
+            "catalog_no": "故觀001730"
+          }
+        ]
+      },
+      {
+        "id": "d59fy1g40r28",
+        "title": "句曲外史詩集",
+        "path": "Work/r/2/8/d59fy1g40r28-句曲外史詩集.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "entity_id": "hixhd2h9bf9f",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/t5vhxfomzdeutftg"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "句曲外史詩集二卷集外詩一卷",
+            "author_info": "元張雨撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 1 個版本：清抄本（南京博物院圖書館、中山大學圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-005",
+    "label": "沈金鼇／沈金鰲",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bhvi",
+      "hixhd2h9bnqw"
+    ],
+    "names": [
+      "沈金鼇",
+      "沈金鰲"
+    ],
+    "paths": [
+      "Entity/h/v/i/hixhd2h9bhvi-沈金鼇.json",
+      "Entity/n/q/w/hixhd2h9bnqw-沈金鰲.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条生卒均1717–1776。",
+      "鼇条说明“清醫家，《沈氏尊生書》作者”，名下《傷寒論綱目》《幼科釋謎》；鰲条名下《雜病源流犀燭》《婦科玉尺》，身份与著作系统一致。"
+    ],
+    "recommendation": "人工审核后合并到资料完整条；保留异名与墓碑，改写所有存储侧引用并重建索引。",
+    "work_reference_counts": {
+      "hixhd2h9bhvi": 4,
+      "hixhd2h9bnqw": 4
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2nif8kjl",
+        "title": "雜病源流",
+        "path": "Work/k/j/l/d59f2nif8kjl-雜病源流.json",
+        "author": {
+          "name": "沈金鼇",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhvi"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "雜病源流",
+            "summary": "雜病源流三十卷。沈金鼇撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nikjls1",
+        "title": "幼科釋謎",
+        "path": "Work/l/s/1/d59f2nikjls1-幼科釋謎.json",
+        "author": {
+          "name": "沈金鼇",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhvi"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "幼科釋謎",
+            "summary": "幼科釋謎六卷。沈金鼇撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nibhq0x",
+        "title": "要藥分劑",
+        "path": "Work/q/0/x/d59f2nibhq0x-要藥分劑.json",
+        "author": {
+          "name": "沈金鼇",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhvi"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "要藥分劑",
+            "summary": "要藥分劑十卷。沈金鼇撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ni2r2td",
+        "title": "傷寒論綱目",
+        "path": "Work/2/t/d/d59f2ni2r2td-傷寒論綱目.json",
+        "author": {
+          "name": "沈金鼇",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhvi"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "傷寒論綱目",
+            "summary": "傷寒論綱目十六卷。沈金鼇撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2mthtate",
+        "title": "雜病源流犀燭",
+        "path": "Work/a/t/e/d59f2mthtate-雜病源流犀燭.json",
+        "author": {
+          "name": "沈金鰲",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bnqw"
+        },
+        "indexed_by": [
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《雜病源流犀燭》三十卷",
+            "author_info": "清沈金鰲撰",
+            "summary": "《雜病源流犀燭》三十卷。清沈金鰲撰。影印上海圖書館藏清同治十三年湖北崇文書局刻本。",
+            "edition": "影印上海圖書館藏清同治十三年湖北崇文書局刻本",
+            "volume": "第1024冊",
+            "section": "子部 醫家類"
+          }
+        ]
+      },
+      {
+        "id": "d59fxqmveltt",
+        "title": "芊綠草堂初集",
+        "path": "Work/l/t/t/d59fxqmveltt-芊綠草堂初集.json",
+        "author": {
+          "name": "沈金鰲",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqw",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/au7wqg9goqmrykko"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "芊綠草堂初集二十二卷",
+            "author_info": "清沈金鰲撰",
+            "section": "集部/別集類",
+            "summary": "共 1 個版本：稿本（山東省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2mte2gao",
+        "title": "婦科玉尺",
+        "path": "Work/g/a/o/d59f2mte2gao-婦科玉尺.json",
+        "author": {
+          "name": "沈金鰲",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bnqw"
+        },
+        "indexed_by": [
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《婦科玉尺》六卷",
+            "author_info": "清沈金鰲撰",
+            "summary": "《婦科玉尺》六卷。清沈金鰲撰。影印上海圖書館藏清乾隆刻沈氏尊生書本。",
+            "edition": "影印上海圖書館藏清乾隆刻沈氏尊生書本",
+            "volume": "第1008冊",
+            "section": "子部 醫家類"
+          },
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "婦科玉尺",
+            "summary": "婦科玉尺六卷。沈金鼇撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2mtdfz7l",
+        "title": "痧脹源流",
+        "path": "Work/z/7/l/d59f2mtdfz7l-痧脹源流.json",
+        "author": {
+          "name": "沈金鰲",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bnqw"
+        },
+        "indexed_by": [
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《痧脹源流》一卷",
+            "author_info": "清沈金鰲撰",
+            "summary": "《痧脹源流》一卷。清沈金鰲撰。影印陝西省圖書館藏清道光二十一年三省堂刻本。",
+            "edition": "影印陝西省圖書館藏清道光二十一年三省堂刻本",
+            "volume": "第1005冊",
+            "section": "子部 醫家類"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-006",
+    "label": "張璁／張孚敬（三条）",
+    "type": "people",
+    "ids": [
+      "hixhd2h9beno",
+      "hixhd2h9bhrh",
+      "hixi8u5vh9jo"
+    ],
+    "names": [
+      "張璁",
+      "張孚敬",
+      "張孚敬"
+    ],
+    "paths": [
+      "Entity/e/n/o/hixhd2h9beno-張璁.json",
+      "Entity/h/r/h/hixhd2h9bhrh-張孚敬.json",
+      "Entity/9/j/o/hixi8u5vh9jo-張孚敬.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "張璁明确以張孚敬为别名；旧張孚敬条别名璁，字茂恭，双方籍贯永嘉。",
+      "旧張孚敬.cbdb_source 明写“明張璁（孚敬）大礼议名臣”。",
+      "新張孚敬条名下《太師張文忠公文稿》《羅山詩稿》《張文忠公詩稿》，对应张璁号罗山、谥文忠；新条说明列出两旧ID却因匹配规则未并。"
+    ],
+    "recommendation": "人工审核后合并到资料完整条；保留异名与墓碑，改写所有存储侧引用并重建索引。",
+    "work_reference_counts": {
+      "hixhd2h9beno": 8,
+      "hixhd2h9bhrh": 16,
+      "hixi8u5vh9jo": 3
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2nibhu6b",
+        "title": "保和冠服圖說",
+        "path": "Work/u/6/b/d59f2nibhu6b-保和冠服圖說.json",
+        "author": {
+          "name": "張璁",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9beno"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《保和冠服圖》•一卷",
+            "author_info": "明張璁撰",
+            "summary": "明張璁撰。璁有《諭對錄》，已著錄。是書作於嘉靖七年，在璁未更名以前，故仍題原名。先是，世宗命璁制燕弁冠服為燕居所禦，又制忠靜冠服以錫有位。會光澤王請宗室冠服式，命以燕弁為准。定為此圖，而敕璁為之說。前有諭旨及璁序。其冠，親王九衤取。世子八衤取，郡王七衤取。服用青身青緣，前後方龍補。襯用深衣，玉色。帶用青表綠裏綠緣。履用皂綠，結白襪。其鎮國將軍至奉國中尉，左右長史至伴讀，鹹從忠靜冠服，以品官之制服之。其儀賓則不預焉。名曰“保和”，言各得其分則和也。其冠圖為前後左右四面，服圖為前後二面，較“三禮”諸圖繪一面者為詳，可為繪圖之式雲。",
+            "edition": "浙江范懋柱家天一閣藏本"
+          },
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "《保和冠服图说》一卷宗室冠服之制，张璁为注说。",
+            "summary": "《保和冠服圖說》一卷宗室冠服之制，張璁為注說。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nfretqb",
+        "title": "敕諭錄",
+        "path": "Work/t/q/b/d59f2nfretqb-敕諭錄.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9beno"
+        },
+        "indexed_by": [
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "张孚敬《敕谕录》三卷，《谕对录》三十四卷，《大礼要略》二卷，《钦明大狱录》二卷",
+            "summary": "張孚敬《敕諭錄》三卷，《諭對錄》三十四卷，《大禮要略》二卷，《欽明大獄錄》二卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f6ej37toj",
+        "title": "杜律解訓",
+        "path": "Work/t/o/j/d59f6ej37toj-杜律解訓.json",
+        "author": {
+          "name": "張璁",
+          "role": "撰",
+          "entity_id": "hixhd2h9beno"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "張璁杜律解訓",
+            "summary": "張璁杜律解訓"
+          }
+        ]
+      },
+      {
+        "id": "d59f6eg7l1c5",
+        "title": "乘輿武弁服制圖",
+        "path": "Work/1/c/5/d59f6eg7l1c5-乘輿武弁服制圖.json",
+        "author": {
+          "name": "張璁",
+          "role": "圖說",
+          "entity_id": "hixhd2h9beno"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "乗輿武弁服制圗",
+            "author_info": "上又謂璁凡乗輿親征有類造宜禡之祭當具載武弁服令考古制繪圗以進璁為之注説",
+            "summary": "乗輿武弁服制圗⟨上又謂璁凡乗輿親征有類造宜禡之祭當具載武弁服令考古制繪圗以進璁為之注説⟩"
+          }
+        ]
+      },
+      {
+        "id": "d59f6eg7l1c2",
+        "title": "明制保和冠服圖",
+        "path": "Work/1/c/2/d59f6eg7l1c2-明制保和冠服圖.json",
+        "author": {
+          "name": "張璁",
+          "role": "圖說",
+          "entity_id": "hixhd2h9beno"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "明製保和冠服圗",
+            "author_info": "嘉靖七年光澤王奏請冠服之式上命大學士張璁以燕弁為凖參考降級以賜宗室璁為圗説以進",
+            "summary": "明製保和冠服圗⟨嘉靖七年光澤王奏請冠服之式上命大學士張璁以燕弁為凖參考降級以賜宗室璁為圗説以進⟩"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nfyla81",
+        "title": "禮記章句",
+        "path": "Work/a/8/1/d59f2nfyla81-禮記章句.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9beno"
+        },
+        "indexed_by": [
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "张孚敬《礼记章句》八卷",
+            "summary": "張孚敬《禮記章句》八卷"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《禮記章句》八卷",
+            "summary": "《禮記章句》八卷（張孚敬）",
+            "author_info": "張孚敬"
+          },
+          {
+            "source": "經義考",
+            "source_bid": "d59f2mel8d1d",
+            "title_info": "《禮記章句》（張孚敬）",
+            "summary": "八卷\n孚敬自序曰孚敬少時即好讀禮苐觀舊説多所未安思欲釐正之而未暇也𢎞治戊午築羅峰書院於五都瑤溪山中集徒講學始取而章句之正德庚辰中禮部試辛巳上登極試進士時武宗皇帝嗣孝宗皇帝一十六年矣賓天無嗣上以興獻王世子奉太祖髙皇帝兄終弟及之訓入繼大綂朝議以上考孝宗皇帝而稱興獻王為叔父孚敬執禮爭之舉朝洶洶至嘉靖四年始定上鋭志中興以明聖述作為己任如正孔子之祀定郊廟之儀與夫耕蠶冠服之制皆所最先者而左右匡助以責孚敬孔子曰能以禮譲為國乎何有上固天啓之矣孚敬自惟薄劣無以仰副萬一敢不兢兢乎始終勉之期以自效然三千三百變觀適中毫釐有差為害匪細此尋常講義尤不可不求其當也然禮莫大於父子之倫而明王之治天下必本於孝孚敬既以是賛聖天子正大光明之治則疇昔之所好而致力者似不為欺世之空文而或者可以對揚於名教霍宗伯韜謂孚敬可以禮記章句獻孚敬有所不敢仍自念平生精力悉在於是胡可使之冺滅也嵗乙未以疾乞歸未幾朝使復促因付児遜業軰挍梓藏於勅建寳綸樓中以質諸博古君子陸元輔曰孚敬初名聰永嘉人中正德辛巳進士首上書言大禮當世宗意累官少師兼太子太師吏部尚書兼華盖殿大學士恩遇罕比卒贈太師謚文忠其書雖存人以言禮逢君薄之無瀏覧者",
+            "section": "禮記",
+            "juan": "卷一百四十四",
+            "page": "KR2n0011_WYG_144-10b",
+            "attested_status": "extant",
+            "attested_status_raw": "存",
+            "attested_status_note": "此是朱彝尊所判，非本庫之判，故不改本記錄之 loss_status。四庫御製題論此書曰「所注闕佚未見者，今四庫所録往往其書尚存」——其判是十七世紀一人之見聞。「未見」尤非亡佚，是朱氏未見其書。"
+          }
+        ]
+      },
+      {
+        "id": "d59f6ehy0hzb",
+        "title": "張文忠公奏議",
+        "path": "Work/h/z/b/d59f6ehy0hzb-張文忠公奏議.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "entity_id": "hixhd2h9bhrh"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "張孚敬張文忠公奏議",
+            "summary": "張孚敬張文忠公奏議"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ngystmo",
+        "title": "溫州府志",
+        "path": "Work/t/m/o/d59f2ngystmo-溫州府志.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "entity_id": "hixhd2h9bhrh",
+          "dynasty": "明",
+          "dynasty_basis": "entity_propagation:1j969m70q2eqa（J21 S5 收尾）"
+        },
+        "indexed_by": [
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《溫州府志》八卷",
+            "summary": "《溫州府志》八卷（張孚敬）",
+            "author_info": "張孚敬"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "[嘉靖]溫州府志八卷",
+            "author_info": "明張孚敬纂修",
+            "section": "史部/方志類/地志之屬",
+            "summary": "共 1 個版本：明嘉靖十六年刻本（天一閣文物保管所）"
+          }
+        ]
+      },
+      {
+        "id": "d59f6eqy0ttt",
+        "title": "張文忠公詩集",
+        "path": "Work/t/t/t/d59f6eqy0ttt-張文忠公詩集.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "entity_id": "hixhd2h9bhrh"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "張孚敬張文忠公詩集",
+            "author_info": "初名璁字秉用永嘉人少師兼太子太師吏部尚書華蓋殿大學士贈太師諡文忠",
+            "summary": "張孚敬張文忠公詩集⟨初名璁字秉用永嘉人少師兼太子太師吏部尚書華蓋殿大學士贈太師諡文忠⟩"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndrm8zl",
+        "title": "大獄錄",
+        "path": "Work/8/z/l/d59f2ndrm8zl-大獄錄.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bhrh"
+        },
+        "indexed_by": [
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《大獄錄》二卷",
+            "summary": "《大獄錄》二卷（張孚敬）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ncz7nr6",
+        "title": "金縢辨疑",
+        "path": "Work/n/r/6/d59f2ncz7nr6-金縢辨疑.json",
+        "author": {
+          "name": "張孚敬",
+          "entity_id": "hixhd2h9bhrh",
+          "name_basis": "2026-08-24 補繫 entity：本條 authors 舊有名「張孚敬」而無 entity_id，今繫 `1j969m70q2eqa`——庫中 primary_name 同之者唯一。其代「明」與本書已定之代「ming」相合。",
+          "dynasty": "明",
+          "dynasty_basis": "entity_propagation:1j969m70q2eqa（J21 S5 收尾）",
+          "role": "撰"
+        },
+        "indexed_by": [
+          {
+            "source": "經義考",
+            "source_bid": "d59f2mel8d1d",
+            "title_info": "《金縢辨疑》（張孚敬）",
+            "summary": "一卷",
+            "section": "書",
+            "juan": "卷九十七",
+            "page": "KR2n0011_WYG_097-19b",
+            "attested_status": "not_seen",
+            "attested_status_raw": "未見",
+            "attested_status_note": "此是朱彝尊所判，非本庫之判，故不改本記錄之 loss_status。四庫御製題論此書曰「所注闕佚未見者，今四庫所録往往其書尚存」——其判是十七世紀一人之見聞。「未見」尤非亡佚，是朱氏未見其書。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nh6ai9u",
+        "title": "張文忠集",
+        "path": "Work/i/9/u/d59f2nh6ai9u-張文忠集.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bhrh"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《張文忠集》•十九卷",
+            "author_info": "明張孚敬撰",
+            "summary": "明張孚敬撰。孚敬有《諭對錄》，已著錄。是集凡《奏疏》八卷，《詩稿》四卷，《續稿》一卷、《文稿》六卷。孚敬以議禮得君，故其著述，強半皆考禮之詞，不惟議興獻王禮，而且議郊祀禮，議孔廟禮；不惟撰《明倫大典》，而且撰《禮記章句》，自謂有明一主持禮教之人。其間所論，未必百無一當，然穿鑿附會，以遷就時局者，比比然也。",
+            "edition": "浙江巡撫采進本"
+          }
+        ]
+      },
+      {
+        "id": "d59fxxdkq6tc",
+        "title": "太師張文忠公文稿",
+        "path": "Work/6/t/c/d59fxxdkq6tc-太師張文忠公文稿.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "entity_id": "hixi8u5vh9jo",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/3pzsjn1oe502cq34"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "太師張文忠公文稿六卷",
+            "author_info": "明張孚敬撰",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 1 個版本：太師張文忠公集本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsfwt0glc",
+        "title": "羅山詩稿",
+        "path": "Work/g/l/c/d59fsfwt0glc-羅山詩稿.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "entity_id": "hixi8u5vh9jo",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/3pzsjn1oe502cq34"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "羅山詩稿三卷",
+            "author_info": "明張孚敬撰",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 1 個版本：明刻本（清華大學圖書館、中山大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxxehtce8",
+        "title": "張文忠公詩稿",
+        "path": "Work/c/e/8/d59fxxehtce8-張文忠公詩稿.json",
+        "author": {
+          "name": "張孚敬",
+          "role": "撰",
+          "entity_id": "hixi8u5vh9jo",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/3pzsjn1oe502cq34"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "張文忠公詩稿四卷續一卷",
+            "author_info": "明張孚敬撰",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 2 個版本：明萬曆間刻本（日本尊經閣文庫）；太師張文忠公集本（馆藏未载）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-007",
+    "label": "清世宗／愛新覺羅·胤禛",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bhwk",
+      "hixi8u663bwr"
+    ],
+    "names": [
+      "清世宗",
+      "愛新覺羅·胤禛"
+    ],
+    "paths": [
+      "Entity/h/w/k/hixhd2h9bhwk-清世宗.json",
+      "Entity/b/w/r/hixi8u663bwr-愛新覺羅胤禛.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "清世宗条说明雍正，别名胤禛、雍正、愛新覺羅胤禛；10/14已经合并不带间隔点的同名条。",
+      "10/19又建立帶間隔點的新条，名下含《聖諭廣訓》《御製朋黨論》；清世宗条已有《朋黨論》。"
+    ],
+    "recommendation": "保留清世宗，合并新重复；匹配阶段规范间隔点并查询既有别名及墓碑重定向。",
+    "work_reference_counts": {
+      "hixhd2h9bhwk": 18,
+      "hixi8u663bwr": 7
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2mybohdt",
+        "title": "大義覺迷錄",
+        "path": "Work/h/d/t/d59f2mybohdt-大義覺迷錄.json",
+        "author": {
+          "name": "世宗",
+          "role": "敕撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhwk"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "大義覺迷錄四卷",
+            "author_info": "清世宗胤禛撰",
+            "section": "史部/詔令奏議類/詔令之屬",
+            "summary": "共 3 個版本：清雍正間刻本（上海圖書館）；清抄本（中山大學圖書館）；清雍正間内府刻本（北京師範大學圖書館、故宮博物院圖書館、四川省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2my2xu6a",
+        "title": "御製繙譯孝經",
+        "path": "Work/u/6/a/d59f2my2xu6a-御製繙譯孝經.json",
+        "author": {
+          "name": "世宗",
+          "role": "敕譯",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhwk"
+        },
+        "indexed_by": []
+      },
+      {
+        "id": "d59f2n7zeuio",
+        "title": "聖祖仁皇帝聖訓",
+        "path": "Work/u/i/o/d59f2n7zeuio-聖祖仁皇帝聖訓.json",
+        "author": {
+          "name": "世宗",
+          "role": "敕編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhwk",
+          "name_basis": "2026-08-24 帝號廟號歸人：著錄作「世宗」，非姓名而是廟號（或帝號、后號）。以本書之撰人朝代定其朝，故繫 `1j96afeohehhc`（「清世宗」）。\n\n按庫中帝王之例：宋明以前用本名（趙佶、朱元璋、曹丕、蕭衍），清代用廟號（清高宗、清聖祖），本條從之。"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《聖祖仁皇帝聖訓》•六十卷",
+            "summary": "雍正九年世宗憲皇帝恭編。乾隆六年皇上禦制序文刊佈。凡三十二類，總一千九百餘則。篇帙視列聖為富。蓋我聖祖仁皇帝道符帝縡，命自天申。景祚延洪，卜年久遠。六甲五子，首末迴圈，與天運相終始。故神功聖德，史不勝書。實錄數盈千卷，而貽留大訓，亦紀載獨繁。伏考《周易》有曰：日月得天而能久照，四時變化而能久成，聖人久于其道而天下化成。寶祚綿長，故彝訓最為詳備。此誠帝王之盛軌也。然其故有不止於此者。昔虞舜鳴韶，鳳儀獸舞，而皋陶颺拜，猶期以慎憲省成，慮其始勤而終惰也。使歷年久遠而暇豫之念或萌，則怠氣所乘，又安能於天下之事一一為之衡量，於在廷之臣一一為之啟導。今跽讀聖謨所為保泰而持盈，謹小而慎微者，六十一年殆如一日。然則聖訓之獨多，固在享國之永，亦在蒞政之勤矣。周公告誡成王，曆舉太戊、武丁、祖甲、文王之壽考而歸本於無逸。聖人之心，固異世而同符也。",
+            "note": "同題二條而一方無撰人：彼條（欽定四庫全書總目、清史稿藝文志，60卷，不著撰人）與本條（，60卷，世宗撰）題名全同、卷數全同，且著錄異源，全庫同題僅此二條——裸條無他家可繫，判為同書。"
+          },
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "聖祖仁皇帝聖訓",
+            "summary": "聖祖仁皇帝聖訓六十卷。雍正九年敕編。",
+            "note": "同題二條而一方無撰人：彼條（欽定四庫全書總目、清史稿藝文志，60卷，不著撰人）與本條（，60卷，世宗撰）題名全同、卷數全同，且著錄異源，全庫同題僅此二條——裸條無他家可繫，判為同書。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2myijpc0",
+        "title": "憲廟硃批諭旨",
+        "path": "Work/p/c/0/d59f2myijpc0-憲廟硃批諭旨.json",
+        "author": {
+          "name": "清世宗",
+          "role": "敕編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhwk"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2n4rx1j5",
+        "title": "御錄經海一滴",
+        "path": "Work/1/j/5/d59f2n4rx1j5-御錄經海一滴.json",
+        "author": {
+          "name": "清 世宗",
+          "role": "輯",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhwk",
+          "name_basis": "2026-08-24 新建 entity `1jcf51512975i` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2ncnnrb4",
+        "title": "庭訓格言",
+        "path": "Work/r/b/4/d59f2ncnnrb4-庭訓格言.json",
+        "author": {
+          "name": "世宗",
+          "role": "編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bhwk"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "庭訓格言",
+            "summary": "庭訓格言不分卷。世宗御編。"
+          }
+        ]
+      },
+      {
+        "id": "d59fxt3e4hkx",
+        "title": "曆象考成推步法",
+        "path": "Work/h/k/x/d59fxt3e4hkx-曆象考成推步法.json",
+        "author": {
+          "name": "愛新覺羅·胤禛",
+          "role": "撰",
+          "entity_id": "hixi8u663bwr",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/5433i1hcy4xesbnx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "曆象考成推步法一卷",
+            "author_info": "清雍正三年敕撰",
+            "section": "子部/天文算法類/推步之屬/曆法",
+            "summary": "共 1 個版本：清抄本（上海圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fy3oohy4h",
+        "title": "悅心集",
+        "path": "Work/y/4/h/d59fy3oohy4h-悅心集.json",
+        "author": {
+          "name": "愛新覺羅·胤禛",
+          "role": "輯",
+          "entity_id": "hixi8u663bwr",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/5433i1hcy4xesbnx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "悅心集四卷",
+            "author_info": "清世宗胤禛輯",
+            "section": "叢書部/雜纂類/清代前期",
+            "summary": "共 1 個版本：殿本、福建本、廣東本（四川省圖書館、中國科學院圖書館、山東省圖書館、天津圖書館、武漢大學圖書館、上海圖書館、南京圖書館）"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "悅心集五卷",
+            "author_info": "清世宗胤禛輯",
+            "section": "子部/雜家類/雜考之屬",
+            "summary": "共 3 個版本：清刻本（國家圖書館、首都圖書館、遼寧省圖書館、上海圖書館）；清末鉛印本（國家圖書館、上海圖書館）；武英殿聚珍版書本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxu2sb6yo",
+        "title": "三合聖諭廣訓",
+        "path": "Work/6/y/o/d59fxu2sb6yo-三合聖諭廣訓.json",
+        "author": {
+          "name": "愛新覺羅·胤禛",
+          "role": "撰",
+          "entity_id": "hixi8u663bwr",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/5433i1hcy4xesbnx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "三合聖諭廣訓（滿蒙漢合璧）不分卷",
+            "author_info": "清世宗胤禛撰",
+            "section": "子部/儒家類/禮教之屬/俗訓",
+            "summary": "共 1 個版本：清同治十三年刻本（東北師範大學圖書館、吉林省社會科學院圖書館、遼寧省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fy076h69u",
+        "title": "御製朋黨論",
+        "path": "Work/6/9/u/d59fy076h69u-御製朋黨論.json",
+        "author": {
+          "name": "愛新覺羅·胤禛",
+          "role": "撰",
+          "entity_id": "hixi8u663bwr",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/5433i1hcy4xesbnx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "御製朋黨論一卷",
+            "author_info": "清世宗胤禛撰",
+            "section": "子部/儒家類/禮教之屬/鑒戒",
+            "summary": "共 1 個版本：清雍正三年内府刻本（遼寧省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fy9xazqps",
+        "title": "聖諭廣訓",
+        "path": "Work/q/p/s/d59fy9xazqps-聖諭廣訓.json",
+        "author": {
+          "name": "愛新覺羅·胤禛",
+          "role": "撰",
+          "entity_id": "hixi8u663bwr",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/5433i1hcy4xesbnx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "聖諭廣訓一卷",
+            "author_info": "清世宗胤禛撰",
+            "section": "叢書部/獨撰類/清代前期",
+            "summary": "共 1 個版本：（福建師範大學圖書館、國家圖書館、中國科學院圖書館）"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "聖諭廣訓二卷",
+            "author_info": "清世宗胤禛撰;清□□直解",
+            "section": "子部/儒家類/禮教之屬/俗訓",
+            "summary": "共 25 個版本：清湖北官署刻本（國家圖書館）；清刻本（南京圖書館、國家圖書館、北京大學圖書館）；清光緒三年松竹齋刻本（南京圖書館）；清道光間戴熙寫刻本（南京圖書館）；清抄本（上海圖書館）；清光緒二年安徽刻本（南京圖書館）；清道光二十五年許蕙抄本（遼寧省圖書館）；清知足齋刻本（吉林省圖書館）；清道光十九年刻本（上海圖書館）；清光緒三十二年京都刻本（國家圖書館）；清嘉慶五年廣仁堂刻本（國家圖書館）；詩禮堂全集本（馆藏未载）；清光緒十八年鄞縣楊炳灼刻本（南京圖書館）；清光緒二十九年廣州廣雅書局刻本（馆藏未载）；清光緒十五年檢古齋石印本（上海圖書館）；清光緒十六年聚珍堂刻本（上海圖書館）；清三槐堂刻本（吉林大學圖書館、國家圖書館）；四庫全書本（遼寧省圖書館、吉林省社會科學院圖書館、瀋陽市圖書館）；清雍正二年内府刻本（國家圖書館）；津河廣仁堂所刻書本（馆藏未载）；四庫全書薈要本（上海圖書館）；清乾隆三十八年泉州府刻本（齊齊哈爾市圖書館）；清宣統二年石印本（國家圖書館）；清光緒六年京都琉璃廠刻本（國家圖書館）；清光緒十六年京都聚珍堂刻本（東北師範大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxt36bdvk",
+        "title": "御製圓明園詩",
+        "path": "Work/d/v/k/d59fxt36bdvk-御製圓明園詩.json",
+        "author": {
+          "name": "愛新覺羅·胤禛",
+          "role": "撰",
+          "entity_id": "hixi8u663bwr",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/5433i1hcy4xesbnx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "御製圓明園詩二卷",
+            "author_info": "清世宗胤禛撰;清鄂爾泰、清張廷玉等注",
+            "section": "集部/別集類/清代之屬/清前期",
+            "summary": "共 2 個版本：清乾隆間武英殿刻套印本（國家圖書館、中國社會科學院歷史研究所、故宮博物院圖書館）；清光緒十三年天津石印書屋石印本（國家圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-008",
+    "label": "豐坊／豐道生",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bdtx",
+      "hixhd2h9bi4i"
+    ],
+    "names": [
+      "豐坊",
+      "豐道生"
+    ],
+    "paths": [
+      "Entity/d/t/x/hixhd2h9bdtx-豐坊.json",
+      "Entity/i/4/i/hixhd2h9bi4i-豐道生.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条同明代、籍贯鄞縣、字人翁、号南禺外史；互通别名。",
+      "《金石遺文》四库著录原文明确：“道生即豐坊所更名也。所著《古易世學》，已著錄。”"
+    ],
+    "recommendation": "先并人物，再审查受人名分裂影响的Work；身份已获著录直接证明。",
+    "work_reference_counts": {
+      "hixhd2h9bdtx": 12,
+      "hixhd2h9bi4i": 1
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2nkzmxog",
+        "title": "古易世學",
+        "path": "Work/x/o/g/d59f2nkzmxog-古易世學.json",
+        "author": {
+          "name": "豐坊",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bdtx"
+        },
+        "indexed_by": [
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "古易世學十五卷",
+            "summary": "丰坊《古易世学》十五卷坊云家有《古易》，传自远祖丰稷。又有《古书世学》六卷，言得朝鲜、倭国二本，合于今文。古文《石经》、古本《鲁诗世学》三十六卷，亦言丰稷所传。钱谦益谓皆坊伪撰也。"
+          },
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《古易世學》•十七卷",
+            "author_info": "明豐坊撰",
+            "summary": "明豐坊撰。坊字存禮，鄞縣人。嘉靖癸未進士。除禮部主事。免官家居，坐法竄吳中，改名道生。事蹟附見《明史•豐熙傳》。坊平生喜作偽書，於諸經皆竄亂篇第，別為訓詁，詭言古本以欺世。此其一也。書中《正音》、《略說》、《傳義》托之於遠祖稷、曾祖慶、父熙而己自為考補。其實皆坊一手所作，當代已灼知其妄。惟《石經大學》、《子貢詩傳》、《申培詩說》三書，以篆籀寫之，一時頗為所惑，久之乃能辨定。詳具各本條下，茲不具論雲。",
+            "edition": "兩淮鹽政采進本"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《古易世學》十五卷",
+            "summary": "《古易世學》十五卷（豐坊。）",
+            "author_info": "豐坊。"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《古易世學》十七卷",
+            "author_info": "明豐坊撰",
+            "summary": "《古易世學》十七卷。明豐坊撰。上海圖書館藏明鈔本。",
+            "edition": "上海圖書館藏明鈔本",
+            "volume": "第5冊",
+            "section": "经部"
+          },
+          {
+            "source": "經義考",
+            "source_bid": "d59f2mel8d1d",
+            "title_info": "《古易世學》（豐坊）",
+            "summary": "十五卷",
+            "section": "易",
+            "juan": "卷五十四",
+            "page": "KR2n0011_WYG_054-7b",
+            "attested_status": "extant",
+            "attested_status_raw": "存",
+            "attested_status_note": "此是朱彝尊所判，非本庫之判，故不改本記錄之 loss_status。四庫御製題論此書曰「所注闕佚未見者，今四庫所録往往其書尚存」——其判是十七世紀一人之見聞。「未見」尤非亡佚，是朱氏未見其書。"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "古易世學十七卷",
+            "author_info": "明豐坊撰",
+            "section": "經部/易類/傳說之屬",
+            "summary": "共 3 個版本：抄本（南京圖書館）；明范氏天一閣抄本（浙江圖書館）；明抄本（上海圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nim3wn5",
+        "title": "金石遺文",
+        "path": "Work/w/n/5/d59f2nim3wn5-金石遺文.json",
+        "author": {
+          "name": "豐道生",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bi4i"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《金石遺文》•五卷",
+            "author_info": "明豐道生撰",
+            "summary": "明豐道生撰。道生即豐坊所更名也。所著《古易世學》，已著錄。坊頗能篆籀書，其諸經偽本多以古文書之，至今為世所詬厲。此書雜采奇字，分韻編次。但以真書一字，直音於下，無所考證，亦不注所出，體例略近李登《摭古遺文》。雖未必全出依託，然以道生好撰偽書，凡所論撰，遂無不可疑，故世無遵而用之者。此本又傳寫失真，益不足據矣。",
+            "edition": "兩淮鹽政采進本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《金石遺文》五卷",
+            "author_info": "明豐道生撰",
+            "summary": "《金石遺文》五卷。明豐道生撰。湖南圖書館藏清鈔本。",
+            "edition": "湖南圖書館藏清鈔本",
+            "volume": "第189冊",
+            "section": "经部"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "金石遺文五卷",
+            "author_info": "明豐道生撰",
+            "section": "集部/別集類/總志之屬",
+            "summary": "共 1 個版本：清抄本（湖南省圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-009",
+    "label": "吳儆／吳偁",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bfek",
+      "hixhd2h9bino"
+    ],
+    "names": [
+      "吳儆",
+      "吳偁"
+    ],
+    "paths": [
+      "Entity/f/e/k/hixhd2h9bfek-吳儆.json",
+      "Entity/i/n/o/hixhd2h9bino-吳偁.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "吳儆.alt_names 明列吳偁；两条皆南宋、籍贯休宁。",
+      "吴偁的floruit=1127与吴儆birth=1127同年，日期字段语义不应机械传递。",
+      "吴偁无当前Work作者引用；吴儆系竹洲集系统9条。"
+    ],
+    "recommendation": "可并空余姓名条，保留异名；不要把floruit=1127机械作为活动年传播。",
+    "work_reference_counts": {
+      "hixhd2h9bfek": 9,
+      "hixhd2h9bino": 0
+    },
+    "work_evidence": [
+      {
+        "id": "d59fxqobuh34",
+        "title": "竹洲詩文集",
+        "path": "Work/h/3/4/d59fxqobuh34-竹洲詩文集.json",
+        "author": {
+          "name": "吳儆",
+          "role": "撰",
+          "entity_id": "hixhd2h9bfek",
+          "dynasty": "宋",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/eh7u8plaqejyo4w0"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "竹洲詩文集一卷友梅堂詩卷一卷",
+            "author_info": "宋吳儆、明程叔春等撰;（友梅堂詩卷）明吳儀中輯",
+            "section": "集部/總集類/通代之屬",
+            "summary": "共 2 個版本：明抄本（國家圖書館）；明抄本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59frydnskcj",
+        "title": "竹洲詞",
+        "path": "Work/k/c/j/d59frydnskcj-竹洲詞.json",
+        "author": {
+          "name": "吳儆",
+          "role": "撰",
+          "dynasty": "南宋",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/eh7u8plaqejyo4w0"
+          },
+          "entity_id": "hixhd2h9bfek",
+          "dynasty_basis": "author_propagation:作者 Entity 朝代「南宋」"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "竹洲詞一卷",
+            "author_info": "宋吳儆撰",
+            "section": "集部/詞類/別集之屬",
+            "summary": "共 16 個版本：百家詞本（馆藏未载）；（湖南省圖書館、中國科學院圖書館、上海圖書館、南京圖書館、國家圖書館、北京大學圖書館、福建省圖書館）；（國家圖書館）；（南京圖書館）；汲古閣未刻詞本（馆藏未载）；宋元名家詞本（馆藏未载）；粟香室叢書本（馆藏未载）；宋元名家詞十五種本（馆藏未载）；（天津圖書館、上海圖書館、遼寧省圖書館、南京圖書館、國家圖書館）；（上海圖書館）；（北京大學圖書館）；宋名賢七家詞本（馆藏未载）；南詞本（馆藏未载）；（天津圖書館）；（國家圖書館）；十名家詞集本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2hpajuv5",
+        "title": "竹洲文集",
+        "path": "Work/u/v/5/d59f2hpajuv5-竹洲文集.json",
+        "author": {
+          "name": "吳儆",
+          "role": "撰",
+          "dynasty": "南宋",
+          "entity_id": "hixhd2h9bfek",
+          "dynasty_basis": "entity_propagation:1j967bgl8kqx2"
+        },
+        "indexed_by": [
+          {
+            "source": "宋史藝文志補",
+            "source_bid": "d59f2mp38qv4",
+            "title_info": "竹洲文集二十卷",
+            "summary": "竹洲文集二十卷\n吳儆撰。"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "竹洲文集二十卷附錄一卷",
+            "author_info": "宋吳儆撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 5 個版本：明弘治六年吳雷亨刻藍印本（國家圖書館）；明弘治間刻本（天津圖書館）；明弘治六年吳雷亨刻本（國家圖書館、上海圖書館）；清抄本（南京圖書館）；明吳繼良刻本（北京大學圖書館、國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2hqv1t6o",
+        "title": "竹洲集",
+        "path": "Work/t/6/o/d59f2hqv1t6o-竹洲集.json",
+        "author": {
+          "name": "吳儆",
+          "role": "撰",
+          "dynasty": "南宋",
+          "entity_id": "hixhd2h9bfek",
+          "dynasty_basis": "entity_propagation:1j967bgl8kqx2"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《竹洲集》•二十卷、附《棣華雜著》•一卷",
+            "author_info": "宋吳儆撰",
+            "summary": "宋吳儆撰。儆字益恭。初名偁，避秀邸諱，改名。休寧人。紹興二十七年第進士。歷朝散郎、廣南西路安撫使，主管台州崇道觀。卒諡文肅。其集《宋史•藝文志》、《書錄解題》、《文獻通考》皆不著錄。集首有端平乙未敷文閣學士程珌序，稱其文峭直而紆餘，嚴潔而平澹，質而非俚，華而不雕。今觀其詩文，皆意境劖削，於陳師道為近。雖深厚不逮而模範略同，蓋以元祐諸人為法者。其《上蔣樞密書》，論戰和守之俱非。《與汪楚材書》，論伊川之徒皆有卓識。其《芻言》中《豪民黠吏》一條，與《論邕州以互市劫制化外》一條，亦具有吏才。非但以文章重也。",
+            "edition": "安徽巡撫采進本"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "竹洲集二十卷附棣華雜著一卷",
+            "author_info": "宋吳儆撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 1 個版本：四庫全書本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2hpf8f0i",
+        "title": "吳文肅公文集",
+        "path": "Work/f/0/i/d59f2hpf8f0i-吳文肅公文集.json",
+        "author": {
+          "name": "吳儆",
+          "role": "撰",
+          "dynasty": "南宋",
+          "entity_id": "hixhd2h9bfek",
+          "dynasty_basis": "entity_propagation:1j967bgl8kqx2"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "吳文肅公文集二十卷棣華雜著一卷附錄一卷",
+            "author_info": "宋吳儆撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 4 個版本：明萬曆十四年吳氏刻本（北京大學圖書館）；明萬曆七年吳瀛刻本（國家圖書館、上海圖書館、南京圖書館）；明萬曆七年吳瀛刻崇禎十七年重修本（中國社會科學院文學研究所）；明萬曆七年吳瀛刻三十二年吳繼京印本（上海圖書館、浙江圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxqnb0gzk",
+        "title": "竹洲集補鈔",
+        "path": "Work/g/z/k/d59fxqnb0gzk-竹洲集補鈔.json",
+        "author": {
+          "name": "吳儆",
+          "role": "撰",
+          "entity_id": "hixhd2h9bfek",
+          "dynasty": "宋",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/eh7u8plaqejyo4w0"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "竹洲集補鈔一卷",
+            "author_info": "宋吳儆撰",
+            "section": "集部/總集類/叢編之屬/分體",
+            "summary": "共 1 個版本：（遼寧省圖書館、上海圖書館、南京圖書館、國家圖書館）"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "竹洲集補鈔一卷",
+            "author_info": "宋吳儆撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 1 個版本：宋詩鈔補本（馆藏未载）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-010",
+    "label": "華蘅芳／華衡芳",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bd57",
+      "hixi8us1bued"
+    ],
+    "names": [
+      "華蘅芳",
+      "華衡芳"
+    ],
+    "paths": [
+      "Entity/d/5/7/hixhd2h9bd57-華蘅芳.json",
+      "Entity/u/e/d/hixi8us1bued-華衡芳.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条同清代，description.sources 共享上图person URI s0jphhsf33c5x287。",
+      "蘅芳条系《金匱華氏行素軒算學全書》及算学系列；衡芳条系《行素軒算稿九種》《華氏中西算學全書》《代數術補式》，责任领域与行素轩名号对应。"
+    ],
+    "recommendation": "保留華蘅芳为规范条，保留華衡芳著录异形；不要自动改原始author_info。",
+    "work_reference_counts": {
+      "hixhd2h9bd57": 14,
+      "hixi8us1bued": 4
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2njufhmp",
+        "title": "西算初堦",
+        "path": "Work/h/m/p/d59f2njufhmp-西算初堦.json",
+        "author": {
+          "name": "華蘅芳",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bd57"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "西算初堦",
+            "summary": "西算初堦一卷，算法須知一卷，開方別術一卷，數根術解一卷，開方古義一卷，積較術三卷，算草叢存四卷，學算筆談六卷。華蘅芳撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59fsfcxvs3r",
+        "title": "行素軒詩存",
+        "path": "Work/s/3/r/d59fsfcxvs3r-行素軒詩存.json",
+        "author": {
+          "name": "華蘅芳",
+          "role": "撰",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/owhcte8ityg3cdsv"
+          },
+          "entity_id": "hixhd2h9bd57"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "行素軒詩存一卷文存一卷",
+            "author_info": "清華蘅芳撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：清光緒間刻本（國家圖書館、南京圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2njv1yps",
+        "title": "數根術解",
+        "path": "Work/y/p/s/d59f2njv1yps-數根術解.json",
+        "author": {
+          "name": "華蘅芳",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bd57"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "數根術解",
+            "summary": "西算初堦一卷，算法須知一卷，開方別術一卷，數根術解一卷，開方古義一卷，積較術三卷，算草叢存四卷，學算筆談六卷。華蘅芳撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2njv1ypt",
+        "title": "開方古義",
+        "path": "Work/y/p/t/d59f2njv1ypt-開方古義.json",
+        "author": {
+          "name": "華蘅芳",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bd57"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "開方古義",
+            "summary": "西算初堦一卷，算法須知一卷，開方別術一卷，數根術解一卷，開方古義一卷，積較術三卷，算草叢存四卷，學算筆談六卷。華蘅芳撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59fxrv4x91e",
+        "title": "垛積演較",
+        "path": "Work/9/1/e/d59fxrv4x91e-垛積演較.json",
+        "author": {
+          "name": "華蘅芳",
+          "role": "撰",
+          "entity_id": "hixhd2h9bd57",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/owhcte8ityg3cdsv"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "垛積演較",
+            "author_info": "清華蘅芳撰",
+            "section": "子部/天文算法類/算書之屬/合編",
+            "summary": "共 1 個版本：（南京圖書館、國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2njvofsw",
+        "title": "學算筆談",
+        "path": "Work/f/s/w/d59f2njvofsw-學算筆談.json",
+        "author": {
+          "name": "華蘅芳",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bd57"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "學算筆談",
+            "summary": "西算初堦一卷，算法須知一卷，開方別術一卷，數根術解一卷，開方古義一卷，積較術三卷，算草叢存四卷，學算筆談六卷。華蘅芳撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59fxszw0m4i",
+        "title": "代數術補式",
+        "path": "Work/m/4/i/d59fxszw0m4i-代數術補式.json",
+        "author": {
+          "name": "華衡芳",
+          "role": "譯",
+          "entity_id": "hixi8us1bued",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/s0jphhsf33c5x287"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "代數術補式二十六卷首一卷",
+            "author_info": "英國華里司輯;英國傅蘭雅、清華衡芳譯;清解崇輝補式",
+            "section": "子部/新學類/算學之屬/代數",
+            "summary": "共 1 個版本：清光緒二十六年上海順成書局石印本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxszw0m4g",
+        "title": "代數菁華錄",
+        "path": "Work/m/4/g/d59fxszw0m4g-代數菁華錄.json",
+        "author": {
+          "name": "華衡芳",
+          "role": "譯",
+          "entity_id": "hixi8us1bued",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/s0jphhsf33c5x287"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "代數菁華錄十六卷",
+            "author_info": "英國傅蘭雅、清華衡芳譯",
+            "section": "子部/新學類/算學之屬/代數",
+            "summary": "共 1 個版本：清末石印本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxxhjdt6p",
+        "title": "華氏中西算學全書",
+        "path": "Work/t/6/p/d59fxxhjdt6p-華氏中西算學全書.json",
+        "author": {
+          "name": "華衡芳",
+          "role": "撰",
+          "entity_id": "hixi8us1bued",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/s0jphhsf33c5x287"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "華氏中西算學全書不分卷",
+            "author_info": "清華衡芳撰",
+            "section": "子部/新學類/算學之屬/數學",
+            "summary": "共 1 個版本：清光緒二十三年慎記書莊石印本（吉林大學圖書館、天津圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxwl2pbeo",
+        "title": "行素軒算稿九種",
+        "path": "Work/b/e/o/d59fxwl2pbeo-行素軒算稿九種.json",
+        "author": {
+          "name": "華衡芳",
+          "role": "撰",
+          "entity_id": "hixi8us1bued",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/s0jphhsf33c5x287"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "行素軒算稿九種",
+            "author_info": "清華衡芳撰",
+            "section": "子部/天文算法類/算書之屬/合編",
+            "summary": "共 8 個版本：清光緒八年梁溪華氏刻本（遼寧省圖書館、吉林省圖書館、國家圖書館、復旦大學圖書館、上海圖書館、哈爾濱師範大學圖書館）；清光緒十九年武昌刻本（上海圖書館、南京圖書館）；清光緒二十二年上海文瑞樓石印本（國家圖書館、上海圖書館、哈爾濱師範大學圖書館、瀋陽市圖書館）；清光緒間刻朱印本（國家圖書館）；清末石印本（瀋陽市圖書館）；清光緒二十八年算學館鉛印本（國家圖書館）；清光緒二十四年浙西璣衡堂石印本（上海圖書館）；清光緒八年石印本（東北師範大學圖書館、吉林市圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-011",
+    "label": "梅瑴成／梅瑴成彙",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bip9",
+      "hixi8us1n2z0"
+    ],
+    "names": [
+      "梅瑴成",
+      "梅瑴成彙"
+    ],
+    "paths": [
+      "Entity/i/p/9/hixhd2h9bip9-梅瑴成.json",
+      "Entity/2/z/0/hixi8us1n2z0-梅瑴成彙.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同朝代并共享person URI kwu385kigm7ahyfa。",
+      "新条两部书《弦切對數表》《對數表》的author_info均作“清何國宗、清梅瑴成彙編”；解析成name=梅瑴成彙、role=編，角色词“彙編”被错误截断。"
+    ],
+    "recommendation": "合并Entity并修两条Work authors为梅瑴成、role彙編或按role规范映射，保留原文author_info；增加姓名尾役词解析回归案例。",
+    "work_reference_counts": {
+      "hixhd2h9bip9": 5,
+      "hixi8us1n2z0": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59fxwkxpips",
+        "title": "弦切對數表",
+        "path": "Work/i/p/s/d59fxwkxpips-弦切對數表.json",
+        "author": {
+          "name": "梅瑴成彙",
+          "role": "編",
+          "entity_id": "hixi8us1n2z0",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/kwu385kigm7ahyfa"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "弦切對數表一卷",
+            "author_info": "清何國宗、清梅瑴成彙編;清賈步緯校述",
+            "section": "子部/天文算法類/算書之屬/算法",
+            "summary": "共 1 個版本：清末鉛印本（上海圖書館、國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fy1gjy0w1",
+        "title": "對數表",
+        "path": "Work/0/w/1/d59fy1gjy0w1-對數表.json",
+        "author": {
+          "name": "梅瑴成彙",
+          "role": "編",
+          "entity_id": "hixi8us1n2z0",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/kwu385kigm7ahyfa"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "對數表四卷",
+            "author_info": "清何國宗、清梅瑴成彙編;清賈步緯校述",
+            "section": "子部/天文算法類/算書之屬/算法",
+            "summary": "共 1 個版本：清光緒三十年江南機器製造總局鉛印本（國家圖書館、東北師範大學圖書館、瀋陽市圖書館、吉林大學圖書館、上海圖書館、黑龍江大學圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-012",
+    "label": "曹伯啟／曹伯啓",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bfig",
+      "hixi8u605tng"
+    ],
+    "names": [
+      "曹伯啟",
+      "曹伯啓"
+    ],
+    "paths": [
+      "Entity/f/i/g/hixhd2h9bfig-曹伯啟.json",
+      "Entity/t/n/g/hixi8u605tng-曹伯啓.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条同元代，啟／啓异体。",
+      "旧条《曹文貞詩集》四库著录十卷後錄一卷，称子曹復亨类次、胡益编；新条《漢泉曹文貞公詩集》同十卷後錄一卷，author_info明确曹伯啓、曹復亨、胡益。"
+    ],
+    "recommendation": "并人物后另审查这两部Work同书异题问题。",
+    "work_reference_counts": {
+      "hixhd2h9bfig": 5,
+      "hixi8u605tng": 1
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2gpfic5d",
+        "title": "曹文貞詩集",
+        "path": "Work/c/5/d/d59f2gpfic5d-曹文貞詩集.json",
+        "author": {
+          "name": "曹伯啟",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bfig"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《曹文貞詩集》•十卷、《後錄》•一卷",
+            "author_info": "元曹伯啟撰",
+            "summary": "元曹伯啟撰。伯啟字士開，碭山人，至元中薦除冀州教授，天曆初官至陝西諸道行台御史中丞，卒諡文貞。是集一名《漢泉漫稿》。後有至元戊寅《吳全節跋》，稱為其子江南諸道御史台管勾複亨所類次，國子生胡益編為十卷，又稱有張夢臣、歐陽原功、蘇伯修、呂仰實四《序》。此本皆不載。《總目》於四《序》之前又列有御史台諮文、太常博士諡議，亦皆有錄無書，蓋傳寫佚之。《後錄》一卷，為曹鑒奉敕所撰碑及像贊、祭文、哀詞、輓章，而目中提調、校刊、謄寫姓名一條，亦未載入，則後人刪之也。伯啟生於宋末元初，而家世江北，不染江湖末派，亦不沿豫章餘波，所作乃多近元祐格。惟五言古詩頗嫌冗遝，其餘皆舂容嫻雅，渢渢乎和平之音。雖不能與虞、楊、范、揭角立爭雄，而直抒胸臆，自諧宮徵，要亦不失為中原雅調矣。",
+            "edition": "江蘇蔣曾瑩家藏本"
+          }
+        ]
+      },
+      {
+        "id": "d59fxzohslj5",
+        "title": "漢泉曹文貞公詩集",
+        "path": "Work/l/j/5/d59fxzohslj5-漢泉曹文貞公詩集.json",
+        "author": {
+          "name": "曹伯啓",
+          "role": "撰",
+          "entity_id": "hixi8u605tng",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "漢泉曹文貞公詩集十卷後錄一卷",
+            "author_info": "元曹伯啓撰;元曹復亨輯;元胡益編",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 5 個版本：清抄本（中山大學圖書館、國家圖書館、南京圖書館、上海圖書館）；明汲古閣抄本（中國科學院圖書館）；四庫全書本（馆藏未载）；明祁氏淡生堂抄本（上海圖書館）；元至元四年曹復亨刻本（南京圖書館、上海圖書館、國家圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-013",
+    "label": "穆修／穆脩",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bfbb",
+      "hixi8u5x1g91"
+    ],
+    "names": [
+      "穆修",
+      "穆脩"
+    ],
+    "paths": [
+      "Entity/f/b/b/hixhd2h9bfbb-穆修.json",
+      "Entity/g/9/1/hixi8u5x1g91-穆脩.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "新穆脩条所系《河南穆先生詩文集》《河南集》，authors用穆脩，但两条indexed_by.author_info均直接写“宋穆修撰”。",
+      "《河南集》著录还写附穆參軍遺事；旧穆修条名下有《穆參軍集》。"
+    ],
+    "recommendation": "并人物后另审Work异题；宋／北宋是粒度差异。",
+    "work_reference_counts": {
+      "hixhd2h9bfbb": 2,
+      "hixi8u5x1g91": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2hu7uneq",
+        "title": "穆參軍集",
+        "path": "Work/n/e/q/d59f2hu7uneq-穆參軍集.json",
+        "author": {
+          "name": "穆修",
+          "role": "撰",
+          "dynasty": "北宋",
+          "entity_id": "hixhd2h9bfbb",
+          "dynasty_basis": "entity_propagation:1j967bgl89icd"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《穆參軍集》•三卷、附錄《遺事》•一卷",
+            "author_info": "宋穆修撰",
+            "summary": "宋穆修撰。修字伯長，鄆州人。蘇舜欽集有修哀文，稱其咸平中舉進士得出身。而集中《上潁州劉侍郎書》稱某以大中祥符中竊進士第。邵伯溫《易學辨惑》亦稱修為祥符二年梁固榜進士。《宋史》本傳又雲，真宗東封，詔舉齊、魯經行之士，修預選，賜進士出身。所述小異，似當以自敍為確也。修初授泰州司理參軍，以伉直為通判秦應所誣構，貶池州。再逢恩，徙潁、蔡二州文學掾。明道元年病卒，宋人皆謂之穆參軍，從其初官也。修受數學於陳摶，《先天圖》之竄入儒家，自修始。其文章則莫考所師承，而歐陽修《論尹洙墓誌書》謂其學古文在洙前。《朱子名臣言行錄》亦稱洙學古文於修，而邵伯溫《辨惑》稱修家有唐本韓柳集，募工鏤版，今《柳宗元集》尚有修後序。蓋天資高邁，沿溯於韓、柳而自得之。宋之古文，實柳開與修為倡。然開之學，及身而止。修則一傳為尹洙，再傳為歐陽修，而宋之文章於斯極盛。則其功亦不鮮矣。據蘇舜欽哀文，稱訪其遺文，惟得《任中正尚書家廟碑》、《靜勝亭記》、《徐生昌墓誌》、《蔡州塔記》四篇，不能成卷。祖無擇集有修集序，稱其遺文於嗣子照得詩五十六，書序記志祭文總二十，次為三卷。其序作於慶曆三年。所刻詩文之數與今本合，蓋此集猶無擇所編之舊也。王得臣《塵史》述史驤之言，譏其作《巨盜》詩以刺丁謂，為有累於道。考邵伯溫《辨惑》載修於丁謂為貧賤交。謂後貴，修乃不與之揖。謂銜之，頗為所軋，修集中《聞報自崖徙雷》一章，即為謂作。則驤所謂累於道者，病其挾私怨耳。然其詩排斥奸邪，尚不致乖於公義，未可深非。又葉適《水心集》譏呂祖謙《宋文鑒》所收修《法相院鐘記》、《靜勝亭記》二篇為腐敗粗澀，亦言之已甚。惟第三卷之首載《亳州魏武帝帳廟記》一篇，稱“曹操建休功，定中土，垂光顯盛大之業於來世”。又稱“惟帝之雄，使天濟其勇，尚延數年之位，豈強吳、庸蜀之不平”！又稱“至今千年下，觀其書，猶震惕耳目，悚動毛髮，使人凜其遺風餘烈”。又稱“高祖於豐、沛，光武於南陽，廟象鹹存，威德弗泯。其次則譙廟也”云云。其獎篡助逆，可謂大乖於名教。至述守臣之言，有“吾臨此州，不能導爾小民心知所奉，是亦吾過”云云。顯然以亂賊導天下，尤為悖理。尹洙《春秋》之學稱受於修，是於《春秋》為何義乎！自南宋以來，無一人能摘其謬，殊不可解。今承睿鑒指示，使綱常大義，順逆昭然，允足立天經而定人紀，豈可使之仍廁簡牘，貽玷汗青！謹刊除此文，以彰袞鉞。其他作則仍錄之，用不沒其古文一脈蓽路藍縷之功。舊本前有劉清之序，佚而不載。今從《龍學集》補錄。《遺事》一卷，不知何人所編，亦附載備考。諸家鈔本或稱《河南穆先生文集》，或稱《穆參軍集》。祖無擇序則稱《河南穆公集》。參差不一。今考《文獻通考》以《穆參軍集》著錄，蓋南宋時通用此名。今從之焉。",
+            "edition": "大學士于敏中家藏本"
+          },
+          {
+            "source": "直齋書錄解題",
+            "source_bid": "d59f2htm01du",
+            "summary": "泰州司法參軍東平穆脩伯長撰。脩，祥符二年經明行修進士。仕不遇，困窮以死。師事陳摶，傳其《易》學，以授李之才，之才傳邵雍。而尹洙兄弟亦從之學古文，且傳其《春秋》學。或曰《太極圖》亦脩所傳於陳摶、種放者。今其遺文傳世者僅如此。門人祖無擇為之序。",
+            "title_info": "《穆參軍集》三卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "穆參軍集一卷",
+            "author_info": "宋穆修撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 21 個版本：宋百家詩存本（馆藏未载）；清東武劉氏味經書抄本（國家圖書館）；清光緒三十一年德化李氏木犀軒抄本（北京大學圖書館）；三宋人集本（國家圖書館）；清道光十五年許瀚抄本（國家圖書館）；清道光間瑞安項氏水仙亭抄本（溫州市圖書館）；清蕭江聲抄本（國家圖書館）；清康熙二十六年譚楊仲抄本（國家圖書館）；清汪氏摛藻堂抄本（國家圖書館）；清抄本（上海圖書館、國家圖書館、天津圖書館、中國社會科學院文學研究所、中國科學院圖書館、北京大學圖書館、南京圖書館、山東大學圖書館）；清初金侃抄本（國家圖書館）；清抄本（國家圖書館）；清張蓉鏡曾吟軒抄本（國家圖書館、上海圖書館）；四庫全書本（馆藏未载）；清倪氏經鉏堂抄本（國家圖書館）；清初錢氏述古堂抄本（上海圖書館）；清藍格抄本（國家圖書館）；清嘉慶十六年穆士榮刻本（上海圖書館）；清梅花簃主人抄本（國家圖書館）；清光緒四年劉履芬抄本（國家圖書館）；明抄本（臺中圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsduf3keb",
+        "title": "河南穆先生詩文集",
+        "path": "Work/k/e/b/d59fsduf3keb-河南穆先生詩文集.json",
+        "author": {
+          "name": "穆脩",
+          "role": "撰",
+          "entity_id": "hixi8u5x1g91",
+          "dynasty": "趙宋",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/arcdi7vnrbgi21j4"
+          },
+          "dynasty_basis": "synonym:period=song"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "河南穆先生詩文集三卷遺事一卷",
+            "author_info": "宋穆修撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 1 個版本：清抄本（南京圖書館、國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxsfrtzb4",
+        "title": "河南集",
+        "path": "Work/z/b/4/d59fxsfrtzb4-河南集.json",
+        "author": {
+          "name": "穆脩",
+          "role": "撰",
+          "entity_id": "hixi8u5x1g91",
+          "dynasty": "宋",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/arcdi7vnrbgi21j4"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "河南集三卷遺事一卷附穆參軍遺事一卷",
+            "author_info": "宋穆修撰",
+            "section": "叢書部/雜纂類/民國以來",
+            "summary": "共 1 個版本：（浙江圖書館、南京圖書館、遼寧省圖書館、上海圖書館、天津圖書館、國家圖書館、復旦大學圖書館、四川省圖書館、湖北省圖書館、北京大學圖書館、中國科學院圖書館）"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "河南集二卷遺事一卷",
+            "author_info": "宋穆修撰",
+            "section": "集部/別集類/宋代之屬",
+            "summary": "共 1 個版本：清抄本（國家圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-014",
+    "label": "桂萼／桂蕚",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bebq",
+      "hixhd2h9biir"
+    ],
+    "names": [
+      "桂萼",
+      "桂蕚"
+    ],
+    "paths": [
+      "Entity/e/b/q/hixhd2h9bebq-桂萼.json",
+      "Entity/i/i/r/hixhd2h9biir-桂蕚.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条皆明代，籍贯安仁，字子實，谥文襄；桂萼.alt_names 明列桂蕚。",
+      "桂蕚名下《禹跡九州圖》著录嘉靖四年吏部桂蕚，与桂萼条明代文襄身份及舆图著作系统相合。"
+    ],
+    "recommendation": "人工审核后合并到资料完整条；保留异名与墓碑，改写所有存储侧引用并重建索引。",
+    "work_reference_counts": {
+      "hixhd2h9bebq": 10,
+      "hixhd2h9biir": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2nicfk02",
+        "title": "桂文襄奏議",
+        "path": "Work/k/0/2/d59f2nicfk02-桂文襄奏議.json",
+        "author": {
+          "name": "桂萼",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bebq"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《桂文襄奏議》•八卷",
+            "author_info": "明桂萼撰",
+            "summary": "明桂萼撰。萼字子實，安仁人，正德辛未進士。嘉靖初以議禮驟貴，官至吏部尚書、武英殿大學士。諡文襄。事蹟具《明史》本傳。是集冠以《大禮疏》。案其初議，但稱興獻帝曰皇考，而別立廟於大內，未及入廟稱宗，如末流之甚。其後何淵希旨，遂請入興獻帝神主於太廟。萼上《請罷非議以全大禮疏》，斥為破壞典章，奸邪陷君云云。則初意亦未甚決裂。厥後希旨固寵，循聲附和，遂以數載之榮華，博千秋之詬厲。凡所建白，均為讀史者所厭觀矣。衡以彰癉之公，此集固在所必斥也。",
+            "edition": "江西巡撫采進本"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《桂文襄奏議》八卷",
+            "summary": "《桂文襄奏議》八卷（桂蕚）",
+            "author_info": "桂蕚"
+          }
+        ]
+      },
+      {
+        "id": "d59f6eq844qr",
+        "title": "明輿地指掌圖",
+        "path": "Work/4/q/r/d59f6eq844qr-明輿地指掌圖.json",
+        "author": {
+          "name": "桂萼",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bebq"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "桂萼明輿地指掌圖一卷",
+            "author_info": "嘉靖六年十二月進呈",
+            "summary": "桂萼明輿地指掌圖一卷⟨嘉靖六年十二月進呈⟩"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndqzs3n",
+        "title": "歷代地理指掌",
+        "path": "Work/s/3/n/d59f2ndqzs3n-歷代地理指掌.json",
+        "author": {
+          "name": "桂萼",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bebq"
+        },
+        "indexed_by": [
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "桂萼《历代地理指掌》四卷，《明舆地指掌图》一卷",
+            "summary": "桂萼《歷代地理指掌》四卷，《明輿地指掌圖》一卷"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《歷代地理指掌》四卷",
+            "summary": "《歷代地理指掌》四卷（桂蕚）",
+            "author_info": "桂蕚"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ni82874",
+        "title": "文襄公奏議",
+        "path": "Work/8/7/4/d59f2ni82874-文襄公奏議.json",
+        "author": {
+          "name": "桂萼",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bebq"
+        },
+        "indexed_by": [
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《文襄公奏議》八卷",
+            "author_info": "明桂萼撰",
+            "summary": "《文襄公奏議》八卷。明桂萼撰。重慶圖書館藏明嘉靖二十三年桂載刻本。",
+            "edition": "重慶圖書館藏明嘉靖二十三年桂載刻本",
+            "volume": "第59冊",
+            "section": "史部"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "文襄公奏議八卷",
+            "author_info": "明桂萼撰",
+            "section": "史部/詔令奏議類/奏議之屬",
+            "summary": "共 3 個版本：清康熙三十三年刻本（國家圖書館）；明嘉靖二十三年桂載刻本（重慶市圖書館）；清乾隆二十七年刻本（上海圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndc0e0z",
+        "title": "文襄集",
+        "path": "Work/e/0/z/d59f2ndc0e0z-文襄集.json",
+        "author": {
+          "name": "桂萼",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bebq"
+        },
+        "indexed_by": [
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《文襄集》",
+            "summary": "桂萼文襄集"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nhfce0x",
+        "title": "經世民事錄",
+        "path": "Work/e/0/x/d59f2nhfce0x-經世民事錄.json",
+        "author": {
+          "name": "桂萼",
+          "role": "編",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bebq"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《經世民事錄》•十二卷",
+            "author_info": "明桂萼編",
+            "summary": "明桂萼編。萼有《桂文襄奏議》，已著錄。是書乃萼為武康知縣時，按明大統曆所載逐月節氣，各注事宜，刊佈曉諭。故每卷之首皆稱，湖州府武康縣據本縣陰陽呈，某時為某節，當奉時令施行云云。後嘉靖七年蔣瑜知鄱陽縣，萼以是本授之，瑜遂重刊以行。其中每月冠以月令全文一段，與民事無關。且居青陽左個云云，與明制亦絕不相合也。",
+            "edition": "浙江范懋柱家天一閣藏本"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndf4r29",
+        "title": "禹跡九州圖",
+        "path": "Work/r/2/9/d59f2ndf4r29-禹跡九州圖.json",
+        "author": {
+          "name": "桂蕚",
+          "entity_id": "hixhd2h9biir",
+          "name_basis": "2026-08-24 補繫 entity：本條 authors 舊有名「桂蕚」而無 entity_id，今繫 `1j96h8rw8hyjp`——庫中 primary_name 同之者唯一。其代「明」與本書已定之代「ming」相合。",
+          "dynasty": "明",
+          "dynasty_basis": "entity_propagation:1j96h8rw8hyjp（J21 S5 收尾）",
+          "role": "撰"
+        },
+        "indexed_by": [
+          {
+            "source": "經義考",
+            "source_bid": "d59f2mel8d1d",
+            "title_info": "《禹跡九州圖》（桂蕚）",
+            "summary": "四幅\n陸元輔曰嘉靖四年十二月吏部桂蕚繪禹跡九州圖以進言古人之學右圖左書未嘗偏廢後世書籍繁而圖學不傳頃者陛下命禮部侍郎劉龍徐縉撰成禹貢注解以供覽觀用意勤矣臣謂禹貢大㫖分叙九州以經之總叙山川以緯之毎州之下奠山川豬藪澤而後繼之以物土宜定田制經賦法通職貢其總序於後則列山川叙原委總成功定封建别限制同教化是大禹先後經理之本末也皇上葢将因禹貢以考地理之逺近見貢賦之難易為施教之次第而求所以祗台徳先非若經生學士徒為考索記問而已臣輙於龍縉取前代方輿形制合今日一統地圖重為四幅其一别禹九州之限而禹貢𨗳水之略書焉其一列山川原委而禹貢田制貢賦之略書焉其一載禹貢九州之域其一列禹貢五服之制經理分明本末具備皇上誠於清閒之燕一展玩之則不煩訓詁而所以法象禹貢之意者舉在目前矣上曰觀所繪圖具知忠愛以是開發朕學深有禆益因命左右揭之御屏以便省覽",
+            "section": "書",
+            "juan": "卷九十四",
+            "page": "KR2n0011_WYG_094-10a",
+            "attested_status": "not_seen",
+            "attested_status_raw": "未見",
+            "attested_status_note": "此是朱彝尊所判，非本庫之判，故不改本記錄之 loss_status。四庫御製題論此書曰「所注闕佚未見者，今四庫所録往往其書尚存」——其判是十七世紀一人之見聞。「未見」尤非亡佚，是朱氏未見其書。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndjtblv",
+        "title": "大明輿地指掌圖",
+        "path": "Work/b/l/v/d59f2ndjtblv-大明輿地指掌圖.json",
+        "author": {
+          "name": "桂蕚",
+          "role": "撰",
+          "entity_id": "hixhd2h9biir",
+          "dynasty": "明",
+          "dynasty_basis": "entity_propagation:1j96h8rw8hyjp（J21 S5 收尾）"
+        },
+        "indexed_by": [
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《大明輿地指掌圖》一卷",
+            "summary": "《大明輿地指掌圖》一卷（桂蕚）",
+            "author_info": "桂蕚"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-015",
+    "label": "劉蒼／東平王蒼",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bmat",
+      "hixhd2h9biwc"
+    ],
+    "names": [
+      "劉蒼",
+      "東平王蒼"
+    ],
+    "paths": [
+      "Entity/m/a/t/hixhd2h9bmat-劉蒼.json",
+      "Entity/i/w/c/hixhd2h9biwc-東平王蒼.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "東平王蒼.alt_names 明列本名劉蒼。",
+      "劉蒼条《東平憲王集》著录引“後漢東平王蒼集五卷”；東平王蒼条系《東平王蒼集》，史料直接串联本名封号。"
+    ],
+    "recommendation": "合并；劉蒼现native_place=安福可能为旧CBDB错配残留，须单独核查，不能顺手传播。",
+    "work_reference_counts": {
+      "hixhd2h9bmat": 3,
+      "hixhd2h9biwc": 3
+    },
+    "work_evidence": [
+      {
+        "id": "d59f24m3in7r",
+        "title": "東平憲王集",
+        "path": "Work/n/7/r/d59f24m3in7r-東平憲王集.json",
+        "author": {
+          "name": "劉蒼",
+          "role": "撰",
+          "dynasty": "東漢",
+          "entity_id": "hixhd2h9bmat"
+        },
+        "indexed_by": [
+          {
+            "source": "後漢藝文志",
+            "source_bid": "d59f2mp12329",
+            "title_info": "東平憲王集五卷",
+            "summary": "東平憲王集五卷。\n\n范書光武十王列傳：建初八年正月薨，詔告中傅封上蒼自建武以來章奏，及所作書記、賦頌、七言、别字歌詩，並集覽焉。隋書經籍志：梁有後漢東平王蒼集五卷，亡。唐經籍志：漢東平王集二卷。藝文志：東平王蒼集二卷。嚴氏文編：東平王有集五卷，今見於本傳、吳良傳。東觀記、續漢志、袁紀、通典諸書有疏議、上書、上言，凡九篇。明馮惟訥詩紀輯存武德舞歌詩一篇。",
+            "section": "集部／别集類",
+            "section_basis": "類目據 `Work/1/e/v/1eve1ei9whji8/collated_edition/` 之整理本（識典古籍 CADAL02091104 標點粗校本）斷之——姚振宗《後漢藝文志》綜四部為類四十二，附以佛道凡四十四類，各卷首列「經之類十有一」等總述，逐條後有「右施氏易一家一部」之類的結語可自驗。此值取自整理本 sections[].work_id 之既有繫連，非本輪重新比對。"
+          }
+        ]
+      },
+      {
+        "id": "d59f24loj94z",
+        "title": "東平王蒼集",
+        "path": "Work/9/4/z/d59f24loj94z-東平王蒼集.json",
+        "author": {
+          "name": "劉蒼",
+          "role": "撰",
+          "dynasty": "東漢",
+          "entity_id": "hixhd2h9biwc",
+          "note": "書名即撰人之封號。東平憲王劉蒼（?-83）光武帝子，明帝時驃騎將軍。"
+        },
+        "indexed_by": [
+          {
+            "source": "新唐書藝文志",
+            "source_bid": "d59f2hl0cmio",
+            "title_info": "東平王蒼集",
+            "summary": "東平王蒼集二卷"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《東平王蒼集》五卷",
+            "summary": "《東平王蒼集》五卷",
+            "note": "同題同撰人之別集，係另一書目之著錄，卷數與所併記錄相承。"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-016",
+    "label": "胡納／胡訥",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bkqt",
+      "hixhd2h9bnfk"
+    ],
+    "names": [
+      "胡納",
+      "胡訥"
+    ],
+    "paths": [
+      "Entity/k/q/t/hixhd2h9bkqt-胡納.json",
+      "Entity/n/f/k/hixhd2h9bnfk-胡訥.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "两条均晋；胡納仅系《春秋穀梁傳集解》10卷，胡訥系8条含《穀梁傳集解》。",
+      "d59f27y2pbls.ai_note 2026-09-06已明确“庫條題胡納乃丁本胡訥之訛”“同指一人，字面異而已”，但Entity尚未并。"
+    ],
+    "recommendation": "按既有裁定合并胡納入胡訥，同时修Work作者显示名；与经史Work车道发现互相印证。",
+    "work_reference_counts": {
+      "hixhd2h9bkqt": 1,
+      "hixhd2h9bnfk": 8
+    },
+    "work_evidence": [
+      {
+        "id": "d59f27y2pbls",
+        "title": "春秋穀梁傳集解",
+        "path": "Work/b/l/s/d59f27y2pbls-春秋穀梁傳集解.json",
+        "author": {
+          "name": "胡納",
+          "role": "注",
+          "dynasty": "晉",
+          "entity_id": "hixhd2h9bkqt"
+        },
+        "indexed_by": [
+          {
+            "source": "補晉書藝文志（丁國鈞）",
+            "source_bid": "d59f2mp2xibm",
+            "summary": "春秋穀梁傳集解十卷 胡納,謹按見《七錄》。《册府元龜》六百五。言 納撰《左氏音》四卷、《集解穀梁》十卷,不作“胡 ”。以《釋文·敘録》 之,知僅有《左氏音》,此《集解》實胡氏書也,二人同名。《册府元龜》誤並屬之苟 耳,不足据。《通典》禮類多載苟議,蓋深於禮者,惜其著述不傳。",
+            "section": "甲部經錄／春秋類",
+            "section_basis": "部類自整理本推得——本志整理本以部類分檔，檔名即其類目；一書兩著者（整理本自云「互見某類」）以本條著錄引文鎖定其節",
+            "title_info": "春秋穀梁傳集解十卷"
+          },
+          {
+            "source": "補晉書經籍志（吳士鑑）",
+            "source_bid": "d59f2o2larya",
+            "title_info": "春秋穀梁傳集解十卷",
+            "summary": "見《隋志》。《冊府元龜》誤以「胡訥」為「荀訥」。",
+            "author_info": "見甲部經錄·春秋類"
+          }
+        ]
+      },
+      {
+        "id": "d59f9uwa5qm8",
+        "title": "春秋穀梁集解",
+        "path": "Work/q/m/8/d59f9uwa5qm8-春秋穀梁集解.json",
+        "author": {
+          "name": "胡訥",
+          "role": "撰",
+          "dynasty": "晉",
+          "entity_id": "hixhd2h9bnfk"
+        },
+        "indexed_by": [
+          {
+            "source": "補晉書藝文志（秦榮光）",
+            "source_bid": "d59f5ilweo6h",
+            "title_info": "春秋穀梁集解十卷",
+            "summary": "春秋穀梁集解十卷",
+            "author_info": "見經部·春秋類"
+          }
+        ]
+      },
+      {
+        "id": "d59f9nmjd0qz",
+        "title": "穀梁傳集解",
+        "path": "Work/0/q/z/d59f9nmjd0qz-穀梁傳集解.json",
+        "author": {
+          "name": "胡訥",
+          "role": "撰",
+          "dynasty": "晉",
+          "entity_id": "hixhd2h9bnfk"
+        },
+        "indexed_by": [
+          {
+            "source": "補晉書藝文志（文廷式）",
+            "source_bid": "d59f2o2m8hky",
+            "title_info": "穀梁傳集解十卷",
+            "summary": "楊士勛《穀梁疏》作「胡訥之」。",
+            "author_info": "見經部·春秋類"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-017",
+    "label": "富察傅恆／傅恆",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bcl7",
+      "hixhd2h9bjlc"
+    ],
+    "names": [
+      "富察傅恆",
+      "傅恆"
+    ],
+    "paths": [
+      "Entity/c/l/7/hixhd2h9bcl7-富察傅恆.json",
+      "Entity/j/l/c/hixhd2h9bjlc-乾隆三十二年傅恆.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "富察傅恆.alt_names 明列傅恆。",
+      "傅恆条唯一Work《御批通鑑輯覽》，清史稿著录“乾隆三十二年傅恆等奉敕撰”；富察傅恆条系《御批歷代通鑑輯覽》《兩朝御批通鑑輯覽》，同作品与奉敕身份。"
+    ],
+    "recommendation": "并人物；另有傅恒 hixi8u62chjj列为待核组，不凭姓名一并吞入。",
+    "work_reference_counts": {
+      "hixhd2h9bcl7": 22,
+      "hixhd2h9bjlc": 1
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2n16dk3k",
+        "title": "兩朝御批通鑑輯覽",
+        "path": "Work/k/3/k/d59f2n16dk3k-兩朝御批通鑑輯覽.json",
+        "author": {
+          "name": "傅恆",
+          "role": "奉敕撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2my2xu68",
+        "title": "御批歷代通鑑輯覽",
+        "path": "Work/u/6/8/d59f2my2xu68-御批歷代通鑑輯覽.json",
+        "author": {
+          "name": "傅恆",
+          "role": "等奉敕撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2mc9w000",
+        "title": "御批通鑑輯覽",
+        "path": "Work/0/0/0/d59f2mc9w000-御批通鑑輯覽.json",
+        "author": {
+          "name": "傅恆",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bjlc",
+          "name_basis": "2026-09-06 qa-sweep/qing·H 類（撰人名可疑）：剝去年號紀年殘語——《欽定四庫全書總目》著錄「乾隆三十二年奉敕撰」，紀年係成書之年，非撰人姓名之一部；傅恆為實際奉敕領銜之大臣，entity_id 已正確繫連。 原值：「乾隆三十二年傅恆」。"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《御批通鑒輯覽》•一百十六卷、附《明唐桂二王本末》•三卷",
+            "author_info": "乾隆三十二年奉敕撰",
+            "summary": "乾隆三十二年奉敕撰。是書排輯歷朝事蹟，起自黃帝，訖於明代。編年紀載，綱目相從。目所不該者，則別為分注於其下。而音切訓詁，典故事實，有關考證者，亦詳列焉。蓋內府舊藏明正德中李東陽等所撰《通鑒纂要》一書，皇上幾暇披尋，以其褒貶失宜，紀載蕪漏，不足以備乙覽，因命重加編訂。發凡起例，鹹稟睿裁。每一卷成，即繕稿進禦。指示書法，悉准麟經。又親灑丹毫，詳加評斷。微言大義，燦若日星。凡特筆昭垂，皆天理人情之極則。不獨詞臣載筆，不能窺見高深，即涑水、紫陽亦莫能仰鑽於萬一。所謂原始要終，推見至隱者，文成數萬，其指數千，不可一一縷陳。而尤於系統表年，著筆削之大旨。予奪進退，悉准至公。故大業冠號，則義等於存陳。至正書年，則旨同於在鄆。知景炎、祥興之不成為宋，而後遯荒棄國者始不能以濫竊虛名；知泰定、天順之相繼為君，而後乘釁奪宗者不得以冒幹大統。凡向來懷鉛握槧，聚訟不決者，一經燭照，無不得所折衷。用以斥彼偏私，著為明訓。仰見聖人之心體，如鑒空衡平；聖人之製作，如天施地設。惟循自然之理，而千古定案遂無複能低昂高下於其間。誠聖訓所謂此非一時之書，而萬世之書也。至明季北都淪覆，大命已傾，福王竊號江東，僅及一載。皇上如天聖度，謂猶有疆域可憑，特命分注其年，從建炎南渡之例。又唐、桂二王跡同昰、昺，雖黜其偽號，猶軫念其遺臣，亦詔別考始終，附綴書後，俾不致湮沒無傳。大哉王言，量同天地，尤非臣等所能仰贊一辭矣。"
+          },
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "御批通鑒輯覽",
+            "summary": "御批通鑒輯覽一百十六卷，附明唐桂二王本末三卷。乾隆三十二年傅恆等奉敕撰。"
+          },
+          {
+            "source": "書目答問",
+            "source_bid": "d59f2nfowtfm",
+            "title_info": "《御批通鑑輯覽》",
+            "summary": "一百二十卷。乾隆三十二年敕撰。殿本，杭州局本，武昌局本，南昌巾箱本。伏羲迄明末。是書兼用《通鑑》及《綱目》義例。",
+            "note": "書目答問與書目答問（同志兩收，一在編年類、一在史評類）所著《御批通鑑輯覽》為一書，今合併。"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-018",
+    "label": "釋皎然／皎然",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bg93",
+      "hixhd2h9bnng"
+    ],
+    "names": [
+      "釋皎然",
+      "皎然"
+    ],
+    "paths": [
+      "Entity/g/9/3/hixhd2h9bg93-釋皎然.json",
+      "Entity/n/n/g/hixhd2h9bnng-皎然.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "释皎然别名皎然、僧皎然；二条同唐，后者系《尋陸鴻漸不遇》《皎然詩集》。",
+      "缺第二条独立生平字段，本轮内部证据高度相容。"
+    ],
+    "recommendation": "补核新唐志诗集责任者或《尋陸鴻漸不遇》底本后合并。",
+    "work_reference_counts": {
+      "hixhd2h9bg93": 6,
+      "hixhd2h9bnng": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59f28jhe8sl",
+        "title": "杼山集",
+        "path": "Work/8/s/l/d59f28jhe8sl-杼山集.json",
+        "author": {
+          "name": "釋皎然",
+          "role": "撰",
+          "dynasty": "唐",
+          "entity_id": "hixhd2h9bg93",
+          "name_basis": "原作「僧皎然」。本庫僧人以「釋某」立目（如釋英、釋大訢），本條撰人為僧，庫中已有其 Entity「釋皎然」，逕依例補「釋」字並改繫。"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《杼山集》•十卷",
+            "author_info": "唐僧皎然撰",
+            "summary": "唐僧皎然撰。案《唐書•藝文志》，皎然字清晝，湖州人。謝靈運十世孫。居杼山。顏真卿為刺史，集文士撰《韻海鏡源》，預其論著。貞元中，取其集藏集賢御書院，刺史于頔為序。此集卷數與唐志合，頔序亦存。蓋猶舊本。前有贊寧所為傳，蓋自《高僧傳》錄入。末有集外詩，則毛晉所補緝也。皎然及貫休、齊己皆以詩名。今觀所作，弱於齊己而雅於貫休。在中唐作者之間，可廁末席。集末附載雜文數篇，則聊以備體，非其所長矣。別本附刊《杼山詩式》一卷。案《唐志》晝公《詩式》、《詩評》皆載文史類中，不附本集。今亦析出別著錄焉。",
+            "edition": "內府藏本"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "唐皎然杼山集四卷",
+            "author_info": "唐釋皎然撰",
+            "section": "集部/別集類/唐五代之屬",
+            "summary": "共 4 個版本：明張睿卿刻本（臺灣圖書館）；百家唐詩本（馆藏未载）；唐三高僧詩集本（臺灣圖書館）；清盧文弨抄本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59frya5dgch",
+        "title": "中序",
+        "path": "Work/g/c/h/d59frya5dgch-中序.json",
+        "author": {
+          "name": "釋皎然",
+          "role": "撰",
+          "dynasty": "唐",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/okfofdkw58n2xu6h"
+          },
+          "entity_id": "hixhd2h9bg93"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "中序一卷",
+            "author_info": "唐釋皎然撰",
+            "section": "集部/詩文評類",
+            "summary": "共 1 個版本：格致叢書本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59frya5dgcl",
+        "title": "評論",
+        "path": "Work/g/c/l/d59frya5dgcl-評論.json",
+        "author": {
+          "name": "釋皎然",
+          "role": "撰",
+          "dynasty": "唐",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/okfofdkw58n2xu6h"
+          },
+          "entity_id": "hixhd2h9bg93"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "評論一卷",
+            "author_info": "唐釋皎然撰",
+            "section": "集部/詩文評類",
+            "summary": "共 1 個版本：詩學指南本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f28jrp2pu",
+        "title": "詩式",
+        "path": "Work/2/p/u/d59f28jrp2pu-詩式.json",
+        "author": {
+          "name": "釋皎然",
+          "role": "舊題撰",
+          "dynasty": "唐",
+          "entity_id": "hixhd2h9bg93",
+          "role_basis": "據著錄語「僧皎然《詩式》五卷又舊本題唐釋皎然撰。皎然有《杼山集》，已著錄。此本即附載集末。考陳」——所題之撰人不確，非謂本書偽。見 SCHEMA〈authenticity〉。"
+        },
+        "indexed_by": [
+          {
+            "source": "宋史藝文志",
+            "source_bid": "d59f2gdp696q",
+            "title_info": "《詩式》",
+            "summary": "僧皎然《詩式》五卷又"
+          },
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《詩式》•一卷",
+            "author_info": "舊本題唐釋皎然撰",
+            "summary": "舊本題唐釋皎然撰。皎然有《杼山集》，已著錄。此本即附載集末。考陳振孫《書錄解題》載《詩式》五卷，《詩議》一卷，唐僧皎然撰，以十九字括詩之體。此本既非五卷，又一十九體乃末一條，陳氏不應舉以概全書。陳氏又載正字王元擬皎然十九字一卷，使僅如今本一條，則不能擬為一卷矣。殊參差可疑。又皎然與顏真卿同時，乃天寶、大曆間人，而所引諸詩舉以為例者，有賀知章、李白、王昌齡，相去甚近，亦不應遽與古人並推。疑原書散佚，而好事者摭拾補之也。何文煥《詩話考》索議其淈沒條，稱“夏姬當壚似蕩而貞”，謂夏姬無當壚事，當作文君。不知此用辛延年《羽林郎》“胡姬年十五，春日獨當壚”事，特夏字誤，姬字不誤，不必改作文君。且延年詩稱：“貽我青銅鏡，結我紅羅襦。不惜紅羅裂，何論輕賤軀。”所謂似蕩也。又稱：“男兒愛後婦，女子重前夫。人生各有分，貴賤不相逾。多謝金吾子，私愛徒區區。”所謂貞也。若文君越禮，安得曰似蕩而貞乎？",
+            "edition": "兩江總督采進本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《詩式》五卷",
+            "author_info": "唐釋皎然撰",
+            "summary": "《詩式》五卷。唐釋皎然撰。北京圖書館藏明鈔本。",
+            "edition": "北京圖書館藏明鈔本",
+            "volume": "第415冊",
+            "section": "集部"
+          },
+          {
+            "source": "直齋書錄解題",
+            "source_bid": "d59f2htm01du",
+            "title_info": "《詩式》五卷",
+            "summary": "唐僧皎然撰。以十九字括詩之體。",
+            "note": "本著錄原繫於合刻數書（或連書題）之磁鐵條「詩式》五卷、《詩議」（`1evr5e3mj1sjk`），今歸本條。"
+          },
+          {
+            "source": "直齋書錄解題",
+            "source_bid": "d59f2htm01du",
+            "summary": "詩式》五卷、《詩議",
+            "title_info": "《詩式》五卷"
+          },
+          {
+            "source": "新唐書藝文志",
+            "source_bid": "d59f2hl0cmio",
+            "title_info": "晝公詩式",
+            "summary": "晝公詩式五卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "詩式",
+            "author_info": "唐釋皎然撰",
+            "section": "集部/詩文評類",
+            "summary": "共 17 個版本：（北京大學圖書館、國家圖書館、復旦大學圖書館、南京圖書館、遼寧省圖書館）；（遼寧省圖書館）；（北京大學圖書館、國家圖書館）；（北京大學圖書館、國家圖書館、上海圖書館）；（上海圖書館）；四庫全書本（馆藏未载）；唐宋叢書本（馆藏未载）；詩觸本（馆藏未载）；（國家圖書館、上海圖書館、中國科學院圖書館、南京圖書館、遼寧省圖書館）；詩學指南本（馆藏未载）；歷代詩話本（馆藏未载）；（國家圖書館、南京圖書館、上海圖書館、復旦大學圖書館）；續百川學海本（馆藏未载）；說郛本（馆藏未载）；格致叢書本（馆藏未载）；學海類編本（馆藏未载）；談藝珠叢本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f28j7pvya",
+        "title": "詩議",
+        "path": "Work/v/y/a/d59f28j7pvya-詩議.json",
+        "author": {
+          "name": "釋皎然",
+          "role": "撰",
+          "entity_id": "hixhd2h9bg93",
+          "name_basis": "2026-08-24 補繫 entity：本條 authors 舊有名「釋皎然」而無 entity_id，今繫 `1j967cp1z2ihj`——庫中 primary_name 同之者唯一。其代「唐」與本書已定之代「sui-tang」相合。"
+        },
+        "indexed_by": [
+          {
+            "source": "直齋書錄解題",
+            "source_bid": "d59f2htm01du",
+            "title_info": "《詩議》一卷",
+            "category": "文史類",
+            "summary": "唐僧皎然撰。以十九字括詩之體。",
+            "note": "本條與《詩式》五卷連書著錄於一條，今別出。"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "詩議一卷",
+            "author_info": "唐釋皎然撰",
+            "section": "集部/詩文評類",
+            "summary": "共 3 個版本：格致叢書本（馆藏未载）；詩學指南本（馆藏未载）；（國家圖書館、南京圖書館、上海圖書館、復旦大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsiy14veo",
+        "title": "晝上人集",
+        "path": "Work/v/e/o/d59fsiy14veo-晝上人集.json",
+        "author": {
+          "name": "釋皎然",
+          "role": "撰",
+          "dynasty": "唐",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/okfofdkw58n2xu6h"
+          },
+          "entity_id": "hixhd2h9bg93"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "晝上人集（杼山集、皎然集）十卷",
+            "author_info": "唐釋皎然撰",
+            "section": "集部/別集類/唐五代之屬",
+            "summary": "共 10 個版本：清繡佛齋抄本（國家圖書館）；明錢穀抄本（北京大學圖書館）；明抄本（上海圖書館）；四庫全書本（馆藏未载）；清馮舒抄本（天一閣文物保管所）；清抄本（國家圖書館）；明湖東精舍抄本（國家圖書館）；清影宋抄本（上海圖書館）；明葉氏賜書樓抄本（國家圖書館）；清初抄本（上海圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f28mn0mir",
+        "title": "尋陸鴻漸不遇",
+        "path": "Work/m/i/r/d59f28mn0mir-尋陸鴻漸不遇.json",
+        "author": {
+          "name": "皎然",
+          "dynasty": "唐",
+          "entity_id": "hixhd2h9bnng",
+          "role": "撰"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2og6fri9",
+        "title": "皎然詩集",
+        "path": "Work/r/i/9/d59f2og6fri9-皎然詩集.json",
+        "author": {
+          "name": "皎然",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnng",
+          "dynasty": "唐",
+          "name_basis": "2026-08-25 period未定批次 3.4：題名自著撰人（\"皎然詩集\"）——前缀「皎然」與庫中同名entity（唯一，works<5）精確匹配。"
+        },
+        "indexed_by": [
+          {
+            "source": "新唐書藝文志",
+            "source_bid": "d59f2hl0cmio",
+            "title_info": "皎然詩集",
+            "summary": "皎然詩集十卷"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-019",
+    "label": "仇兆鰲／仇兆鼇",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bf9t",
+      "hixhd2h9bmx1"
+    ],
+    "names": [
+      "仇兆鰲",
+      "仇兆鼇"
+    ],
+    "paths": [
+      "Entity/f/9/t/hixhd2h9bf9t-仇兆鰲.json",
+      "Entity/m/x/1/hixhd2h9bmx1-仇兆鼇.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "仇兆鰲.alt_names 明列仇兆鼇；二条同清。",
+      "鼇条无当前Work引用且无其他生平字段，疑旧空余重复。"
+    ],
+    "recommendation": "核查Book／Collection引用及旧并条账后并空条。",
+    "work_reference_counts": {
+      "hixhd2h9bf9t": 2,
+      "hixhd2h9bmx1": 0
+    },
+    "work_evidence": [
+      {
+        "id": "d59fxxdw9ywy",
+        "title": "詩解",
+        "path": "Work/y/w/y/d59fxxdw9ywy-詩解.json",
+        "author": {
+          "name": "仇兆鰲",
+          "role": "輯",
+          "entity_id": "hixhd2h9bf9t",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/8ezbfmbxy3sezq3d"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "詩解一卷",
+            "author_info": "清仇兆鰲輯",
+            "section": "集部/詩文評類",
+            "summary": "共 1 個版本：（南開大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2mi7ebk1",
+        "title": "杜詩詳注",
+        "path": "Work/b/k/1/d59f2mi7ebk1-杜詩詳注.json",
+        "author": {
+          "name": "仇兆鼇",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bf9t"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《杜詩詳注》•二十五卷、《附編》•二卷",
+            "author_info": "國朝仇兆鼇撰",
+            "summary": "國朝仇兆鼇撰。兆鼇字滄柱，鄞縣人。康熙乙丑進士。官至吏部侍郎。是書乃康熙三十二年兆鼇為編修時所奏進。凡詩注二十三卷，雜文注二卷。後以《逸杜》、《詠杜》、《補杜》、《論杜》為《附編》上下二卷。其總目自二十八卷以下尚有《仿杜》、《集杜》諸卷，皆有錄無書，疑欲續為而未成也。每詩各分段落，先詮釋文義於前，而徵引典故列於詩末。其中摭拾類書，小有舛誤者。如注“忘機對芳草”句，引《高士傳》“葉幹忘機”。今《高士傳》無此文。即《太平御覽》所載嵇康《高士傳》幾盈二卷，亦無此文。又注“宵旰憂虞軫”句，不知二字本徐陵文，乃引《左傳》注“旰食”，引《儀禮》注“宵衣”。考之鄭注，宵乃同綃，非宵旦之宵也。至《吟杜》卷中載徐增一詩，本出其《說唐詩》中。所謂“佛讓王維作，才憐李白狂”者，蓋以維詩雜禪趣，白詩多逸氣，以互形甫之謹嚴。兆鼇乃改上句為“賦似相如逸”，乖其本旨。如此之類，往往有之，皆不可據為典要。然援據繁富，而無千家諸注偽撰故實之陋習。核其大局，可資考證者為多，亦未可竟廢也。",
+            "edition": "內府藏本"
+          },
+          {
+            "source": "書目答問",
+            "source_bid": "d59f2nfowtfm",
+            "title_info": "杜詩詳注",
+            "summary": "《杜詩詳注》二十五卷，《附編》二卷。⟨唐杜甫。仇兆鰲注。通行本。⟩",
+            "author_info": "《附編》二卷"
+          },
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "杜詩詳註",
+            "summary": "杜詩詳註二十五卷，附編二卷。仇兆鼇撰。"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-020",
+    "label": "傅恒／富察傅恆",
+    "type": "people",
+    "ids": [
+      "hixi8u62chjj",
+      "hixhd2h9bcl7"
+    ],
+    "names": [
+      "傅恒",
+      "富察傅恆"
+    ],
+    "paths": [
+      "Entity/h/j/j/hixi8u62chjj-傅恒.json",
+      "Entity/c/l/7/hixhd2h9bcl7-富察傅恆.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "二条同清，恒／恆规范化一致；新傅恒条系《平定金川藝文》。",
+      "缺新条生平及责任者独立说明。"
+    ],
+    "recommendation": "核查《平定金川藝文》原目录责任者。",
+    "work_reference_counts": {
+      "hixi8u62chjj": 1,
+      "hixhd2h9bcl7": 22
+    },
+    "work_evidence": [
+      {
+        "id": "d59fxrssn08w",
+        "title": "平定金川藝文",
+        "path": "Work/0/8/w/d59fxrssn08w-平定金川藝文.json",
+        "author": {
+          "name": "傅恒",
+          "role": "撰",
+          "entity_id": "hixi8u62chjj",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/r3416h6822fo0ssz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "平定金川藝文不分卷",
+            "author_info": "清高宗弘曆、清傅恆、清張廷玉等撰",
+            "section": "集部/總集類/郡邑之屬",
+            "summary": "共 2 個版本：清内府抄本（中央民族大學圖書館）；清乾隆十四年武英殿刻本（故宮博物院圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nbl9khs",
+        "title": "霮增訂清文鑑補編",
+        "path": "Work/k/h/s/d59f2nbl9khs-霮增訂清文鑑補編.json",
+        "author": {
+          "name": "傅恆",
+          "role": "編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "補編",
+            "summary": "《霮增訂清文鑒》三十二卷、《補編》四卷、《總綱》八卷、《補總綱》二卷。乾隆三十六年，傅恆等奉敕撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nbl9khu",
+        "title": "補總綱",
+        "path": "Work/k/h/u/d59f2nbl9khu-補總綱.json",
+        "author": {
+          "name": "傅恆",
+          "role": "編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "補總綱",
+            "summary": "《霮增訂清文鑒》三十二卷、《補編》四卷、《總綱》八卷、《補總綱》二卷。乾隆三十六年，傅恆等奉敕撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nbl9kht",
+        "title": "總綱",
+        "path": "Work/k/h/t/d59f2nbl9kht-總綱.json",
+        "author": {
+          "name": "傅恆",
+          "role": "編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "總綱",
+            "summary": "《霮增訂清文鑒》三十二卷、《補編》四卷、《總綱》八卷、《補總綱》二卷。乾隆三十六年，傅恆等奉敕撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2n16dk3k",
+        "title": "兩朝御批通鑑輯覽",
+        "path": "Work/k/3/k/d59f2n16dk3k-兩朝御批通鑑輯覽.json",
+        "author": {
+          "name": "傅恆",
+          "role": "奉敕撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59f2mohe4ub",
+        "title": "御纂春秋直解",
+        "path": "Work/4/u/b/d59f2mohe4ub-御纂春秋直解.json",
+        "author": {
+          "name": "傅恆",
+          "role": "等奉敕撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《禦纂春秋直解》•十五卷",
+            "summary": "乾隆二十三年奉敕撰。以十二公為十二卷，莊公、僖公、襄公篇頁稍繁，各析一子卷，實十五卷。大旨在發明尼山本義而剷除種種迂曲之說，故賜名曰《直解》，冠以禦制序文，揭胡安國《傳》之傅會臆斷，以明誥天下，與《欽定春秋傳說匯纂》宗旨同符。考班彪之論《春秋》曰：“平易正直，《春秋》之義也。”王充之論《春秋》曰：“公羊、穀梁之《傳》，日月不具，輒為意使。平常之事有怪異之說，徑直之文有曲折之義，非孔子之心。”蘇軾之論《春秋》曰：“《春秋》，儒者本務。然此書有妙用，儒者罕能領會，多求之繩約中，乃近法家者流，苛細繳繞，竟亦何用？”朱子之論《春秋》亦曰：“聖人作《春秋》，不過直書其事，而善惡自見。”又曰：“《春秋》傳例多不可信，聖人紀事，安有許多義例？”然則聖《經》之法戒，本共聞共見；聖人之勸懲，亦易知易從。自啖助、趙匡倡為廢《傳》解《經》之說，使人人各以臆見私相揣度，務為新奇以相勝，而《春秋》以荒。自孫複倡為有貶無褒之說，說《春秋》者必事事求其所以貶，求其所以貶而不得，則鍛煉周內以成其罪，而《春秋》益荒。俞汝言《春秋平義序》謂傳經之失不在於淺而在於深，《春秋》尤甚。可謂片言居要矣。是編恭承訓示，務斟酌情理之平，以求聖《經》之微意。凡諸家所說穿鑿破碎者悉斥不采，而筆削大義愈以炳然。學者恭讀禦纂《春秋傳說匯纂》以辨訂其是非，複恭讀是編以融會其精要，《春秋》之學已更無餘蘊矣。"
+          },
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "春秋直解",
+            "summary": "《春秋直解》十六卷。乾隆二十三年，傅恆等奉敕撰。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2n4vz4ld",
+        "title": "欽定吏部處分條例",
+        "path": "Work/4/l/d/d59f2n4vz4ld-欽定吏部處分條例.json",
+        "author": {
+          "name": "傅恆",
+          "role": "等奉敕撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcl7"
+        },
+        "indexed_by": null
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-021",
+    "label": "董肇勳／董肇勛",
+    "type": "people",
+    "ids": [
+      "hixi8u60h263",
+      "hixhd2h9bje0"
+    ],
+    "names": [
+      "董肇勳",
+      "董肇勛"
+    ],
+    "paths": [
+      "Entity/2/6/3/hixi8u60h263-董肇勳.json",
+      "Entity/j/e/0/hixhd2h9bje0-董肇勛.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "二条同清，勳／勛异体；新条为10/19上图作者补建，旧条长期存在。",
+      "本轮未补到足以单独消除同名可能的生平著录。"
+    ],
+    "recommendation": "保留候选，补查原著录后再裁定。",
+    "work_reference_counts": {
+      "hixi8u60h263": 1,
+      "hixhd2h9bje0": 1
+    },
+    "work_evidence": [
+      {
+        "id": "d59fyf9cflz5",
+        "title": "東陽歷朝詩",
+        "path": "Work/l/z/5/d59fyf9cflz5-東陽歷朝詩.json",
+        "author": {
+          "name": "董肇勳",
+          "role": "輯",
+          "entity_id": "hixi8u60h263",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/54xtvm60m2k6fd1a"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "東陽歷朝詩九卷",
+            "author_info": "清董肇勳輯",
+            "section": "集部/總集類/郡邑之屬",
+            "summary": "共 1 個版本：清乾隆五十三年學耨堂刻本（南京圖書館、東陽市文管會）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nrlsvsx",
+        "title": "東陽歷代詩",
+        "path": "Work/v/s/x/d59f2nrlsvsx-東陽歷代詩.json",
+        "author": {
+          "name": "董肇勛",
+          "role": "編",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bje0"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "東陽歷代詩",
+            "summary": "東陽歷代詩九卷。董肇勛編。"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-022",
+    "label": "張士範／張士范",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bqbs",
+      "hixi5vzpexwp"
+    ],
+    "names": [
+      "張士範",
+      "張士范"
+    ],
+    "paths": [
+      "Entity/q/b/s/hixhd2h9bqbs-張士範.json",
+      "Entity/x/w/p/hixi5vzpexwp-張士范.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "二条同清、范／範归一命中，但范姓／名字异体不可直接推同人。",
+      "前者《青陽縣志》，后者《澹園詩草》；尚缺地点、任官、生卒的交叉证据。"
+    ],
+    "recommendation": "按青阳县志修纂者与澹园诗集作者原序检索，不自动并。",
+    "work_reference_counts": {
+      "hixhd2h9bqbs": 1,
+      "hixi5vzpexwp": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59f2n7dvh1d",
+        "title": "青陽縣志",
+        "path": "Work/h/1/d/d59f2n7dvh1d-青陽縣志.json",
+        "author": {
+          "name": "張士範",
+          "role": "修",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bqbs",
+          "name_basis": "2026-08-24 新建 entity `1jcf5151295j1` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59fshp4iu4h",
+        "title": "芝亭詩草",
+        "path": "Work/u/4/h/d59fshp4iu4h-芝亭詩草.json",
+        "author": {
+          "name": "張士范",
+          "role": "撰",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/aa3rnak7ufzq5zmf"
+          },
+          "entity_id": "hixi5vzpexwp"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "芝亭詩草二卷",
+            "author_info": "清張士範撰",
+            "section": "集部/別集類/清代之屬/清前期",
+            "summary": "共 1 個版本：清乾隆四十年寫刻本（中國科學院圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsccy32f5",
+        "title": "澹園詩草",
+        "path": "Work/2/f/5/d59fsccy32f5-澹園詩草.json",
+        "author": {
+          "name": "張士范",
+          "role": "撰",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/aa3rnak7ufzq5zmf"
+          },
+          "entity_id": "hixi5vzpexwp"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "澹園詩草二卷",
+            "author_info": "清張士範撰",
+            "section": "集部/別集類/清代之屬/清前期",
+            "summary": "共 1 個版本：清乾隆五十七年退思堂寫刻本（中國科學院圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-023",
+    "label": "知常子／姬志眞",
+    "type": "people",
+    "ids": [
+      "hixhgyrw4x08",
+      "hixhd2h9bpup"
+    ],
+    "names": [
+      "知常子",
+      "姬志眞"
+    ],
+    "paths": [
+      "Entity/x/0/8/hixhgyrw4x08-知常子.json",
+      "Entity/p/u/p/hixhd2h9bpup-姬志眞.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "知常子条别名同时列姬志真、姬翼；后者需独立核查，可能是别名资料污染。",
+      "姬志眞条系《知常先生雲山集》，知常子条系《縣解集》。"
+    ],
+    "recommendation": "先核《雲山集》与《縣解集》作者本传及异名，不依单个污染alias合并。",
+    "work_reference_counts": {
+      "hixhgyrw4x08": 2,
+      "hixhd2h9bpup": 1
+    },
+    "work_evidence": [
+      {
+        "id": "d59fsdykm8lg",
+        "title": "姬鏈師詩",
+        "path": "Work/8/l/g/d59fsdykm8lg-姬鏈師詩.json",
+        "author": {
+          "name": "姬志真",
+          "role": "撰",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/wzxwyos28vd5cdxg"
+          },
+          "entity_id": "hixhgyrw4x08"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "姬鏈師詩一卷",
+            "author_info": "元姬志真撰;清顧嗣立選;清席世臣續選",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 1 個版本：元詩選本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f6elpsq9x",
+        "title": "縣解集",
+        "path": "Work/q/9/x/d59f6elpsq9x-縣解集.json",
+        "author": {
+          "name": "知常子",
+          "role": "撰",
+          "entity_id": "hixhgyrw4x08"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "知常子縣解集",
+            "summary": "知常子縣解集"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gpibh1c",
+        "title": "知常先生雲山集",
+        "path": "Work/h/1/c/d59f2gpibh1c-知常先生雲山集.json",
+        "author": {
+          "name": "姬志眞",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bpup",
+          "name_basis": "2026-08-24 新建 entity `1jcf51512951w` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "知常先生雲山集二卷",
+            "author_info": "元姬志真撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 1 個版本：重刊道藏輯要本（馆藏未载）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-024",
+    "label": "蘭蓀／李鴻藻",
+    "type": "people",
+    "ids": [
+      "hixi8us1n2x3",
+      "hixhd2h9bnsa"
+    ],
+    "names": [
+      "蘭蓀",
+      "李鴻藻"
+    ],
+    "paths": [
+      "Entity/2/x/3/hixi8us1n2x3-蘭蓀.json",
+      "Entity/n/s/a/hixhd2h9bnsa-李鴻藻.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "兰荪命中李鸿藻别名；新兰荪条仅系《信而好古》。",
+      "二字号本身不具唯一性，无生卒籍贯辅助。"
+    ],
+    "recommendation": "查该书原序／题署，保持分立。",
+    "work_reference_counts": {
+      "hixi8us1n2x3": 1,
+      "hixhd2h9bnsa": 3
+    },
+    "work_evidence": [
+      {
+        "id": "d59fxyumg8ap",
+        "title": "信而好古",
+        "path": "Work/8/a/p/d59fxyumg8ap-信而好古.json",
+        "author": {
+          "name": "蘭蓀",
+          "role": "輯",
+          "entity_id": "hixi8us1n2x3",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/tl8s02yx235z6ihx"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "信而好古一卷",
+            "author_info": "清蘭蓀輯",
+            "section": "子部/雜家類/雜纂之屬",
+            "summary": "共 1 個版本：清末民國初心清平軒朱抄本（南京圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2myehm9u",
+        "title": "御製文集",
+        "path": "Work/m/9/u/d59f2myehm9u-御製文集.json",
+        "author": {
+          "name": "李鴻藻",
+          "role": "等奉敕編",
+          "entity_id": "hixhd2h9bnsa"
+        },
+        "indexed_by": [
+          {
+            "source": "國立故宮博物院善本舊籍",
+            "title_info": "御製文集",
+            "summary": "本書收入《國立故宮博物院善本舊籍》（統一編號 故殿035879-035884）。清光緒間武英殿刊本。",
+            "edition": "清光緒間武英殿刊本。",
+            "catalog_no": "故殿035879-035884"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "穆宗御製文集不分卷",
+            "author_info": "清穆宗載淳撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：稿本（故宮博物院圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2myehm9t",
+        "title": "御製詩集",
+        "path": "Work/m/9/t/d59f2myehm9t-御製詩集.json",
+        "author": {
+          "name": "李鴻藻",
+          "role": "等奉敕編",
+          "entity_id": "hixhd2h9bnsa"
+        },
+        "indexed_by": [
+          {
+            "source": "國立故宮博物院善本舊籍",
+            "title_info": "御製詩集",
+            "summary": "本書收入《國立故宮博物院善本舊籍》（統一編號 故殿035877-035878）。清光緒間武英殿刊本。",
+            "edition": "清光緒間武英殿刊本。",
+            "catalog_no": "故殿035877-035878"
+          }
+        ]
+      },
+      {
+        "id": "d59f2mxme9ds",
+        "title": "重校十三經不二字",
+        "path": "Work/9/d/s/d59f2mxme9ds-重校十三經不二字.json",
+        "author": {
+          "name": "李鴻藻",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bnsa"
+        },
+        "indexed_by": null
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-025",
+    "label": "明夷／康有為",
+    "type": "people",
+    "ids": [
+      "hixi8us3ii9d",
+      "hixhd2h9bnqj"
+    ],
+    "names": [
+      "明夷",
+      "康有為"
+    ],
+    "paths": [
+      "Entity/i/9/d/hixi8us3ii9d-明夷.json",
+      "Entity/n/q/j/hixhd2h9bnqj-康有為.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "明夷为康有为已收号；新明夷条系《公民自治篇》《析疆增吏篇》。",
+      "单凭号相同仍不足，本轮未回查原刊题署。"
+    ],
+    "recommendation": "查原刊作者声明或署名对照，不能仅按清代+同号并。",
+    "work_reference_counts": {
+      "hixi8us3ii9d": 2,
+      "hixhd2h9bnqj": 24
+    },
+    "work_evidence": [
+      {
+        "id": "d59fxxh9pgcg",
+        "title": "公民自治篇",
+        "path": "Work/g/c/g/d59fxxh9pgcg-公民自治篇.json",
+        "author": {
+          "name": "明夷",
+          "role": "撰",
+          "entity_id": "hixi8us3ii9d",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/u8vm1yofwccn6d6d"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "公民自治篇一卷",
+            "author_info": "清明夷撰",
+            "section": "子部/新學類/叢編之屬",
+            "summary": "共 1 個版本：（湖北省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fxxxak074",
+        "title": "析疆增吏篇",
+        "path": "Work/0/7/4/d59fxxxak074-析疆增吏篇.json",
+        "author": {
+          "name": "明夷",
+          "role": "撰",
+          "entity_id": "hixi8us3ii9d",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/u8vm1yofwccn6d6d"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "析疆增吏篇一卷",
+            "author_info": "清明夷撰",
+            "section": "子部/新學類/叢編之屬",
+            "summary": "共 1 個版本：（湖北省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsedig4jk",
+        "title": "康南海先生書開歲忽六十詩",
+        "path": "Work/4/j/k/d59fsedig4jk-康南海先生書開歲忽六十詩.json",
+        "author": {
+          "name": "康有為",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqj",
+          "dynasty": "中華民國",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ym4icmi4nkionq2u"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "康南海先生書開歲忽六十詩一卷",
+            "author_info": "康有爲撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 2 個版本：民國間北平亞東製版印刷局石印本（國家圖書館）；民國間石印本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsedig4jn",
+        "title": "康南海篆書詩稿",
+        "path": "Work/4/j/n/d59fsedig4jn-康南海篆書詩稿.json",
+        "author": {
+          "name": "康有為",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqj",
+          "dynasty": "中華民國",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ym4icmi4nkionq2u"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "康南海篆書詩稿一卷",
+            "author_info": "康有爲撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國間有正書局影印本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsgj2x43l",
+        "title": "南海先生遺稿",
+        "path": "Work/4/3/l/d59fsgj2x43l-南海先生遺稿.json",
+        "author": {
+          "name": "康有為",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqj",
+          "dynasty": "中華民國",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ym4icmi4nkionq2u"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "南海先生遺稿不分卷",
+            "author_info": "康有爲撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國間影印本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsedjdu68",
+        "title": "康有爲致徐世昌書",
+        "path": "Work/u/6/8/d59fsedjdu68-康有爲致徐世昌書.json",
+        "author": {
+          "name": "康有為",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqj",
+          "dynasty": "中華民國",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ym4icmi4nkionq2u"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "康有爲致徐世昌書不分卷",
+            "author_info": "康有爲撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：稿本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsedhiewy",
+        "title": "康南海墨蹟",
+        "path": "Work/e/w/y/d59fsedhiewy-康南海墨蹟.json",
+        "author": {
+          "name": "康有為",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqj",
+          "dynasty": "中華民國",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ym4icmi4nkionq2u"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "康南海墨蹟不分卷",
+            "author_info": "康有爲撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國二十年上海寰球書局石印本（首都圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fsedhieww",
+        "title": "康南海奉詔求救文",
+        "path": "Work/e/w/w/d59fsedhieww-康南海奉詔求救文.json",
+        "author": {
+          "name": "康有為",
+          "role": "撰",
+          "entity_id": "hixhd2h9bnqj",
+          "dynasty": "中華民國",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ym4icmi4nkionq2u"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "康南海奉詔求救文一卷",
+            "author_info": "康有爲撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國十五年抄本（國家圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-026",
+    "label": "同名張雨：元／明",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bf9f",
+      "hixhd2h9bgkx"
+    ],
+    "names": [
+      "張雨",
+      "張雨"
+    ],
+    "paths": [
+      "Entity/f/9/f/hixhd2h9bf9f-張雨.json",
+      "Entity/g/k/x/hixhd2h9bgkx-張雨.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "元张雨1283–1350，钱塘、伯雨、句曲外史；明张雨1512年生，万安、惟时。",
+      "前者道教诗词集，后者《全陝邊政考》，生平与著作不同。"
+    ],
+    "recommendation": "保留两人；只将张天雨并入元条。",
+    "work_reference_counts": {
+      "hixhd2h9bf9f": 10,
+      "hixhd2h9bgkx": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59fsecrwydi",
+        "title": "句曲外史貞居先生詩集",
+        "path": "Work/y/d/i/d59fsecrwydi-句曲外史貞居先生詩集.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/t5vhxfomzdeutftg"
+          },
+          "entity_id": "hixhd2h9bf9f"
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "句曲外史貞居先生詩集七卷詞一卷雜文一卷",
+            "author_info": "元張雨撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 13 個版本：清曹炎抄本（南京圖書館）；明抄本（國家圖書館）；清抄本（南京圖書館）；慈溪馮氏醉經閣抄本（中國科學院圖書館）；清影抄明初刻本（國家圖書館）；明初刻本（國家圖書館）；清抄本（國家圖書館、北京大學圖書館）；清吳城抄本（南京圖書館）；明潘是仁刻本（北京大學圖書館）；宋元四十三家集本（馆藏未载）；宋元詩本（國家圖書館）；明柳僉抄本（國家圖書館）；武林往哲遺箸本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gpi08ht",
+        "title": "句曲外史集",
+        "path": "Work/8/h/t/d59f2gpi08ht-句曲外史集.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bf9f"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《句曲外史集》•三卷、《補遺》•三卷、《集外詩》•一卷",
+            "author_info": "元張雨撰",
+            "summary": "元張雨撰。雨有《元品錄》，已著錄。其平生詩文，嘗手錄成帙，然當時未及刊版。故零縑斷素，賞鑒家多傳其墨蹟，而集則無傳。明成化間，姚綬始購得其稿。嘉靖甲午，陳應符始厘為三卷，校讎付刊，而以劉基所作墓誌、姚綬所作小傳附之。崇禎中，常熟毛晉複取烏程閔元衢所錄佚詩，為《補遺》三卷，附以同時酬贈之作。晉又與甥馮武搜得雨《集外詩》若干首，續刻於後。仍以徐世達原《序》冠於簡端者，即此本也。雨詩文豪邁灑落，體格遒上。早年及識趙孟頫，晚年猶及見倪瓚、顧阿瑛、楊維楨，中間如虞集、范梈、袁桷、黃溍諸人，皆以方外之交，深相投契。故耳濡目染，具有典型。雖托跡黃冠，而談藝之家位置於文士之列，不復以異教視之，厥有由矣。",
+            "edition": "浙江鮑士恭家藏本"
+          },
+          {
+            "source": "補遼金元藝文志",
+            "source_bid": "d59f2mp1zsox",
+            "title_info": "《句曲外史集》三卷",
+            "author_info": "字伯雨，吳郡人",
+            "summary": "元張雨（字伯雨，吳郡人）句曲外史集三卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "句曲外史集三卷補遺三卷張伯雨集外詩一卷附錄一卷",
+            "author_info": "元張雨撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 2 個版本：清嫏嬛館抄本（上海圖書館）；四庫全書本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59fyict38xt",
+        "title": "句曲外史集補遺",
+        "path": "Work/8/x/t/d59fyict38xt-句曲外史集補遺.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "entity_id": "hixhd2h9bf9f",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/t5vhxfomzdeutftg"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "句曲外史集補遺不分卷",
+            "author_info": "元張雨撰",
+            "section": "集部/總集類/叢編之屬/各體",
+            "summary": "共 1 個版本：（重慶市圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2gdib18i",
+        "title": "玄品錄",
+        "path": "Work/1/8/i/d59f2gdib18i-玄品錄.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bf9f"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《玄品錄》•五卷",
+            "author_info": "元張雨撰",
+            "summary": "元張雨撰。雨字伯雨，一字天雨，別號貞居子，錢塘人，宋崇國公九成後也。年二十餘，棄家為道士。往來華陽、雲右間，自稱句曲外史。能詩詞，工書翰，當時虞集、楊維楨亟稱之。是編載歷代道家者流，起周訖宋，列為十品，曰道品、道權、道化、道儒、道術、道隱、道默、道言、道質、道華，得百三十五人。然書名玄品，自應以清淨為宗，故曹參、張良之流可以類入。至於神仙方士，別自成家；隱士逸人，各為一傳；溷而一之，已昧老氏之宗。乃至范蠡權謀之士，鬼穀捭闔之師，亦複借材，未知其可。蒐羅雖富，難免蕪雜之譏矣。又雨自序中稱題曰《玄史》，今標題之目與序不同，豈書後改名，而序則偶未及改歟？",
+            "edition": "兩淮監政采進本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《玄品錄》五卷",
+            "author_info": "元張雨撰",
+            "summary": "《玄品錄》五卷。元張雨撰。涵芬樓影印明正統刻道藏本。",
+            "edition": "涵芬樓影印明正統刻道藏本",
+            "volume": "第259冊",
+            "section": "子部"
+          },
+          {
+            "source": "元史藝文志",
+            "source_bid": "d59f2mp1zsoz",
+            "title_info": "張天雨玄品錄五卷",
+            "summary": "元張天雨玄品錄五卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "玄品錄五卷",
+            "author_info": "元張雨撰",
+            "section": "史部/傳記類/總傳之屬",
+            "summary": "共 1 個版本：道藏本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2n1pq9s1",
+        "title": "貞居詞一卷補遺一卷",
+        "path": "Work/9/s/1/d59f2n1pq9s1-貞居詞一卷補遺一卷.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "元",
+          "entity_id": "hixhd2h9bf9f",
+          "name_basis": "2026-09-06 qa-sweep/qing：撰人原作「張先」（清）——經 WebSearch 覆核，《貞居詞》一卷實為元代茅山道士張雨（1277–1348，號貞居子，見《知不足齋叢書》）之作，「貞居」正是其號；「張先」乃北宋詞人（字子野，1990–1078），與本條同一撞題組另一書《張子野詞》之撰人相混。entity 撞庫得「張雨」hixhd2h9bf9f（alt_names 已載「貞居子」），改繫之。"
+        },
+        "indexed_by": [
+          {
+            "source": "國立故宮博物院善本舊籍",
+            "title_info": "貞居詞一卷補遺",
+            "summary": "本書收入《國立故宮博物院善本舊籍》（統一編號 故觀001730）。清乾隆道光間長塘鮑氏刊知不足齋叢書之一。",
+            "edition": "清乾隆道光間長塘鮑氏刊知不足齋叢書之一。",
+            "catalog_no": "故觀001730"
+          }
+        ]
+      },
+      {
+        "id": "d59fy1g40r28",
+        "title": "句曲外史詩集",
+        "path": "Work/r/2/8/d59fy1g40r28-句曲外史詩集.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "entity_id": "hixhd2h9bf9f",
+          "dynasty": "元",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/t5vhxfomzdeutftg"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "1exjosng9241s",
+            "title_info": "句曲外史詩集二卷集外詩一卷",
+            "author_info": "元張雨撰",
+            "section": "集部/別集類/金元之屬",
+            "summary": "共 1 個版本：清抄本（南京博物院圖書館、中山大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nkte6f6",
+        "title": "全陝邊政考",
+        "path": "Work/6/f/6/d59f2nkte6f6-全陝邊政考.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bgkx"
+        },
+        "indexed_by": [
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "張雨《全陝邊政考》十二卷",
+            "summary": "張雨《全陝邊政考》十二卷"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《邊政考》十二卷",
+            "author_info": "明張雨撰",
+            "summary": "《邊政考》十二卷。明張雨撰。影印民國二十六年上海商務印書館影印國立北平圖書館善本叢書第一集明嘉靖刻本。",
+            "edition": "影印民國二十六年上海商務印書館影印國立北平圖書館善本叢書第一集明嘉靖刻本",
+            "volume": "第738冊",
+            "section": "史部 史部"
+          }
+        ]
+      },
+      {
+        "id": "d59f6enonlky",
+        "title": "全陜邊政攷",
+        "path": "Work/l/k/y/d59f6enonlky-全陜邊政攷.json",
+        "author": {
+          "name": "張雨",
+          "role": "撰",
+          "entity_id": "hixhd2h9bgkx"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "張雨全陜邊政攷",
+            "summary": "張雨全陜邊政攷"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-027",
+    "label": "李適文士／唐德宗李適",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bo6s",
+      "hixhd2h9bra6"
+    ],
+    "names": [
+      "李適",
+      "李適（唐德宗）"
+    ],
+    "paths": [
+      "Entity/o/6/s/hixhd2h9bo6s-李適.json",
+      "Entity/r/a/6/hixhd2h9bra6-李適（唐德宗）.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "文士663–711；唐德宗742–805，生卒无交集。",
+      "10/16已有从误并拆回的明确审校记录；《李適集》《九經要句》与《德宗集》《貞元集要廣利方》已分系。"
+    ],
+    "recommendation": "保留并加入查重否决例，避免重复误并。",
+    "work_reference_counts": {
+      "hixhd2h9bo6s": 2,
+      "hixhd2h9bra6": 2
+    },
+    "work_evidence": [
+      {
+        "id": "d59f28k4hszp",
+        "title": "李適集",
+        "path": "Work/s/z/p/d59f28k4hszp-李適集.json",
+        "author": {
+          "name": "李適",
+          "role": "撰",
+          "dynasty": "唐",
+          "entity_id": "hixhd2h9bo6s",
+          "note": "舊唐書經籍志原題「《李適集》二十卷」，書名即撰人。李適（663-711）唐中宗朝文士，非德宗。 本庫無此 entity，未繫。",
+          "name_basis": "2026-08-24 新建 entity `1jcf5151293di` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。"
+        },
+        "indexed_by": [
+          {
+            "source": "舊唐書經籍志",
+            "source_bid": "d59f2gcburcx",
+            "title_info": "《李適集》二十卷",
+            "summary": "《李適集》二十卷"
+          },
+          {
+            "source": "新唐書藝文志",
+            "source_bid": "d59f2hl0cmio",
+            "title_info": "李適集",
+            "summary": "李適集十卷"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《李適集》十卷",
+            "summary": "《李適集》十卷",
+            "note": "同題同撰人之別集，係另一書目之著錄，卷數與所併記錄相承。"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ofliv41",
+        "title": "九經要句",
+        "path": "Work/v/4/1/d59f2ofliv41-九經要句.json",
+        "author": {
+          "name": "李適",
+          "entity_id": "hixhd2h9bo6s",
+          "name_basis": "2026-08-24 新建 entity `1jcf5151293di` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。",
+          "dynasty": "唐",
+          "dynasty_basis": "2026-08-25 period未定批次 3.1：從撰人 entity 之代。",
+          "role": "撰"
+        },
+        "indexed_by": [
+          {
+            "source": "經義考",
+            "source_bid": "d59f2mel8d1d",
+            "title_info": "《九經要句》（李適）",
+            "summary": "李氏（適）九經要句\n佚",
+            "section": "羣經",
+            "juan": "卷二百四十一",
+            "page": "KR2n0011_WYG_241-6a",
+            "attested_status": "lost",
+            "attested_status_raw": "佚",
+            "attested_status_note": "此是朱彝尊所判，非本庫之判，故不改本記錄之 loss_status。四庫御製題論此書曰「所注闕佚未見者，今四庫所録往往其書尚存」——其判是十七世紀一人之見聞。「未見」尤非亡佚，是朱氏未見其書。"
+          }
+        ]
+      },
+      {
+        "id": "d59f28lcti4j",
+        "title": "貞元集要廣利方",
+        "path": "Work/i/4/j/d59f28lcti4j-貞元集要廣利方.json",
+        "author": {
+          "name": "德宗",
+          "role": "撰",
+          "entity_id": "hixhd2h9bra6",
+          "note": "據本 work 諸著錄之 author_info「德宗」補；著錄所給者為一，去朝代與職名後取之。",
+          "name_basis": "2026-08-24 帝號廟號歸人：著錄作「德宗」，非姓名而是廟號（或帝號、后號）。以本書之代別之——繫 qing 者為清德宗（光緒），繫 sui-tang 者為唐德宗李适，故繫 `1jcf5151296hr`（「李适」）。\n\n按庫中帝王之例：宋明以前用本名（趙佶、朱元璋、曹丕、蕭衍），清代用廟號（清高宗、清聖祖），本條從之。"
+        },
+        "indexed_by": [
+          {
+            "source": "宋史藝文志",
+            "source_bid": "d59f2gdp696q",
+            "title_info": "《貞元集要廣利方》",
+            "summary": "《貞元集要廣利方》五卷"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《貞元集要廣利方》五卷",
+            "summary": "《貞元集要廣利方》五卷（德宗）",
+            "author_info": "德宗"
+          },
+          {
+            "source": "新唐書藝文志",
+            "source_bid": "d59f2hl0cmio",
+            "title_info": "德宗貞元集要廣利方",
+            "summary": "德宗貞元集要廣利方五卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f28lkb75x",
+        "title": "德宗集",
+        "path": "Work/7/5/x/d59f28lkb75x-德宗集.json",
+        "author": {
+          "name": "李适",
+          "role": "撰",
+          "dynasty": "唐",
+          "entity_id": "hixhd2h9bra6",
+          "note": "唐德宗李适（742-805）。 本庫無此 entity，未繫。",
+          "name_basis": "2026-08-24 新建 entity `1jcf5151296hr` 並繫之——庫中舊無其人，說見該 entity 之 ai_note。"
+        },
+        "indexed_by": [
+          {
+            "source": "新唐書藝文志",
+            "source_bid": "d59f2hl0cmio",
+            "title_info": "德宗集",
+            "summary": "德宗集"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《德宗集》一卷",
+            "summary": "《德宗集》一卷",
+            "note": "同題之另一著錄，卷數與所併記錄相承。"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-028",
+    "label": "王偁：宋／明／清共享URI",
+    "type": "people",
+    "ids": [
+      "hixhd2h9be87",
+      "hixhd2h9bmis",
+      "hixi8u5vh9ki"
+    ],
+    "names": [
+      "王偁",
+      "王偁",
+      "王偁"
+    ],
+    "paths": [
+      "Entity/e/8/7/hixhd2h9be87-王偁.json",
+      "Entity/m/i/s/hixhd2h9bmis-王偁.json",
+      "Entity/9/k/i/hixi8u5vh9ki-王偁.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "三条共享上图person URI ozk7momzx6jbiehz，不能据URI并。",
+      "宋条字季平、眉州、东都事略；明条1370–1415、字孟扬、永福、虚舟集；清条目前系蓮舫詩鈔、歷下偶談、匡山叢話。",
+      "宋、明身份有详细既有审校说明；清条尚应另核；宋条还疑误挂《閩王檢討詩集》。"
+    ],
+    "recommendation": "至少保留宋明两人；清条独立核查。修source URI混用及跨人Work误挂，不将三条当重复。",
+    "work_reference_counts": {
+      "hixhd2h9be87": 3,
+      "hixhd2h9bmis": 7,
+      "hixi8u5vh9ki": 3
+    },
+    "work_evidence": [
+      {
+        "id": "d59fssny5t6o",
+        "title": "閩王檢討詩集",
+        "path": "Work/t/6/o/d59fssny5t6o-閩王檢討詩集.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixhd2h9be87",
+          "dynasty": "宋",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ozk7momzx6jbiehz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "閩王檢討詩集五卷",
+            "author_info": "明王偁撰",
+            "section": "集部/總集類/郡邑之屬",
+            "summary": "共 2 個版本：（上海圖書館、國家圖書館）；（北京大學圖書館、國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2hk3vy0x",
+        "title": "張邦昌事略",
+        "path": "Work/y/0/x/d59f2hk3vy0x-張邦昌事略.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "dynasty": "趙宋",
+          "entity_id": "hixhd2h9be87",
+          "dynasty_basis": "synonym:period=song"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《張邦昌事略》•一卷",
+            "author_info": "舊本題宋王稱撰",
+            "summary": "舊本題宋王稱撰。核其文，即《東都事略•僣偽傳》也。摘其一卷，別立名目，又改“王偁”為“王稱”，可謂愈偽愈拙。曹溶收之《學海類編》，蓋偶未考也。",
+            "edition": "編修程晉芳家藏本"
+          }
+        ]
+      },
+      {
+        "id": "d59f2hsoln9c",
+        "title": "東都事略",
+        "path": "Work/n/9/c/d59f2hsoln9c-東都事略.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "dynasty": "趙宋",
+          "entity_id": "hixhd2h9be87",
+          "dynasty_basis": "synonym:period=song"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《東都事略》•一百三十卷",
+            "author_info": "宋王偁撰",
+            "summary": "宋王偁撰。偁，字季平，眉州人。父賞，紹興中為實錄修撰。偁承其家學，旁搜九朝事蹟，采輯成編。洪邁修四朝國史，奏進其書，以承議郎知龍州，特授直秘閣。其書為《本紀》十二、《世家》五、《列傳》一百五、《附錄》八。敍事約而該，議論亦皆持平。如康保裔不列於《忠義》，張方平、王拱辰不諱其瑕疵，皆具史識。熙寧之啟釁、元符之紹述，尤三致意焉。《朱勔傳》後附載僧祖秀《艮嶽記》，蓋仿《三國志•諸葛亮傳》後附載《文集目錄》及陳壽《進表》之例。雖非史法，亦足資考證。而南宋諸人，乃多不滿其書。蓋偁閉門著述，不入講學之宗派。黨同伐異，勢所必然，未可據為定論也。近時汪琬，複謂元修《宋史》，實據此書為稿本。以今考之，惟《文藝傳》為《宋史》所資取，故所載北宋為多，南宋文人寥寥無幾。其餘事蹟異同，如符彥卿二女為周室後，而《宋史》闕其一。劉美本姓龔，冒附於《外戚》，事略直書其事，《宋史》采其家傳，轉為之諱。趙普先閱章奏，田錫極論其非，而《宋史》誤以為群臣章奏，必先白錫。楊守一以涓人補右班殿直，遷翰林副使，而《宋史》誤作翰林學士。新法初行，坐倉糴米，吳申等言其不便，《宋史》誤以為司馬光之言。至地名、諡法，《宋史》尤多舛謬。元人修史，蓋未嘗考證此書。琬之言未得其實也。其中如張齊賢以雍熙三年忤旨出外，而誤作自請行邊。以副使王履《楚辭》誤屬之李若水。又不載王履於《忠義傳》。雖不免間有牴牾，然宋人私史，卓然可傳者，唯偁與李燾、李心傳之書而三。固宜為考宋史者所寶貴矣。",
+            "edition": "浙江孫仰曾家藏本"
+          },
+          {
+            "source": "書目答問",
+            "source_bid": "d59f2nfowtfm",
+            "title_info": "東都事略",
+            "summary": "《東都事略》一百三十卷。⟨宋王偁五松室仿宋本，掃葉山房本。⟩",
+            "author_info": "王偁五松室仿宋本"
+          },
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《淳熈東都事略》一百十三卷",
+            "summary": "《淳熈東都事略》一百十三卷（王稱。）",
+            "author_info": "王稱。"
+          },
+          {
+            "source": "直齋書錄解題",
+            "source_bid": "d59f2htm01du",
+            "summary": "承議郎知龍州眉山王偁季平撰。其書紀、傳、附錄略具體，但無志耳。附錄用《五代史》例也。淳熙中上其書，得直秘閣。其所紀太簡略，未得為全善。",
+            "title_info": "《東都事略》一百五十卷"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "東都事畧一百三十卷",
+            "author_info": "宋王偁撰",
+            "section": "史部/紀傳類/斷代之屬",
+            "summary": "共 11 個版本：清振鷺堂影宋刻本（國家圖書館）；宋紹熙間眉山程舍人宅刻本（臺灣圖書館）；清刻本（遼寧省圖書館）；清光緒九年淮南書局刻本（北京大學圖書館、上海圖書館）；清抄本（國家圖書館）；清初平庵抄本（國家圖書館）；四庫全書本（上海圖書館）；清乾隆六十年刻（遼寧省圖書館、南京圖書館、上海圖書館、國家圖書館）；宋遼金元别史（四朝别史）本（馆藏未载）；清寶華堂刻本（上海圖書館）；明抄本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2q6jpslc",
+        "title": "王偁檢討集",
+        "path": "Work/s/l/c/d59f2q6jpslc-王偁檢討集.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixhd2h9bmis"
+        },
+        "indexed_by": [
+          {
+            "source": "國史經籍志",
+            "source_bid": "d59f2nl40936",
+            "title_info": "《王偁檢討集》五卷",
+            "summary": "《王偁檢討集》五卷"
+          }
+        ]
+      },
+      {
+        "id": "d59fsejuxu6a",
+        "title": "王翰檢集",
+        "path": "Work/u/6/a/d59fsejuxu6a-王翰檢集.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixhd2h9bmis",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ozk7momzx6jbiehz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "王翰檢集一卷",
+            "author_info": "明王偁撰;明俞憲輯",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 1 個版本：盛明百家詩本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2njwb11d",
+        "title": "虛舟集",
+        "path": "Work/1/1/d/d59f2njwb11d-虛舟集.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bmis"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《虛舟集》·五卷",
+            "author_info": "明王偁撰",
+            "summary": "明王偁撰。偁字孟揚，永福人。元潮州總管翰之子。翰於明初抗節死。偁生甫六齡，其母教之讀書。洪武庚午領鄉薦，乞歸養母。成祖即位，徵至京師，授國史院檢討，充《永樂大典》副總裁。後坐解縉黨，下獄死。偁為“閩中十子”之一。《明史•文苑傳》附見《林鴻傳》中。是編乃其詩集。前有《王汝玉序》。又有《解縉序》二篇，一題《虛舟集序》，一題《王孟揚文集序》。又有弘治六年《桑懌序》，則為袁州守王世英翻刻《虛舟集》而作。不言其別有文集，蓋當時已失傳矣。集末附書評及《自述》、《誄》各一首。偁與解縉友善，其才氣學問，約略相似，卒同被讒譖以死。然縉詩頗傷剽直，偁詩恬和安雅，殆為勝之。《自述》稱：“服群聖，獵百家，窮幽明，每遇登高吊古，慨然發其悲壯愉樂，一寓於文若詩。”其命意亦殊不凡。故集中若《感遇》諸作，規橅拾遺；《詠史》數篇，步趨記室；《將進酒》、《行路難》等亦頗出入於太白。雖未必盡合古人，而意度波瀾，時複具體，固不比於優孟衣冠也。",
+            "edition": "山東巡撫采進本"
+          },
+          {
+            "source": "明史藝文志",
+            "source_bid": "d59f2mox0000",
+            "title_info": "王偁《虚舟集》五卷",
+            "summary": "王偁《虛舟集》五卷"
+          }
+        ]
+      },
+      {
+        "id": "d59f6epsi9kx",
+        "title": "鳯臺清嘯",
+        "path": "Work/9/k/x/d59f6epsi9kx-鳯臺清嘯.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixhd2h9bmis"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "王偁鳯臺清嘯",
+            "summary": "王偁鳯臺清嘯"
+          }
+        ]
+      },
+      {
+        "id": "d59fsejzb5s3",
+        "title": "王檢討詩",
+        "path": "Work/5/s/3/d59fsejzb5s3-王檢討詩.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixhd2h9bmis",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ozk7momzx6jbiehz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "王檢討詩五卷",
+            "author_info": "明王偁撰;明袁表、明馬熒選輯",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 2 個版本：閩中十子詩本（國家圖書館）；閩中十子詩集本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f6ekwrnra",
+        "title": "皇朝詩選",
+        "path": "Work/n/r/a/d59f6ekwrnra-皇朝詩選.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixhd2h9bmis"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "王偁皇朝詩選",
+            "summary": "王偁皇朝詩選"
+          }
+        ]
+      },
+      {
+        "id": "d59fsfj2vsoy",
+        "title": "蓮舫詩鈔",
+        "path": "Work/s/o/y/d59fsfj2vsoy-蓮舫詩鈔.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixi8u5vh9ki",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ozk7momzx6jbiehz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "蓮舫詩鈔二十卷",
+            "author_info": "清王偁撰",
+            "section": "集部/別集類/清代之屬/清中期",
+            "summary": "共 1 個版本：清道光初刻道光十年鵲華館增刻本（國家圖書館、中國科學院圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fry9zr6km",
+        "title": "歷下偶談",
+        "path": "Work/6/k/m/d59fry9zr6km-歷下偶談.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixi8u5vh9ki",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ozk7momzx6jbiehz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "歷下偶談十卷續編十卷",
+            "author_info": "清王偁撰",
+            "section": "集部/詩文評類",
+            "summary": "共 1 個版本：清道光十一年郭邱王氏鵲華館刻鵲華館三種本（清華大學圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59fry9tto8x",
+        "title": "匡山叢話",
+        "path": "Work/o/8/x/d59fry9tto8x-匡山叢話.json",
+        "author": {
+          "name": "王偁",
+          "role": "撰",
+          "entity_id": "hixi8u5vh9ki",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/ozk7momzx6jbiehz"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "匡山叢話五卷",
+            "author_info": "清王偁撰",
+            "section": "集部/詩文評類",
+            "summary": "共 1 個版本：清道光十一年敦邱王氏鵲華館刻鵲華館三種本（清華大學圖書館）"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  },
+  {
+    "group_id": "PN-029",
+    "label": "周永年：明／清共享URI",
+    "type": "people",
+    "ids": [
+      "hixhd2h9bem0",
+      "hixhd2h9bcrn"
+    ],
+    "names": [
+      "周永年",
+      "周永年"
+    ],
+    "paths": [
+      "Entity/e/m/0/hixhd2h9bem0-周永年.json",
+      "Entity/c/r/n/hixhd2h9bcrn-周永年.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "两条共person URI r2qv47dfv138qcjn，但清条1730–1791、历城、书昌；明条作品有《周安期詩》《吳都法乘》。",
+      "时代与著作系统不同，共URI只能触发来源核查。"
+    ],
+    "recommendation": "保留现有区分，核对上图URI误配或源端消歧。",
+    "work_reference_counts": {
+      "hixhd2h9bem0": 6,
+      "hixhd2h9bcrn": 8
+    },
+    "work_evidence": [
+      {
+        "id": "d59f6efbqtxj",
+        "title": "呉中志餘",
+        "path": "Work/t/x/j/d59f6efbqtxj-呉中志餘.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "entity_id": "hixhd2h9bem0"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "周永年呉中志餘",
+            "summary": "周永年呉中志餘"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndnk64g",
+        "title": "鄧尉聖恩寺志",
+        "path": "Work/6/4/g/d59f2ndnk64g-鄧尉聖恩寺志.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bem0"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《鄧尉聖恩寺志》•十八卷",
+            "author_info": "明周永年撰",
+            "summary": "明周永年撰。永年字安期，吳江人。鄧尉故有《沈津志》，茲編乃踵而增之。凡梵宇、名釋、序記、語錄，無不備載。大約於寺之建置本末，尤為詳悉。故以《聖恩寺志》為名。書成於崇禎十五年，而中有康熙中碑刻，及宋犖、徐秉義詩文。蓋後人所續入也。",
+            "edition": "江蘇周厚堉家藏本"
+          },
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《鄧尉聖恩寺志》十八卷",
+            "author_info": "明周永年撰",
+            "summary": "《鄧尉聖恩寺志》十八卷。明周永年撰。影印上海師大圖書館藏明崇禎十七年刻本。",
+            "edition": "影印上海師大圖書館藏明崇禎十七年刻本",
+            "volume": "第719冊",
+            "section": "史部 史部"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《鄧尉聖恩寺志》十八卷",
+            "author_info": "明周永年撰",
+            "summary": "《鄧尉聖恩寺志》十八卷。明周永年撰。民國十九年聖恩寺釋中恕影印明崇禎十七年刻清初增修本。",
+            "edition": "民國十九年聖恩寺釋中恕影印明崇禎十七年刻清初增修本",
+            "volume": "第244冊",
+            "section": "史部"
+          }
+        ]
+      },
+      {
+        "id": "d59f6elj8qv9",
+        "title": "松陵别乗",
+        "path": "Work/q/v/9/d59f6elj8qv9-松陵别乗.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "entity_id": "hixhd2h9bem0"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "周永年松陵别乗",
+            "summary": "周永年松陵别乗"
+          }
+        ]
+      },
+      {
+        "id": "d59fsixwgb9g",
+        "title": "周安期詩",
+        "path": "Work/b/9/g/d59fsixwgb9g-周安期詩.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "entity_id": "hixhd2h9bem0",
+          "dynasty": "明",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/r2qv47dfv138qcjn"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "周安期詩一卷",
+            "author_info": "明周永年撰;明陳濟生輯",
+            "section": "集部/別集類/明代之屬",
+            "summary": "共 1 個版本：啓禎兩朝遺詩本（馆藏未载）"
+          }
+        ]
+      },
+      {
+        "id": "d59f6ehpl3b6",
+        "title": "虎丘山靈巖寺合志",
+        "path": "Work/3/b/6/d59f6ehpl3b6-虎丘山靈巖寺合志.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "entity_id": "hixhd2h9bem0"
+        },
+        "indexed_by": [
+          {
+            "source": "千頃堂書目",
+            "source_bid": "d59f2mel8d1c",
+            "title_info": "周永年虎丘山靈巖寺合志",
+            "summary": "周永年虎丘山靈巖寺合志"
+          }
+        ]
+      },
+      {
+        "id": "d59f2nivh0xs",
+        "title": "吳都法乘",
+        "path": "Work/0/x/s/d59f2nivh0xs-吳都法乘.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "dynasty": "明",
+          "entity_id": "hixhd2h9bem0"
+        },
+        "indexed_by": [
+          {
+            "source": "欽定四庫全書總目",
+            "source_bid": "d59dh3vo9af4",
+            "title_info": "《吳都法乘》•十二卷",
+            "author_info": "明周永年撰",
+            "summary": "明周永年撰。永年有《鄧尉聖恩寺志》，已著錄。是書皆輯吳中釋氏典故，分十二篇。",
+            "edition": "兩淮鹽政采進本"
+          },
+          {
+            "source": "四庫全書存目叢書",
+            "source_bid": "d59f2og4vke9",
+            "title_info": "《吳都法乘》十二卷",
+            "author_info": "明周永年撰",
+            "summary": "《吳都法乘》十二卷。明周永年撰。北京圖書館藏清鈔本。",
+            "edition": "北京圖書館藏清鈔本",
+            "volume": "第255冊",
+            "section": "子部"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "吳都法乘十二卷",
+            "author_info": "明周永年輯",
+            "section": "集部/別集類/總傳之屬",
+            "summary": "共 1 個版本：清抄本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndpfh1d",
+        "title": "玉環廳志",
+        "path": "Work/h/1/d/d59f2ndpfh1d-玉環廳志.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcrn"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "玉環廳志",
+            "summary": "玉環廳志四卷。張坦龍修。玉環廳志十五卷。呂鴻燾修。廈門廳志十六卷。周凱修。永春直隸州志十六卷，龍岩直隸州志十六卷。鄭一崧修。噶嗎蘭廳志八卷。董正官修。淡水廳志十五卷。陳培桂修。荊門直隸州志十二卷。黃昌輔修。鶴峰直隸廳志十四卷。吉鍾穎修。澧州…"
+          }
+        ]
+      },
+      {
+        "id": "d59f2muv4sn4",
+        "title": "林汲山房遺文",
+        "path": "Work/s/n/4/d59f2muv4sn4-林汲山房遺文.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcrn",
+          "name_basis": "2026-08-24 同名消歧：庫中名「周永年」者不止一人，以作者朝代相合定為 `1j967a0kkif5w`（代「清」）。同名而代不合者，其書之上限已排之，故所存唯此一人。"
+        },
+        "indexed_by": [
+          {
+            "source": "續修四庫全書",
+            "source_bid": "d59f2og4vksh",
+            "title_info": "《林汲山房遺文》不分卷",
+            "author_info": "(清)周永年撰",
+            "summary": "《林汲山房遺文》不分卷。(清)周永年撰。影印國家圖書館藏清抄本。",
+            "edition": "影印國家圖書館藏清抄本",
+            "volume": "第1449冊",
+            "section": "集部 集部"
+          },
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "林汲山房遺文不分卷",
+            "author_info": "清周永年撰",
+            "section": "集部/別集類/清代之屬/清前期",
+            "summary": "共 2 個版本：清葉氏寶芸齋抄本（南京圖書館）；清抄本（國家圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ndpqpkw",
+        "title": "龍岩直隸州志",
+        "path": "Work/p/k/w/d59f2ndpqpkw-龍岩直隸州志.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcrn"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "龍岩直隸州志",
+            "summary": "玉環廳志四卷。張坦龍修。玉環廳志十五卷。呂鴻燾修。廈門廳志十六卷。周凱修。永春直隸州志十六卷，龍岩直隸州志十六卷。鄭一崧修。噶嗎蘭廳志八卷。董正官修。淡水廳志十五卷。陳培桂修。荊門直隸州志十二卷。黃昌輔修。鶴峰直隸廳志十四卷。吉鍾穎修。澧州…"
+          }
+        ]
+      },
+      {
+        "id": "d59f2n1fffuo",
+        "title": "貸園叢書物集",
+        "path": "Work/f/u/o/d59f2n1fffuo-貸園叢書物集.json",
+        "author": {
+          "name": "周永年",
+          "role": "輯",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcrn"
+        },
+        "indexed_by": null
+      },
+      {
+        "id": "d59fscde064h",
+        "title": "稻香齋詩集",
+        "path": "Work/6/4/h/d59fscde064h-稻香齋詩集.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "entity_id": "hixhd2h9bcrn",
+          "dynasty": "清",
+          "source": {
+            "name": "中國古籍總目",
+            "type": "url",
+            "details": "http://data.library.sh.cn/entity/person/r2qv47dfv138qcjn"
+          }
+        },
+        "indexed_by": [
+          {
+            "source": "中國古籍總目",
+            "source_bid": "d59frnrt4lxc",
+            "title_info": "稻香齋詩集十一卷",
+            "author_info": "周永年撰",
+            "section": "集部/別集類/清代之屬/清後期",
+            "summary": "共 1 個版本：民國十七年刻本（湖南省圖書館）"
+          }
+        ]
+      },
+      {
+        "id": "d59f2ng05czl",
+        "title": "歷城金石考",
+        "path": "Work/c/z/l/d59f2ng05czl-歷城金石考.json",
+        "author": {
+          "name": "周永年",
+          "role": "撰",
+          "dynasty": "清",
+          "entity_id": "hixhd2h9bcrn"
+        },
+        "indexed_by": [
+          {
+            "source": "清史稿藝文志",
+            "source_bid": "d59f2mp0flz4",
+            "title_info": "歷城金石考",
+            "summary": "歷城金石考二卷。周永年撰。"
+          }
+        ]
+      }
+    ],
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "evidence_scope": "repository source records and quoted catalog entries; no independent external biography verification in this lane"
+  }
+]

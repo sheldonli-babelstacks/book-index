@@ -1,0 +1,564 @@
+[
+  {
+    "case_id": "WL-001",
+    "type": "work",
+    "ids": [
+      "d59f2ni9b280",
+      "d59fxzud4fls"
+    ],
+    "titles": [
+      "神農本草經讀",
+      "神農本草經讀"
+    ],
+    "paths": [
+      "Work/2/8/0/d59f2ni9b280-神農本草經讀.json",
+      "Work/f/l/s/d59fxzud4fls-神農本草經讀.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "兩條同題四卷；既有條為清陳念祖撰、見清史稿及續修四庫，新條中國古籍總目醫家叢編之屬未記責任者及版本名，且ai_note直言「同名无主责任者未并」。既有條已以related相連。"
+    ],
+    "recommendation": "優先回查新條13項原始館藏記錄所屬醫書叢編及卷端；能證為陳念祖經讀再合併，不因空作者自動合併。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-002",
+    "type": "work",
+    "ids": [
+      "d59fxuz5k2yo",
+      "d59fxuncq3nm"
+    ],
+    "titles": [
+      "神農本草經摘談",
+      "神農本草經摘談"
+    ],
+    "paths": [
+      "Work/2/y/o/d59fxuz5k2yo-神農本草經摘談.json",
+      "Work/3/n/m/d59fxuncq3nm-神農本草經摘談.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條除id外JSON內容完全一致（包括authors、全部indexed_by、同批次標記、原始來源記錄列表）。均為E6第423批新建，屬重複導入。"
+    ],
+    "recommendation": "先依Book與其他入向引用數確定留存ID；合併所有引用與並條帳，另一條留merged_into墓碑；同批次執行去id內容雜湊復驗。",
+    "content_equal_except_id": true,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-003",
+    "type": "work",
+    "ids": [
+      "d59fxuncq3nk",
+      "d59fxuz58uf4"
+    ],
+    "titles": [
+      "神農本草經經釋",
+      "神農本草經經釋"
+    ],
+    "paths": [
+      "Work/3/n/k/d59fxuncq3nk-神農本草經經釋.json",
+      "Work/u/f/4/d59fxuz58uf4-神農本草經經釋.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條除id外JSON內容完全一致（包括authors、全部indexed_by、同批次標記、原始來源記錄列表）。均為E6第423批新建，屬重複導入。"
+    ],
+    "recommendation": "先依Book與其他入向引用數確定留存ID；合併所有引用與並條帳，另一條留merged_into墓碑；同批次執行去id內容雜湊復驗。",
+    "content_equal_except_id": true,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-004",
+    "type": "work",
+    "ids": [
+      "d59fxuo0g4xt",
+      "d59fxuzsyvpc"
+    ],
+    "titles": [
+      "食物本草會纂",
+      "食物本草會纂"
+    ],
+    "paths": [
+      "Work/4/x/t/d59fxuo0g4xt-食物本草會纂.json",
+      "Work/v/p/c/d59fxuzsyvpc-食物本草會纂.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條除id外JSON內容完全一致（包括authors、全部indexed_by、同批次標記、原始來源記錄列表）。均為E6第423批新建，屬重複導入。"
+    ],
+    "recommendation": "先依Book與其他入向引用數確定留存ID；合併所有引用與並條帳，另一條留merged_into墓碑；同批次執行去id內容雜湊復驗。",
+    "content_equal_except_id": true,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-005",
+    "type": "work",
+    "ids": [
+      "d59f2mfvfhfk",
+      "d59fxzubvhfl"
+    ],
+    "titles": [
+      "神農本草經百種錄",
+      "神農本草經百種錄"
+    ],
+    "paths": [
+      "Work/h/f/k/d59f2mfvfhfk-神農本草經百種錄.json",
+      "Work/h/f/l/d59fxzubvhfl-神農本草經百種錄.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "兩條同題一卷；既有條為徐大椿撰、四庫提要詳述選百種藥；新條中國古籍總目醫家叢編之屬作者空、版本名空，記28個來源，既有條已以related相連。"
+    ],
+    "recommendation": "核對叢編的總責任者及子目卷端，確認徐大椿本後歸一。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-006",
+    "type": "work",
+    "ids": [
+      "d59fy0hd90qp",
+      "d59fxqwwkcn4"
+    ],
+    "titles": [
+      "本草正",
+      "本草正"
+    ],
+    "paths": [
+      "Work/0/q/p/d59fy0hd90qp-本草正.json",
+      "Work/c/n/4/d59fxqwwkcn4-本草正.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "兩條同題二卷；有名條明張介賓撰並列景岳全書本；另一條綜論之屬作者空、24個版本名空且明記無主責任者。"
+    ],
+    "recommendation": "先查匿名條是否皆為景岳全書所收本草正，再歸一；原資料不足確認所有24項均同一作品。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-007",
+    "type": "work",
+    "ids": [
+      "d59fxqwv05xe",
+      "d59fxzrd4bnm"
+    ],
+    "titles": [
+      "本草約編",
+      "本草約編"
+    ],
+    "paths": [
+      "Work/5/x/e/d59fxqwv05xe-本草約編.json",
+      "Work/b/n/m/d59fxzrd4bnm-本草約編.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "同一《中國古籍總目》內分列：王如鑒撰十四卷並本草選餘備考二卷（臺灣稿本），另一為□□輯一卷（上圖清抄本）。卷數、責任者與藏本三重不同，無同書證。"
+    ],
+    "recommendation": "保留兩條；未知作者待補，不能以同題或匿名條合併。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-008",
+    "type": "work",
+    "ids": [
+      "d59fxupe2vb4",
+      "d59fxv14ey9t"
+    ],
+    "titles": [
+      "太醫院補遺本草歌訣雷公炮製",
+      "太醫院補遺本草歌訣雷公炮製"
+    ],
+    "paths": [
+      "Work/v/b/4/d59fxupe2vb4-太醫院補遺本草歌訣雷公炮製.json",
+      "Work/y/9/t/d59fxv14ey9t-太醫院補遺本草歌訣雷公炮製.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條除id外JSON內容完全一致（包括authors、全部indexed_by、同批次標記、原始來源記錄列表）。均為E6第423批新建，屬重複導入。"
+    ],
+    "recommendation": "先依Book與其他入向引用數確定留存ID；合併所有引用與並條帳，另一條留merged_into墓碑；同批次執行去id內容雜湊復驗。",
+    "content_equal_except_id": true,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-009",
+    "type": "work",
+    "ids": [
+      "d59fxupk0dmp",
+      "d59fxv19pzi9"
+    ],
+    "titles": [
+      "湯液本草經雅正",
+      "湯液本草經雅正"
+    ],
+    "paths": [
+      "Work/d/m/p/d59fxupk0dmp-湯液本草經雅正.json",
+      "Work/z/i/9/d59fxv19pzi9-湯液本草經雅正.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條除id外JSON內容完全一致（包括authors、全部indexed_by、同批次標記、原始來源記錄列表）。均為E6第423批新建，屬重複導入。"
+    ],
+    "recommendation": "先依Book與其他入向引用數確定留存ID；合併所有引用與並條帳，另一條留merged_into墓碑；同批次執行去id內容雜湊復驗。",
+    "content_equal_except_id": true,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-010",
+    "type": "work",
+    "ids": [
+      "d59fxp56lczl",
+      "d59fxp56wlj4"
+    ],
+    "titles": [
+      "聊齋補遺",
+      "聊齋補遺"
+    ],
+    "paths": [
+      "Work/c/z/l/d59fxp56lczl-聊齋補遺.json",
+      "Work/l/j/4/d59fxp56wlj4-聊齋補遺.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "同一《中國古籍總目》明列兩書：清青城子編八卷（authors映射宋永嶽，光緒17年石印）；清曾衍東撰六卷（光緒6年石印）。"
+    ],
+    "recommendation": "保留同名異書，另可核對青城子與宋永嶽的身份映射，不在本輪自動改。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-011",
+    "type": "work",
+    "ids": [
+      "d59fsez902dd",
+      "d59fsez902dg"
+    ],
+    "titles": [
+      "香草齋詩鈔",
+      "香草齋詩鈔"
+    ],
+    "paths": [
+      "Work/2/d/d/d59fsez902dd-香草齋詩鈔.json",
+      "Work/2/d/g/d59fsez902dg-香草齋詩鈔.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "黃任六卷、乾隆23年桑調元刻/抄本；吳全昌一卷、張蓉鏡輯、道光焦桐集本。作者、卷數、著錄均不同。"
+    ],
+    "recommendation": "保留兩條。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-012",
+    "type": "work",
+    "ids": [
+      "d59fxv2qh0jl",
+      "d59fy0znki68"
+    ],
+    "titles": [
+      "菜根譚",
+      "菜根譚"
+    ],
+    "paths": [
+      "Work/0/j/l/d59fxv2qh0jl-菜根譚.json",
+      "Work/i/6/8/d59fy0znki68-菜根譚.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條均據《中國古籍總目》著錄「菜根譚一卷」「明洪應明撰」。叢書子目條 authors.name 被截成洪應，而原 author_info 完整；單行本條為洪應明，另混有屠隆責任者。叢書/單行本與版本差異不足另立Work。"
+    ],
+    "recommendation": "保留資料較完整的d59fy0znki68，合併叢書著錄；先核正洪應→洪應明及屠隆責任者來源，不直接拼接作者。遷移Book.work_id及其他引用後留墓碑。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-013",
+    "type": "work",
+    "ids": [
+      "d59fy034e1hc",
+      "d59f2mqfmj2a",
+      "d59f2nlavcw0"
+    ],
+    "titles": [
+      "札樸",
+      "札樸",
+      "札朴"
+    ],
+    "paths": [
+      "Work/1/h/c/d59fy034e1hc-札樸.json",
+      "Work/j/2/a/d59f2mqfmj2a-札樸.json",
+      "Work/c/w/0/d59f2nlavcw0-札朴.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "三條皆桂馥十卷；後兩條同載《續修四庫全書》同一國圖嘉慶十八年小李山房刻本的完整著錄；新叢書子目為心矩齋叢書本，另一條總目版本列表已含心矩齋叢書本。札樸/札朴僅題名異體，非三書。"
+    ],
+    "recommendation": "合併三Work，保存各著錄與所有版本；既有「短泛題名」「多候選」hold不再單獨作不並理由。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-014",
+    "type": "work",
+    "ids": [
+      "d59fxy3v5tdt",
+      "d59f6en91qf7",
+      "d59f2nk5cwzk"
+    ],
+    "titles": [
+      "西吳里語",
+      "西吳里語",
+      "西吳裏語"
+    ],
+    "paths": [
+      "Work/t/d/t/d59fxy3v5tdt-西吳里語.json",
+      "Work/q/f/7/d59f6en91qf7-西吳里語.json",
+      "Work/w/z/k/d59f2nk5cwzk-西吳裏語.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "三條同為明宋雷四卷；千頃堂條與四庫條同entity_id，題里/裏異體；新總目條列適園叢書本，四庫存目叢書條亦明指民國張氏刻適園叢書本。新條因舊條缺朝代而另立，並無異書證。"
+    ],
+    "recommendation": "合併三Work並保留三套著錄；缺dynasty只降低匹配自信，不能反作異書證。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-015",
+    "type": "work",
+    "ids": [
+      "d59f2niolssh",
+      "d59fxycpv6kh"
+    ],
+    "titles": [
+      "古今治平略",
+      "古今治平畧"
+    ],
+    "paths": [
+      "Work/s/s/h/d59f2niolssh-古今治平略.json",
+      "Work/6/k/h/d59fxycpv6kh-古今治平畧.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同朱健（同entity_id），新條總目作33卷崇禎十一年鍾鈜刻本，老條續修四庫已載33卷崇禎鍾鋐刻本且另存明史36卷著錄。新條ai_note只因「卷差>1（33對36）」判不同著作；這是取單一主計量遮蔽同書版本著錄。"
+    ],
+    "recommendation": "合併；保留33/36及不分卷各來源，主計量不得掩蓋著錄異文。卷數差應作復核信號，非自動另立條件。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-016",
+    "type": "work",
+    "ids": [
+      "d59fy2deo4jk",
+      "d59f2mdml0qo"
+    ],
+    "titles": [
+      "澳門記畧",
+      "澳門記略"
+    ],
+    "paths": [
+      "Work/4/j/k/d59fy2deo4jk-澳門記畧.json",
+      "Work/0/q/o/d59f2mdml0qo-澳門記略.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條均有總目「[乾隆]澳門記畧二卷首一卷末一卷」「清印光任、張汝霖纂」；一條乾隆本、一條嘉慶本，是同作不同版本。新條authors把張汝霖誤標明，與自身author_info清相斥；舊條四庫提要確指清澳門同知，並已記明代同名人誤繫的訂正。"
+    ],
+    "recommendation": "合併同作；修正新條張汝霖朝代並避免繼承明人身份，不把版本差另立Work。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-017",
+    "type": "work",
+    "ids": [
+      "d59f2meezm69",
+      "d59fycry718h"
+    ],
+    "titles": [
+      "廟製圖考",
+      "廟制圖考"
+    ],
+    "paths": [
+      "Work/m/6/9/d59f2meezm69-廟製圖考.json",
+      "Work/1/8/h/d59fycry718h-廟制圖考.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "萬斯同同作1/4卷；舊條四庫提要已記「王士禎…廟製圖考四卷。此本只一卷，殆傳抄者所合併歟」，舊條又含清史稿4卷。新條仍僅因4對1卷差另立。但四庫自身用殆推斷，宜核四卷本與一卷本內容。"
+    ],
+    "recommendation": "列高優先待核；比對分卷和篇目，確認只是合卷再合併，不以卷差自動排除。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-018",
+    "type": "work",
+    "ids": [
+      "d59f2mdgc9vl",
+      "d59fy3q5vj0g"
+    ],
+    "titles": [
+      "台海使槎錄",
+      "臺海使槎錄"
+    ],
+    "paths": [
+      "Work/9/v/l/d59f2mdgc9vl-台海使槎錄.json",
+      "Work/j/0/g/d59fy3q5vj0g-臺海使槎錄.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "黃叔璥同題，一條8卷全本，另一中國古籍總目地理叢編之屬只1卷，版本名空。可能節本、殘卷或題名簡化，現記錄不能判。"
+    ],
+    "recommendation": "先取國圖sn41z4ylj5op5cl2原著錄及叢編上下文，分清摘錄新作與同書殘本。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-019",
+    "type": "work",
+    "ids": [
+      "d59fyt5nnu9u",
+      "d59f2ndpfl6o"
+    ],
+    "titles": [
+      "帝京景物畧",
+      "帝京景物略"
+    ],
+    "paths": [
+      "Work/u/9/u/d59fyt5nnu9u-帝京景物畧.json",
+      "Work/l/6/o/d59f2ndpfl6o-帝京景物略.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "兩條劉侗、于/於奕正八卷，但新條author_info明言「清紀昀删」，可能為內容刪訂而成獨立改編。只看authors撰人及異體題會將刪本誤並。"
+    ],
+    "recommendation": "核紀昀刪訂範圍；若構成獨立刪編Work則保留並補紀昀責任者與adapted_from/derived_from關係，若僅版本特徵再合併。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-020",
+    "type": "work",
+    "ids": [
+      "d59fxqmwcbgh",
+      "d59f2nojxclc"
+    ],
+    "titles": [
+      "兩當軒全集",
+      "兩當軒集"
+    ],
+    "paths": [
+      "Work/b/g/h/d59fxqmwcbgh-兩當軒全集.json",
+      "Work/c/l/c/d59f2nojxclc-兩當軒集.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "黃景仁兩當軒全集20卷附考異/附錄/補遺（黃志述輯），另一兩當軒集含22卷記錄及雷浚輯16卷稿本。同書異名線索明確，但輯者及內容範圍不同，不能僅依別名相交合併。"
+    ],
+    "recommendation": "比對兩種輯本與22卷著錄構成，釐清附屬部帙和獨立選編。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-021",
+    "type": "work",
+    "ids": [
+      "d59f2njg2ozm",
+      "d59f2njkg0e8"
+    ],
+    "titles": [
+      "弇州續稿",
+      "弇州四部稿"
+    ],
+    "paths": [
+      "Work/o/z/m/d59f2njg2ozm-弇州續稿.json",
+      "Work/0/e/8/d59f2njkg0e8-弇州四部稿.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "雖同作者且additional_titles同為弇州山人四部稿，四庫同一提要明確分正稿（賦詩文說四部）與晚歲續稿（賦詩文三部），明史亦分174卷正稿/218卷續稿。相同摘要是合併著錄，不是同一作品證。"
+    ],
+    "recommendation": "保留正續兩Work，糾正續稿的過泛別名，按規範補preceded_by。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-022",
+    "type": "work",
+    "ids": [
+      "d59f2nd0glj8",
+      "d59f6ettcdmt"
+    ],
+    "titles": [
+      "讀禮問",
+      "讀禮問"
+    ],
+    "paths": [
+      "Work/l/j/8/d59f2nd0glj8-讀禮問.json",
+      "Work/d/m/t/d59f6ettcdmt-讀禮問.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "兩條讀禮問新建原因明言僅因趙宦光/趙宧光不同；經義考條引潘耒字凡夫。人物強ID研究P-ID-002已據故宮典藏同頁並用趙宧光/趙宦光且同字凡夫確認同人，解除唯一異書理由。"
+    ],
+    "recommendation": "與人物合併聯動，先統一作者實體再合併讀禮問；吳肅公同題作品仍保留。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+    "external_evidence": [
+      "https://catalog.digitalarchives.tw/item/00/1c/c4/59.html"
+    ],
+    "depends_on": "people_identifiers/P-ID-002"
+  },
+  {
+    "case_id": "WL-023",
+    "type": "work",
+    "ids": [
+      "d59f2ngz4268",
+      "d59f2ng89n2b"
+    ],
+    "titles": [
+      "九圜史圖",
+      "九圜史"
+    ],
+    "paths": [
+      "Work/2/6/8/d59f2ngz4268-九圜史圖.json",
+      "Work/n/2/b/d59f2ng89n2b-九圜史.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "趙宧光/趙宦光已確認同人，九圜史圖/九圜史皆一卷，異題可能為省稱；但四庫說作者有圖志譜考辨說六部，本書其一，現記錄不足證另一九圜史不是另一部分。"
+    ],
+    "recommendation": "核《明史》與四庫所據目錄，確認省稱或圖/史分部後決定；暫不並。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  },
+  {
+    "case_id": "WL-024",
+    "type": "work",
+    "ids": [
+      "d59fxwou68si",
+      "d59f2mro9gqo"
+    ],
+    "titles": [
+      "說文解字",
+      "說文解字注箋"
+    ],
+    "paths": [
+      "Work/8/s/i/d59fxwou68si-說文解字.json",
+      "Work/g/q/o/d59f2mro9gqo-說文解字注箋.json"
+    ],
+    "verdict": "probable",
+    "evidence": [
+      "新條裸題說文解字15卷是段玉裁注、徐灝箋、北大稿本；既有說文解字注箋14卷的總目責任者也是段玉裁注/徐灝箋。疑稿本題名與刊本全名造成重出，不能誤並許慎原典。"
+    ],
+    "recommendation": "查北大稿本卷端及與徐氏刻本的內容關係，確為同一注箋稿刻兩本再合併。",
+    "content_equal_except_id": false,
+    "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815"
+  }
+]

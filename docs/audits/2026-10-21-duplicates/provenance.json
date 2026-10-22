@@ -1,0 +1,405 @@
+{
+  "archive": "book-index-duplicate-audit-2026-10-21.zip",
+  "archive_sha256": "4e373e990c568e214499d42e0b59f52949006d23715270ba4bdbdd32b52c5174",
+  "source_repository": "open-guji/book-index",
+  "source_commit": "4d6e3219417ac0f2217548b7c241e098c4d39815",
+  "imported_files": [
+    {
+      "path": "lanes/people_identifiers/报告.md",
+      "bytes": 4327,
+      "sha256": "09d0115ed5e940ec82c1b1c2da4d076540f23085743194d23ede083d9d69b3ca"
+    },
+    {
+      "path": "lanes/people_identifiers/findings.json",
+      "bytes": 5281,
+      "sha256": "870ea000ecfdfa499426acf2a58a8612e4f0a2cb13958893f24d43f6c2b17f0a"
+    },
+    {
+      "path": "lanes/people_names/报告.md",
+      "bytes": 6267,
+      "sha256": "c70985b381e5383b921625e965d8c142292eab3220338d24a34fe7f44b835e6a"
+    },
+    {
+      "path": "lanes/people_names/findings.json",
+      "bytes": 237886,
+      "sha256": "e1d0d64e8556d898e5dafa20a2b011d1018e0e63f6e2a7ea3b1244eb870644c1"
+    },
+    {
+      "path": "lanes/works_classics_history/报告.md",
+      "bytes": 17937,
+      "sha256": "a9155bd2cd01ed38c5a1f360f8e1d2fa9be584be312686dc129b99cc75ee3e98"
+    },
+    {
+      "path": "lanes/works_classics_history/findings.json",
+      "bytes": 21421,
+      "sha256": "f959ffb3c17e91b773a3a1009277997b6cdc4c1cacb55bf113f3cf7c09015fe5"
+    },
+    {
+      "path": "lanes/works_later_other/报告.md",
+      "bytes": 6879,
+      "sha256": "9467220722f371f073765e5b01ac432246f0db8a735322f4cf155a6e7659d824"
+    },
+    {
+      "path": "lanes/works_later_other/findings.json",
+      "bytes": 20279,
+      "sha256": "7d824257d80f6732bad7237b1ee0867c8feb8a393c65bc259426af24b5c38513"
+    },
+    {
+      "path": "lanes/books_identifiers/manual_findings.json",
+      "bytes": 12520,
+      "sha256": "3b9ebf54ca432b83a2f192390376c21f1c73d7d7efd99ae11e5d8e8849da03f2"
+    },
+    {
+      "path": "lanes/books_identifiers/报告.md",
+      "bytes": 6514,
+      "sha256": "9168fd1c65223ffb9963ed758faf6fe10f308b08fd38678695c0d919abd5a15a"
+    },
+    {
+      "path": "lanes/books_identifiers/findings.json",
+      "bytes": 1632070,
+      "sha256": "8fb68705df4f775d832ad004ec9c59ffb705753794e7724048998ab9e77ebb35"
+    },
+    {
+      "path": "lanes/books_editions/报告.md",
+      "bytes": 5689,
+      "sha256": "156098fb98b07ae3d1ef7710ecfad6419489bb223b7589627039225c8d7127ab"
+    },
+    {
+      "path": "lanes/books_editions/findings.json",
+      "bytes": 95770,
+      "sha256": "39899b650e5f77c2f13ec43dc77c193216e56123beedb4d03e54902c33350cc9"
+    },
+    {
+      "path": "verification/inventory.json",
+      "bytes": 1357,
+      "sha256": "9342749a148cf9e1bba117d9d7df5181bcf8ea12e4eee6b0e796731132d34a09"
+    },
+    {
+      "path": "verification/independent-verification.json",
+      "bytes": 260,
+      "sha256": "8ab180d175052104b9b773f376715bfb414653f4c691dee9c5bc73fba05dad0b"
+    },
+    {
+      "path": "verification/verified-work-machine.json",
+      "bytes": 213325,
+      "sha256": "85be7d01a9120ac14e555f097dc3a3a95aeb2f0c6a991819d697ba9da196cc20"
+    },
+    {
+      "path": "verification/verified-book-machine.json",
+      "bytes": 1631836,
+      "sha256": "3a8f67ffeb4ada37c750130dfd02d1e6e06f6330e3b942d62eb7c8d817059b88"
+    },
+    {
+      "path": "verification/snapshot-complete.json",
+      "bytes": 497,
+      "sha256": "10c503bfff4e9a8246eaebfc0e7380874763f7eb019e7b5c84dd04f1949bcee6"
+    },
+    {
+      "path": "report.html",
+      "bytes": 1121934,
+      "sha256": "5412c89dc5c66b43e3abe538e707f9ff8b89310b16fab12c5377023e291b9312"
+    },
+    {
+      "path": "all-evidence.json",
+      "bytes": 2492263,
+      "sha256": "93878249785dabd1237961e1c88e9728ef953cf9f5002adf3a0222ead0aa82c2"
+    },
+    {
+      "path": "confirmed-records.csv",
+      "bytes": 1126578,
+      "sha256": "e61dd56ced5d472cc1d19eb94235021481fda1692dceae8af5429c51df5981bf"
+    },
+    {
+      "path": "summary.json",
+      "bytes": 305,
+      "sha256": "4257a5c4a794d174a86fb20576a3abd69df64b7580656e440bf8b4424fc42b47"
+    },
+    {
+      "path": "confirmed-clusters.json",
+      "bytes": 1843958,
+      "sha256": "ed3e0d16cebe1f5b7d2d5dee225571f31aafae7f8878700142d99672cc304ebc"
+    }
+  ],
+  "omitted_files": [
+    {
+      "path": "lanes/people_identifiers/scan.py",
+      "bytes": 2756,
+      "sha256": "dba50e89d0da51051d043b2cefb22c27b4b5d4f206c5224bb5c2f88358c85ec5"
+    },
+    {
+      "path": "lanes/people_identifiers/stats.json",
+      "bytes": 782,
+      "sha256": "141fc2692ded5ab7f8c2d43e7d07480bc303e83450a8d497e7dcd329ebc17c94"
+    },
+    {
+      "path": "lanes/people_identifiers/identifier_candidates.json",
+      "bytes": 20809,
+      "sha256": "ac6ffb50357ec9a7af7d5827e5ca473541c602a31bd3cc50fcddb5452af19b44"
+    },
+    {
+      "path": "lanes/people_identifiers/work_references.json",
+      "bytes": 63977,
+      "sha256": "aded82f027a0266f8517ec561c39109951a6990c30abc9576a9de5a512c6dd17"
+    },
+    {
+      "path": "lanes/people_identifiers/date_candidates.json",
+      "bytes": 2142350,
+      "sha256": "7fb951762355d4d99e2004627b43ee7de2903925a5bebe7e60f580be231f3963"
+    },
+    {
+      "path": "lanes/people_names/build_report.py",
+      "bytes": 15495,
+      "sha256": "f32d24959e74fdaaa0881fff38504b54991e87a5cbebf7fab66d53acbca9cbb0"
+    },
+    {
+      "path": "lanes/people_names/candidates.json",
+      "bytes": 4332625,
+      "sha256": "225bbccff453765e0d543ff25459addc1b6114dba69e7e41a7ea24b5f46fea61"
+    },
+    {
+      "path": "lanes/people_names/scan.py",
+      "bytes": 3341,
+      "sha256": "bf8e5f17cff1650d15c764a638af6ee1ac65056c93022ea429ea3143e5e4213a"
+    },
+    {
+      "path": "lanes/people_names/stats.json",
+      "bytes": 592,
+      "sha256": "c01c2fd365b6ec4523d0ad5d15bdc9f3e0dec148a1c7bd9b0ea13e849f98c771"
+    },
+    {
+      "path": "lanes/people_names/shared_source_uri.json",
+      "bytes": 14388,
+      "sha256": "0f3200d52a87151cfa916430328b10d9ec8882bb6d17b9027e39a543e5b98614"
+    },
+    {
+      "path": "lanes/people_names/link_works.py",
+      "bytes": 1121,
+      "sha256": "226c017a988da54763d44411c463da69726397c3a245da51439dd257e0feb4f7"
+    },
+    {
+      "path": "lanes/works_classics_history/candidates.json",
+      "bytes": 108387292,
+      "sha256": "232473612958b740f1b72459d084e281aede62a5406882a16fedc781be3fd7b9"
+    },
+    {
+      "path": "lanes/works_classics_history/scan.py",
+      "bytes": 2998,
+      "sha256": "5f429e958ed102c90647cf0972ef266923cfc8adfaebdd95773df360a8b9e0fb"
+    },
+    {
+      "path": "lanes/works_classics_history/stats.json",
+      "bytes": 415,
+      "sha256": "38cafc4c589d462276cb0fb21133b7d5a4143855f8eb972fc335d73df7946607"
+    },
+    {
+      "path": "lanes/works_classics_history/candidates.json.gz",
+      "bytes": 5814954,
+      "sha256": "25dbd5cc329eb3c06d7b77b3256fada7d33fa2ac8c3328e0194eb81ea826d09c"
+    },
+    {
+      "path": "lanes/works_classics_history/make_report.py",
+      "bytes": 13235,
+      "sha256": "135b1e78ba7590a3556ea49dd50b8505c3ca91228aef95acb1c0d2cd38c1e75a"
+    },
+    {
+      "path": "lanes/works_later_other/scan.py",
+      "bytes": 2736,
+      "sha256": "09f05068814d8968946da528cb31531358a1a9cbf45e8b5faed00bc87655748d"
+    },
+    {
+      "path": "lanes/works_later_other/append_findings.py",
+      "bytes": 5833,
+      "sha256": "deabed062003db0dd2747ce16b06deb404e1ccb15992d5628760008cac3cbf7e"
+    },
+    {
+      "path": "lanes/works_later_other/alias_candidates.json",
+      "bytes": 2129369,
+      "sha256": "4ec285b426eab8919dfdf0f808131b5318f3a838489c3a11d4e8a48bdbac8b00"
+    },
+    {
+      "path": "lanes/works_later_other/stats.json",
+      "bytes": 447,
+      "sha256": "361e38dc765a01a107901460f46f5f0495c965876c25e4e025f2a0a541757912"
+    },
+    {
+      "path": "lanes/works_later_other/exact_work_verification_summary.json",
+      "bytes": 1729,
+      "sha256": "71a1c898d4f7c25f122411b4ea1611bc4f1fbf900efaa7eabe943e8843a39628"
+    },
+    {
+      "path": "lanes/works_later_other/exact_candidates.json",
+      "bytes": 20972736,
+      "sha256": "023ee7779aa3e2b8d2204b24bda89aaa6788d27d446b6c94f1683474720c3216"
+    },
+    {
+      "path": "lanes/works_later_other/verify_exact_work_groups.py",
+      "bytes": 3338,
+      "sha256": "b8aeaaec0a6461ec1816061278f09e8d3b4f1b33a53ff606913bab0d8b5aa337"
+    },
+    {
+      "path": "lanes/works_later_other/priority_pending_queue.json",
+      "bytes": 390554,
+      "sha256": "889ef89bb37556c95dec001d846ca63e748a00d5350983ce4da682900187bbc0"
+    },
+    {
+      "path": "lanes/works_later_other/read_groups.py",
+      "bytes": 705,
+      "sha256": "b132d3b81183184e8898a0f1fc41f076eb4f48fac4896471aaeec35ce64c1739"
+    },
+    {
+      "path": "lanes/works_later_other/batch423_stats.json",
+      "bytes": 228,
+      "sha256": "ca35d7f37b49f9a41d0fd2946575ec86daea649179005f3670c28ef5e12f504c"
+    },
+    {
+      "path": "lanes/works_later_other/make_findings.py",
+      "bytes": 3714,
+      "sha256": "3275c3aacacc017bf49779fc960498115bdde62c31e00c28488a91d3c587c6d3"
+    },
+    {
+      "path": "lanes/works_later_other/batch423_confirmed.json",
+      "bytes": 159403,
+      "sha256": "63cf292ba05ab31255ae3dcbbe35573c073906b76751a7dadf07cdfb4172967f"
+    },
+    {
+      "path": "lanes/works_later_other/check_batch423.py",
+      "bytes": 1786,
+      "sha256": "cfdbee0febdc1a3012d4670a130062aca2b5bb7cf785377f7dfc23b0c57d2d42"
+    },
+    {
+      "path": "lanes/works_later_other/exact_work_verified.json",
+      "bytes": 330682,
+      "sha256": "c49153b034d6c4554a967a7eadfa373fd7d2388ae253e238c86b540f8dfef3c7"
+    },
+    {
+      "path": "lanes/books_identifiers/strong_duplicate_pairs.json",
+      "bytes": 880129,
+      "sha256": "b5a75b5eaf8055dc814dfa8f1a3819409ffcccd546f5c4da74c31b2d1264ad5b"
+    },
+    {
+      "path": "lanes/books_identifiers/candidates.json",
+      "bytes": 89640229,
+      "sha256": "0025535ba7ef24bc768545afe5fc34c96322ca624bc7936f6c5e0d1d930b0656"
+    },
+    {
+      "path": "lanes/books_identifiers/orphan_books.json",
+      "bytes": 584793,
+      "sha256": "52952ccac16440f348fefa66be40fc991aba70d42a1b6b7c9d36abcf70e6976e"
+    },
+    {
+      "path": "lanes/books_identifiers/scan.py",
+      "bytes": 5026,
+      "sha256": "da62895c84f2ba112124154fb27dd9fbe73bc1f026bd87e16c830522f497cca1"
+    },
+    {
+      "path": "lanes/books_identifiers/validate_strong.py",
+      "bytes": 4558,
+      "sha256": "d763265a6e28f46d7eab44bbfddb720dc0fe1aff9a743e31f602d6acbd6a5e6d"
+    },
+    {
+      "path": "lanes/books_identifiers/orphan_stats.json",
+      "bytes": 414,
+      "sha256": "64feab4f77f91a69a36007e996134e2e4c8d23ef80884f8df91a08b037b82615"
+    },
+    {
+      "path": "lanes/books_identifiers/stats.json",
+      "bytes": 94516,
+      "sha256": "59674cae84a9c658f2eb03c4f42f3f6a3a292f52f07735dcd55352a65aee8031"
+    },
+    {
+      "path": "lanes/books_identifiers/orphans.py",
+      "bytes": 1928,
+      "sha256": "7e24c1f5087ca8e398ac7dd505b61419007a8d37f6972dd3866b84b3d76f3b9a"
+    },
+    {
+      "path": "lanes/books_identifiers/summarize.py",
+      "bytes": 709,
+      "sha256": "3aee89269eae3a9544033e287af8fbee3f4f10d94900119dae5d372bf89d9ad4"
+    },
+    {
+      "path": "lanes/books_identifiers/build_source_pairs.py",
+      "bytes": 1256,
+      "sha256": "3b20763b81edcf7b3c49ae7337c683eac4b0824d5b5edf3904febee925ce043d"
+    },
+    {
+      "path": "lanes/books_identifiers/orphan_duplicate_source_groups.json",
+      "bytes": 64155,
+      "sha256": "22d6cff0477befcce1f06fe363990f4bf258c6a68569b513707ffbc67424f2b7"
+    },
+    {
+      "path": "lanes/books_identifiers/strong_stats.json",
+      "bytes": 428,
+      "sha256": "d808349988eadbe6be01191c58a60f870e3af09819ea2646d711ca63bbffee2b"
+    },
+    {
+      "path": "lanes/books_identifiers/make_findings.py",
+      "bytes": 7889,
+      "sha256": "5c633eaebd7331c5bb45ed8f4565691bdedcb3748abe87fc920d31c083d2b0ed"
+    },
+    {
+      "path": "lanes/books_identifiers/contained_duplicate_pairs.json",
+      "bytes": 727104,
+      "sha256": "3452857939e4fe5724f6d1ccc3ef5685547e340c190c0280a2d479207bbaf289"
+    },
+    {
+      "path": "lanes/books_editions/candidates.json",
+      "bytes": 21859129,
+      "sha256": "df3f77b5d2c01f27295851644b09f9c21e4f8c3eb5b41a8690c3b9db0f047380"
+    },
+    {
+      "path": "lanes/books_editions/scan.py",
+      "bytes": 3599,
+      "sha256": "ed7c0296d896b92ee165d6b0927ee65f6165277567b7731c54f9a8e47a0be8a8"
+    },
+    {
+      "path": "lanes/books_editions/verified_exact_92.json",
+      "bytes": 80107,
+      "sha256": "3ff2881ee48b9784c9be2c2d4b055ad84ae917776b77f406bbc4bff53056a540"
+    },
+    {
+      "path": "lanes/books_editions/finalize.py",
+      "bytes": 4327,
+      "sha256": "14428a2120ec3095ba26cb1723616f6badef0bf9755d2a500f57edde39a30235"
+    },
+    {
+      "path": "lanes/books_editions/stats.json",
+      "bytes": 1598,
+      "sha256": "13745d12fe30fbf1ef5fedb3c20d259951abc5f68548fe262e510f21b14e47fa"
+    },
+    {
+      "path": "lanes/books_editions/coverage.json",
+      "bytes": 414,
+      "sha256": "9048f78843f107b1fc5abf62373161a6222843a72e5633d4b5f16fba5b96e83b"
+    },
+    {
+      "path": "verification/exact-duplicate-candidates.json",
+      "bytes": 324256,
+      "sha256": "69b617951ae055e808e9acc10c036f99bd720ce5302b4dc79f4fab276be3ac28"
+    },
+    {
+      "path": "verification/exact-work-summary.json",
+      "bytes": 300617,
+      "sha256": "605e401b4efa5ad648da9c4e0f04c6ca7c8d5e318b6302ade95745134558e03b"
+    },
+    {
+      "path": "verification/duplicate-path-ids.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "verification/scan_inventory.py",
+      "bytes": 2010,
+      "sha256": "61d6e86b7109d798461842346c1b568e7d004e01a244f70deac16590e935ce10"
+    },
+    {
+      "path": "verification/verify_evidence.py",
+      "bytes": 3510,
+      "sha256": "abcbd5a4b4ab29a0ee033f38e36b0858bdabc716a0799888fca5fcb8854c157f"
+    },
+    {
+      "path": "verification/consolidate.py",
+      "bytes": 3432,
+      "sha256": "efd334187a425c59897e00e1019af69ae75c29cabc94958a0280dfc118b90d4d"
+    }
+  ]
+}
