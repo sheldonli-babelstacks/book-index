@@ -1,0 +1,337 @@
+[
+  {
+    "ids": [
+      "993dyg0tfm",
+      "993dmqmg3k"
+    ],
+    "titles": [
+      "湯液本草經雅正",
+      "湯液本草經雅正"
+    ],
+    "paths": [
+      "Book/t/f/m/993dyg0tfm-湯液本草經雅正稿本.json",
+      "Book/g/3/k/993dmqmg3k-湯液本草經雅正稿本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同《中國古籍總目》instance u7f242szmnvyr6k4；同上海中醫藥大學圖書館 item/nj7uqw3uv5ajl4iy；均稿本、十卷。",
+      "全文仅 id/work_id 不同。"
+    ],
+    "recommendation": "与重复的两个《湯液本草經雅正》Work一并归并，Book留墓碑。"
+  },
+  {
+    "ids": [
+      "993dwz9pmp",
+      "993dl6qyv6"
+    ],
+    "titles": [
+      "食物本草會纂",
+      "食物本草會纂"
+    ],
+    "paths": [
+      "Book/p/m/p/993dwz9pmp-食物本草會纂清道光二十三年四盛堂刻本.json",
+      "Book/y/v/6/993dl6qyv6-食物本草會纂清道光二十三年四盛堂刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同 instance 41blh6uv7ydzc3rn、1843年四盛堂刻本、十二卷。",
+      "山东省馆、贵阳中医学院、南京馆、国家馆、天津中医药大学第一附属医院五处馆藏item逐项相同。全文仅id/work_id异。"
+    ],
+    "recommendation": "与《食物本草會纂》Work重复批次一起修复。"
+  },
+  {
+    "ids": [
+      "993dybc9a9",
+      "993dml06bk"
+    ],
+    "titles": [
+      "太醫院補遺本草歌訣雷公炮製",
+      "太醫院補遺本草歌訣雷公炮製"
+    ],
+    "paths": [
+      "Book/9/a/9/993dybc9a9-太醫院補遺本草歌訣雷公炮製明萬曆十五年金陵書林周曰校刻本.json",
+      "Book/6/b/k/993dml06bk-太醫院補遺本草歌訣雷公炮製明萬曆十五年金陵書林周曰校刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同 instance 4cqmfyb1tlkrzaf5；同哈佛燕京馆 item/ppgxev33v1uivkbf；均1587年金陵书林周曰校刻本、八卷。全文仅id/work_id异。"
+    ],
+    "recommendation": "与相关Work重复批次归并，保留同一版本记录。"
+  },
+  {
+    "ids": [
+      "988g481zb6",
+      "988g4v5jid"
+    ],
+    "titles": [
+      "九章算經",
+      "九章筭經"
+    ],
+    "paths": [
+      "Book/z/b/6/988g481zb6-九章算經清康熙間毛氏汲古閣景寫宋嘉定六年鮑澣之汀州重刻元豐監本御題算經七種之一.json",
+      "Book/j/i/d/988g4v5jid-九章筭經清康熙間毛氏汲古閣景鈔宋嘉定六年鮑澣之汀州重刊元豐七年祕書省本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同故宫统一编号故善002007-002008、同work_id，题名仅算/筭差异。",
+      "均清康熙毛氏汲古阁景写/景钞宋嘉定六年鲍澣之汀州本，都是现存卷一至五；行款、尺寸、印章完全相同。",
+      "前条ai_note明言据Work描述新建，未取acckey；后条已有acckey 3260be1243b6e542a79b5b7f8fc7c78d。"
+    ],
+    "recommendation": "保留带acckey的988g4v5jid并迁入另一条信息；edition_type写刻本与景钞描述冲突需另核，勿把底本与此清抄本误为两部。"
+  },
+  {
+    "ids": [
+      "988g3rtn2h",
+      "988g7wpu6g"
+    ],
+    "titles": [
+      "博雅",
+      "博雅"
+    ],
+    "paths": [
+      "Book/n/2/h/988g3rtn2h-博雅明嘉靖間吳郡皇甫錄校刊本.json",
+      "Book/u/6/g/988g7wpu6g-博雅明正德十五年皇甫錄世業堂刊本.json"
+    ],
+    "verdict": "probable",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同故宫平圖019273、同题《博雅》、同尺寸行款与铁琴铜剑楼印。",
+      "前条J9据Work描述补建无acckey，后条已有acckey；但版本年代嘉靖与正德十五年冲突、work_id不同。"
+    ],
+    "recommendation": "疑为补建重复。先回查故宫原目录判定1520或嘉靖，以及所属Work；不直接覆盖年代。"
+  },
+  {
+    "ids": [
+      "988g6gl7go",
+      "988g8sva4s"
+    ],
+    "titles": [
+      "音點大字荀子句解",
+      "音點大字荀子句解"
+    ],
+    "paths": [
+      "Book/7/g/o/988g6gl7go-音點大字荀子句解宋刊本.json",
+      "Book/a/4/s/988g8sva4s-音點大字荀子句解宋景定間杭州龔士卨刊本.json"
+    ],
+    "verdict": "probable",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同故宫贈善003261-003266、同题《音點大字荀子句解》、同15枚印章及版框行款。",
+      "前条宋刊本带acckey，后条J10据Work描述补建为宋景定杭州龚士卨刊本无acckey；差异主要是年代详略与work_id。"
+    ],
+    "recommendation": "核实注本Work层后并Book；保留acckey，年代依据分别保存。"
+  },
+  {
+    "ids": [
+      "988fz8vrig",
+      "988g1syrr8"
+    ],
+    "titles": [
+      "新鋟抱朴子內篇四卷外篇",
+      "新鋟抱朴子"
+    ],
+    "paths": [
+      "Book/r/i/g/988fz8vrig-新鋟抱朴子內篇四卷外篇明萬曆間吳興慎懋官刊本.json",
+      "Book/r/r/8/988g1syrr8-新鋟抱朴子明萬曆間吳興慎懋官刊本.json"
+    ],
+    "verdict": "probable",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同故宫故觀011066-011069；同明万历吴兴慎懋官刊本；前条J9据Work描述补建无acckey，后条已有acckey。",
+      "前题《新鋟抱朴子內篇四卷外篇》疑将卷数/部次混入题名；后题《新鋟抱朴子》。"
+    ],
+    "recommendation": "核对原书目录及内外篇范围，确认是否整部重复后处理Work和Book。"
+  },
+  {
+    "ids": [
+      "988g48zoy5",
+      "988g6n56vb"
+    ],
+    "titles": [
+      "御批歷代通鑑輯覽",
+      "御批歷代通鑑輯覽"
+    ],
+    "paths": [
+      "Book/o/y/5/988g48zoy5-御批歷代通鑑輯覽清乾隆間內府烏絲欄朱墨寫本.json",
+      "Book/6/v/b/988g6n56vb-御批歷代通鑑輯覽清乾隆間內府烏絲欄朱墨寫本.json"
+    ],
+    "verdict": "probable",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同Work、同题、同清乾隆内府乌丝栏朱墨写本、同版框及3807页。",
+      "provenance号均故殿000763-000862，故殿018948-018963；一侧metadata仍留旧误码018948-18963（ai_note载已修正provenance），但两侧acckey不同。"
+    ],
+    "recommendation": "高度疑重复来源记录，先以两acckey核对是否同套/分段；不能按一侧旧号机械生成新藏本。"
+  },
+  {
+    "ids": [
+      "988fz62mmn",
+      "988g90cz5t"
+    ],
+    "titles": [
+      "新刊補注通真子脈要秘括目錄",
+      "新刊注王叔和脈訣"
+    ],
+    "paths": [
+      "Book/m/m/n/988fz62mmn-新刊補注通真子脈要秘括目錄日本鈔本.json",
+      "Book/z/5/t/988g90cz5t-新刊注王叔和脈訣日本鈔本.json"
+    ],
+    "verdict": "unresolved",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同故宫故觀003454、日本钞本；前条题新刊補注通真子脈要秘括目錄，后条题新刊注王叔和脈訣。",
+      "前条据Work描述补建无acckey，可能为同册附属目录，也可能合订两书；缺卷册与题签证据。"
+    ],
+    "recommendation": "查原册目录/题签，确认附属目录或合订子目；不可仅同馆藏号合并两个Work。"
+  },
+  {
+    "ids": [
+      "991mmu8ufb",
+      "991mmu8ufd"
+    ],
+    "titles": [
+      "四書章句集注",
+      "四書章句集注"
+    ],
+    "paths": [
+      "Book/u/f/b/991mmu8ufb-四書章句集注日本文政八年大坂秋田屋太右衞門刊本.json",
+      "Book/u/f/d/991mmu8ufd-四書章句集注日本天明三年大坂北尾善七刊本.json"
+    ],
+    "verdict": "retain",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "虽同京都学歴彩馆索书号和/123.8/Sh99/1～10，但國書ID分别100436360与100436361。",
+      "前者1825年文政八年秋田屋太右卫门刊；后者1783年天明三年北尾善七刊，注为延宝二年本再刻首书本。"
+    ],
+    "recommendation": "保留两Book，馆藏分类式索书号不可当严格唯一实体号。"
+  },
+  {
+    "ids": [
+      "99383l7vuo",
+      "9938tbczk1"
+    ],
+    "titles": [
+      "賓昜子年譜",
+      "賓昜子年譜"
+    ],
+    "paths": [
+      "Book/v/u/o/99383l7vuo-賓昜子年譜稿本.json",
+      "Book/z/k/1/9938tbczk1-賓昜子年譜稿本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "《賓昜子年譜》稿本三卷；同source f4wwgoitlgrtrrsx，同上海图书馆item ucd3ydaocuo7ug1o。",
+      "仅id及authors不同：后条补顾陈垿/顾师轼，前条author为空，而两条著录语本来已同时列两人。"
+    ],
+    "recommendation": "保留完整责任者记录并留墓碑；不是另一个稿本。"
+  },
+  {
+    "ids": [
+      "99383l7vup",
+      "9938tbczk2"
+    ],
+    "titles": [
+      "賓昜子年譜",
+      "賓昜子年譜"
+    ],
+    "paths": [
+      "Book/v/u/p/99383l7vup-賓昜子年譜五石齋抄本.json",
+      "Book/z/k/2/9938tbczk2-賓昜子年譜五石齋抄本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "《賓昜子年譜》五石斋抄本二卷；同source x50q7qgqd6a7gf8n，同科学院馆item 8p7yrps46o7y7rdb。",
+      "仅id及authors不同：后条比前条多顾陈垿撰，顾师轼补纂、邓之诚题记相同。"
+    ],
+    "recommendation": "并此抄本两条；应与三卷稿本分别保留。"
+  },
+  {
+    "ids": [
+      "993vyn8ikg",
+      "993wv7z20w"
+    ],
+    "titles": [
+      "西遊原旨讀法",
+      "西遊原旨讀法"
+    ],
+    "paths": [
+      "Book/i/k/g/993vyn8ikg-西遊原旨讀法清嘉慶間刻本.json",
+      "Book/2/0/w/993wv7z20w-西遊原旨讀法清嘉慶間刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "同source tcgygeftfl3pf2fl与y1na11org76avobd、同Work、同清嘉庆刻本、两馆藏item相同。",
+      "仅id和merged_from不同：一条保存已升格993vymxa0y，另一条存旧draft ID 11snmhka7yj9e。其余全文相同。"
+    ],
+    "recommendation": "这是并条产物重复，统一旧/新ID账后保留一条；迁移所有merged_from历史，勿因账不同再立两条。"
+  },
+  {
+    "ids": [
+      "988fzgop3e",
+      "988fzmayvm",
+      "988fzp43r7"
+    ],
+    "titles": [
+      "坦庵詞",
+      "珠玉詞",
+      "東堂詞"
+    ],
+    "paths": [
+      "Book/p/3/e/988fzgop3e-坦庵詞欽定四庫全書文淵閣本.json",
+      "Book/y/v/m/988fzmayvm-珠玉詞欽定四庫全書文淵閣本.json",
+      "Book/3/r/7/988fzp43r7-東堂詞欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "retain",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "《坦庵詞》《珠玉詞》《東堂詞》共同链接文渊阁四库全书1487册.djvu；不同题名和Work，同一册合集扫描承载多种。"
+    ],
+    "recommendation": "保留独立Book。相同合集资源URL只代表共享载体，不能据此合并。"
+  },
+  {
+    "ids": [
+      "96mas7n8cg",
+      "988lj0rf2e",
+      "988lj0rf2g"
+    ],
+    "titles": [
+      "欽定四庫全書考證",
+      "春秋考",
+      "敬齋古今黈"
+    ],
+    "paths": [
+      "Book/8/c/g/96mas7n8cg-欽定四庫全書考證武英殿聚珍版.json",
+      "Book/f/2/e/988lj0rf2e-春秋考武英殿聚珍版.json",
+      "Book/f/2/g/988lj0rf2g-敬齋古今黈武英殿聚珍版.json"
+    ],
+    "verdict": "retain",
+    "evidence_type": "manual_source_review",
+    "manual_review": true,
+    "evidence": [
+      "《欽定四庫全書考證》《春秋考》《敬齋古今黈》等144条Book共享nlc_book_id 411999005227。",
+      "该ID对应武英殿聚珍版书集合入口，非每种单书唯一ID。"
+    ],
+    "recommendation": "保留各书，仅将该键作为集合层标识；勿按nlc_book_id全局一键合并。"
+  }
+]

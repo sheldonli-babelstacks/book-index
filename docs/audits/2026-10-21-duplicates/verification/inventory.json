@@ -1,0 +1,70 @@
+{
+  "Entity": {
+    "counts": {
+      "json_files": 56265,
+      "records": 56265,
+      "active": 55191,
+      "tombstones": 1069,
+      "retired": 5
+    },
+    "subtypes": {
+      "people": 53879,
+      "place": 951,
+      "publisher": 71,
+      "reign": 735,
+      "office": 307,
+      "collective": 170,
+      "seal": 13,
+      "dynasty": 139
+    },
+    "errors": [],
+    "exact_except_id_groups": 0,
+    "exact_except_admin_groups": 0
+  },
+  "Work": {
+    "counts": {
+      "json_files": 269023,
+      "records": 269023,
+      "active": 266503,
+      "tombstones": 2520
+    },
+    "subtypes": {
+      "": 266041,
+      "article": 2524,
+      "poem": 320,
+      "chapter": 110,
+      "book": 28
+    },
+    "errors": [],
+    "exact_except_id_groups": 412,
+    "exact_except_admin_groups": 440
+  },
+  "Book": {
+    "counts": {
+      "json_files": 381694,
+      "records": 381694,
+      "active": 381220,
+      "tombstones": 474
+    },
+    "subtypes": {
+      "": 381694
+    },
+    "errors": [],
+    "exact_except_id_groups": 3,
+    "exact_except_admin_groups": 92
+  },
+  "Collection": {
+    "counts": {
+      "json_files": 2937,
+      "records": 2937,
+      "active": 2937
+    },
+    "subtypes": {
+      "book_collection": 2921,
+      "work_collection": 16
+    },
+    "errors": [],
+    "exact_except_id_groups": 7,
+    "exact_except_admin_groups": 7
+  }
+}

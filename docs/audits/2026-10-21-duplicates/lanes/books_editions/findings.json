@@ -1,0 +1,2505 @@
+[
+  {
+    "ids": [
+      "988g2ag268",
+      "988g44b4sm"
+    ],
+    "titles": [
+      "周易正義",
+      "周易正義"
+    ],
+    "paths": [
+      "Book/2/6/8/988g2ag268-周易正義日本室町期鈔本.json",
+      "Book/4/s/m/988g44b4sm-周易正義日本室町期鈔本.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "work_id同为d59f28mx07wg；edition同为日本室町期鈔本；contained_in同为8rlcsybg2hhl",
+      "馆藏号分别为故觀013777-013783、故觀013760-013762，npm_acckey亦不同；前者有「新宮城書藏」印，后者无印记记录"
+    ],
+    "recommendation": "保留两个藏本记录；同题同版本同丛编不足以判重。",
+    "review_method": "逐条读取基线commit下完整JSON",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "993sbr20w0",
+      "9957cvaxvl"
+    ],
+    "titles": [
+      "佛說五十頌聖般若波羅蜜經",
+      "佛說五十頌聖般若波羅蜜經"
+    ],
+    "paths": [
+      "Book/0/w/0/993sbr20w0-佛說五十頌聖般若波羅蜜經明永樂十八年至正統五年刻.json",
+      "Book/x/v/l/9957cvaxvl-佛說五十頌聖般若波羅蜜經明永樂十八年至正統五年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：zr8r5qmz0ob4yagg",
+      "题名、版本、卷数、出版信息和 indexed_by 完全一致；分别导入于 2026-10-19 与 2026-10-21",
+      "work_id不同：1exoboy6m4agz / d59fy9ekfyf5，须联动Work核查；非两个不同馆藏或分册",
+      "经Work组核查，旧1exoboy6m4agz未在当前Work文件表命中；需核promotions映射，不直接认定现存双Work。"
+    ],
+    "recommendation": "解析旧work_id升格去向，合并重复Book并保留墓碑；先修复引用，不盲目新增或合并Work。",
+    "review_method": "逐条读取基线commit下完整JSON",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9954l761oh",
+      "993avdq3up"
+    ],
+    "titles": [
+      "歐陽文忠公瀧岡阡表",
+      "歐陽文忠公瀧岡阡表"
+    ],
+    "paths": [
+      "Book/1/o/h/9954l761oh-歐陽文忠公瀧岡阡表清宣統三年江西開智書局影印明拓本.json",
+      "Book/3/u/p/993avdq3up-歐陽文忠公瀧岡阡表清宣統三年江西開智書局影印明拓本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：weihm5fjpthkojsa",
+      "题名、版本、卷数、出版信息和 indexed_by 完全一致；分别导入于 2026-10-21 与 2026-10-18",
+      "work_id不同：d59f2hnysjr6 / d59fxry7f9xc，须联动Work核查；非两个不同馆藏或分册",
+      "经Work组核查，d59f2hnysjr6为article文本，d59fxry7f9xc为书法/碑刻作品建模，Work是否并条另裁，不影响同来源Book重出判断。"
+    ],
+    "recommendation": "Book按同一来源藏本去重并保留墓碑；目标work_id须先厘清文章与书法/碑刻作品的挂接，不直接强并两Work。",
+    "review_method": "逐条读取基线commit下完整JSON",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "99575b4074",
+      "993n42mg3k"
+    ],
+    "titles": [
+      "黃帝内經素問註證發微",
+      "黃帝内經素問註證發微"
+    ],
+    "paths": [
+      "Book/0/7/4/99575b4074-黃帝内經素問註證發微清宣統二年上海錦章書局石印本.json",
+      "Book/g/3/k/993n42mg3k-黃帝内經素問註證發微清宣統二年上海錦章書局石印本.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "同work_id d59f2njk4rnm、同1910上海錦章書局石印本、同甘肅/遼寧/中國醫科大學三馆",
+      "99575b4074 measure_info为九卷補遺一卷黃帝内經靈樞註證發微九卷；993n42mg3k仅九卷補遺一卷；各馆来源item ID不同，instance ID也不同"
+    ],
+    "recommendation": "核查总目是否整套/单部重复著录或不同完整度藏本，不能据同题同版同馆直接合并。",
+    "review_method": "逐条读取基线commit下完整JSON",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "993sbr20w1",
+      "9957cuogsh"
+    ],
+    "titles": [
+      "佛說五十頌聖般若波羅蜜經",
+      "佛說五十頌聖般若波羅蜜經"
+    ],
+    "paths": [
+      "Book/0/w/1/993sbr20w1-佛說五十頌聖般若波羅蜜經宋紹興十八年福州開元寺刻.json",
+      "Book/g/s/h/9957cuogsh-佛說五十頌聖般若波羅蜜經宋紹興十八年福州開元寺刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：1k2c3aws6k5uv0d2",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9957db81kw",
+      "993sc2akg0"
+    ],
+    "titles": [
+      "佛說懈怠耕者經",
+      "佛說懈怠耕者經"
+    ],
+    "paths": [
+      "Book/1/k/w/9957db81kw-佛說懈怠耕者經元至元間杭州路餘杭大普寧寺刻.json",
+      "Book/k/g/0/993sc2akg0-佛說懈怠耕者經元至元間杭州路餘杭大普寧寺刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：30cvf83npqnztxmy",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "993sbpt2ps",
+      "9957ctqr5s"
+    ],
+    "titles": [
+      "佛說五千頌聖般若波羅蜜經",
+      "佛說五千頌聖般若波羅蜜經"
+    ],
+    "paths": [
+      "Book/2/p/s/993sbpt2ps-佛說五千頌聖般若波羅蜜經元至元間杭州路餘杭大普寧寺刻.json",
+      "Book/r/5/s/9957ctqr5s-佛說五千頌聖般若波羅蜜經元至元間杭州路餘杭大普寧寺刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：5i6c17yqexecm0oj",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9957cy42rk",
+      "993sbtjx8h"
+    ],
+    "titles": [
+      "佛說無畏陀羅尼經",
+      "佛說無畏陀羅尼經"
+    ],
+    "paths": [
+      "Book/2/r/k/9957cy42rk-佛說無畏陀羅尼經元大德十至十一年釋管主八刻.json",
+      "Book/x/8/h/993sbtjx8h-佛說無畏陀羅尼經元大德十至十一年釋管主八刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：kxa7ca82ehrofduu,7pt7ze7r3w1ngvt7",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "993sbv43y8",
+      "9957d0x7nl"
+    ],
+    "titles": [
+      "佛說息除賊難陀羅尼經",
+      "佛說息除賊難陀羅尼經"
+    ],
+    "paths": [
+      "Book/3/y/8/993sbv43y8-佛說息除賊難陀羅尼經明崇禎十五年常熟毛鳳苞刻.json",
+      "Book/7/n/l/9957d0x7nl-佛說息除賊難陀羅尼經明崇禎十五年常熟毛鳳苞刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：ganr4hycnvug2nog",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "993sc0f56p",
+      "9957d9cmbl"
+    ],
+    "titles": [
+      "佛說校量數珠功德經",
+      "佛說校量數珠功德經"
+    ],
+    "paths": [
+      "Book/5/6/p/993sc0f56p-佛說校量數珠功德經元至元間杭州路餘杭大普寧寺刻.json",
+      "Book/m/b/l/9957d9cmbl-佛說校量數珠功德經元至元間杭州路餘杭大普寧寺刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：irxtc8h518yrfchg",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9957d8q58h",
+      "993sc11m9t"
+    ],
+    "titles": [
+      "佛說校量數珠功德經",
+      "佛說校量數珠功德經"
+    ],
+    "paths": [
+      "Book/5/8/h/9957d8q58h-佛說校量數珠功德經宋嘉熙三至四年平江府磧砂延聖院刻.json",
+      "Book/m/9/t/993sc11m9t-佛說校量數珠功德經宋嘉熙三至四年平江府磧砂延聖院刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同一上圖來源instance：6cfwk7lgo1komvvk",
+      "除id、work_id及revised_at外全部字段相同；[]",
+      "旧work_id 1ex… 与新work_id d59… 需经promotions映射确认，不当作现存双Work直接合并"
+    ],
+    "recommendation": "先解析旧work_id的升格去向；相同源记录的Book去重，保留墓碑和所有入边。",
+    "review_method": "逐条读取基线commit下完整JSON并比较全部字段",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9957db81kw",
+      "9957ctqr5s"
+    ],
+    "titles": [
+      "佛說懈怠耕者經",
+      "佛說五千頌聖般若波羅蜜經"
+    ],
+    "paths": [
+      "Book/1/k/w/9957db81kw-佛說懈怠耕者經元至元間杭州路餘杭大普寧寺刻.json",
+      "Book/r/5/s/9957ctqr5s-佛說五千頌聖般若波羅蜜經元至元間杭州路餘杭大普寧寺刻.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "两条分别为佛說懈怠耕者經、佛說五千頌聖般若波羅蜜經，题名和Work不同",
+      "同为元至元間杭州路餘杭大普寧寺刻，provenance均增上寺item/1qmv6v72np4o4hgh与淺草寺item/se7orpjg03v1t2q5",
+      "共享的是藏经集合馆藏item；各经的sources.instance不同：30cvf83npqnztxmy / 5i6c17yqexecm0oj"
+    ],
+    "recommendation": "保留不同佛经条目；馆藏item号跨书共用时不能当作Book唯一键。",
+    "review_method": "逐条读取完整JSON并对比不同佛经的来源层级",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9940hbfmkg",
+      "994xddd3i8"
+    ],
+    "titles": [
+      "邇言",
+      "邇言"
+    ],
+    "paths": [
+      "Book/m/k/g/9940hbfmkg-邇言民國二十四年刻.json",
+      "Book/3/i/8/994xddd3i8-邇言民國二十四年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4y90xt；edition=民國二十四年刻",
+      "相同来源记录ID：x6q7wl8ydrjjmnk5"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xam3mrk",
+      "9940h6ftvk"
+    ],
+    "titles": [
+      "張文端公詩文選",
+      "張文端公詩文選"
+    ],
+    "paths": [
+      "Book/m/r/k/994xam3mrk-張文端公詩文選民國二十三年刻.json",
+      "Book/t/v/k/9940h6ftvk-張文端公詩文選民國二十三年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4uteyo；edition=民國二十三年刻",
+      "相同来源记录ID：1blbuf2agtlhcgws"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xdcqmf4",
+      "9940h4962o"
+    ],
+    "titles": [
+      "劍南閒適詩選",
+      "劍南閒適詩選"
+    ],
+    "paths": [
+      "Book/m/f/4/994xdcqmf4-劍南閒適詩選.json",
+      "Book/6/2/o/9940h4962o-劍南閒適詩選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fsdznmwhy；edition=",
+      "相同来源记录ID：glhpktaizr34yt7y"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xdcqmf5",
+      "9940h5i48w"
+    ],
+    "titles": [
+      "擊壤集選",
+      "擊壤集選"
+    ],
+    "paths": [
+      "Book/m/f/5/994xdcqmf5-擊壤集選.json",
+      "Book/4/8/w/9940h5i48w-擊壤集選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fsdypm1a8；edition=",
+      "相同来源记录ID：lj4f1ttqybu2chpi"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944vdkmio",
+      "993ljpnw8w"
+    ],
+    "titles": [
+      "玄學正宗",
+      "玄學正宗"
+    ],
+    "paths": [
+      "Book/m/i/o/9944vdkmio-玄學正宗金丹正理大全本.json",
+      "Book/w/8/w/993ljpnw8w-玄學正宗金丹正理大全本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly6nbi9；edition=金丹正理大全本",
+      "相同来源记录ID：xr6ynfkbnlvad1p1"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljk1mgw",
+      "9944v7ycqo"
+    ],
+    "titles": [
+      "續性命圭旨",
+      "續性命圭旨"
+    ],
+    "paths": [
+      "Book/m/g/w/993ljk1mgw-續性命圭旨清寶仁堂刻本.json",
+      "Book/c/q/o/9944v7ycqo-續性命圭旨清寶仁堂刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly1ca9t；edition=清寶仁堂刻本",
+      "相同来源记录ID：37umuzxlhcbwz0eu"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcbwmbk",
+      "9940hb4e0w"
+    ],
+    "titles": [
+      "治水述要",
+      "治水述要"
+    ],
+    "paths": [
+      "Book/m/b/k/994xcbwmbk-治水述要.json",
+      "Book/e/0/w/9940hb4e0w-治水述要.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4y90xs；edition=",
+      "相同来源记录ID：d65537ijbrmak0gs"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcbwmbl",
+      "9940ha6oe8"
+    ],
+    "titles": [
+      "醇親王巡閱北洋海防日記",
+      "醇親王巡閱北洋海防日記"
+    ],
+    "paths": [
+      "Book/m/b/l/994xcbwmbl-醇親王巡閱北洋海防日記民國二十七年刻.json",
+      "Book/o/e/8/9940ha6oe8-醇親王巡閱北洋海防日記民國二十七年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4xbbb5；edition=民國二十七年刻",
+      "相同来源记录ID：h36s6g2ewe2b3rwu"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944varhmp",
+      "993ljmurcx"
+    ],
+    "titles": [
+      "玄門報孝追薦儀",
+      "玄門報孝追薦儀"
+    ],
+    "paths": [
+      "Book/h/m/p/9944varhmp-玄門報孝追薦儀道藏本.json",
+      "Book/r/c/x/993ljmurcx-玄門報孝追薦儀道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly4gnpc；edition=道藏本",
+      "相同来源记录ID：h43ugzx1ixo3s3xg"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xapuha8",
+      "9940h8xq80"
+    ],
+    "titles": [
+      "讀書樂趣約選",
+      "讀書樂趣約選"
+    ],
+    "paths": [
+      "Book/h/a/8/994xapuha8-讀書樂趣約選民國二十二年刻.json",
+      "Book/q/8/0/9940h8xq80-讀書樂趣約選民國二十二年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4wdloh；edition=民國二十二年刻",
+      "相同来源记录ID：q6j8vgn88mx2gjig"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xapuha9",
+      "9940h8b94w"
+    ],
+    "titles": [
+      "讀史管見",
+      "讀史管見"
+    ],
+    "paths": [
+      "Book/h/a/9/994xapuha9-讀史管見民國間影印清乾隆本.json",
+      "Book/9/4/w/9940h8b94w-讀史管見民國間影印清乾隆本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4w2d4w；edition=民國間影印清乾隆本",
+      "相同来源记录ID：r72z11py53ekclxc"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h8mhog",
+      "994xaq5pts"
+    ],
+    "titles": [
+      "香山閒適詩選",
+      "香山閒適詩選"
+    ],
+    "paths": [
+      "Book/h/o/g/9940h8mhog-香山閒適詩選.json",
+      "Book/p/t/s/994xaq5pts-香山閒適詩選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4wdlog；edition=",
+      "相同来源记录ID：s30nsve476n5ruzt"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcd5khs",
+      "9940h2dqtc"
+    ],
+    "titles": [
+      "水府諸神祀典記",
+      "水府諸神祀典記"
+    ],
+    "paths": [
+      "Book/k/h/s/994xcd5khs-水府諸神祀典記.json",
+      "Book/q/t/c/9940h2dqtc-水府諸神祀典記.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4smr5s；edition=",
+      "相同来源记录ID：qsk54cxhzcdjs4gr"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcd5kht",
+      "9940h2ozcw"
+    ],
+    "titles": [
+      "身世金箴",
+      "身世金箴"
+    ],
+    "paths": [
+      "Book/k/h/t/994xcd5kht-身世金箴民國二十一年刻.json",
+      "Book/z/c/w/9940h2ozcw-身世金箴民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4sxzpc；edition=民國二十一年刻",
+      "相同来源记录ID：qxom26zqvb6pbjto"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "988fz7bksr",
+      "988g1wedq8"
+    ],
+    "titles": [
+      "茶錄",
+      "茶錄"
+    ],
+    "paths": [
+      "Book/k/s/r/988fz7bksr-茶錄欽定四庫全書文淵閣本.json",
+      "Book/d/q/8/988g1wedq8-茶錄欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59f2ht89lhf；edition=欽定四庫全書·文淵閣本",
+      "相同丛编及册位：[{\"id\": \"8rlb6yi1ecqo\", \"volume_index\": 844}]；全部resources相同。"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940hcokqo",
+      "994xan1ce9"
+    ],
+    "titles": [
+      "唐詩矩",
+      "唐詩矩"
+    ],
+    "paths": [
+      "Book/k/q/o/9940hcokqo-唐詩矩民國二十五年刻.json",
+      "Book/c/e/9/994xan1ce9-唐詩矩民國二十五年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4yvi0w；edition=民國二十五年刻",
+      "相同来源记录ID：esa12ptlhgp4tio1"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h0tk3k",
+      "994xaolj41"
+    ],
+    "titles": [
+      "性理精言",
+      "性理精言"
+    ],
+    "paths": [
+      "Book/k/3/k/9940h0tk3k-性理精言民國二十一年刻.json",
+      "Book/j/4/1/994xaolj41-性理精言民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4rdszl；edition=民國二十一年刻",
+      "相同来源记录ID：jx6ju51pfb0qw3e4"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xanckxs",
+      "9940hczta8"
+    ],
+    "titles": [
+      "玉山詩集",
+      "玉山詩集"
+    ],
+    "paths": [
+      "Book/k/x/s/994xanckxs-玉山詩集.json",
+      "Book/t/a/8/9940hczta8-玉山詩集.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4yvi0x；edition=",
+      "相同来源记录ID：fiu84dotm1xkvzsh"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xanckxt",
+      "9940hdb1ts"
+    ],
+    "titles": [
+      "詩義折中",
+      "詩義折中"
+    ],
+    "paths": [
+      "Book/k/x/t/994xanckxt-詩義折中民國二十一年刻.json",
+      "Book/1/t/s/9940hdb1ts-詩義折中民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4z6qkg；edition=民國二十一年刻",
+      "相同来源记录ID：fzfjhia6hgqpzs8y"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v7n474",
+      "993ljjf5dt"
+    ],
+    "titles": [
+      "虛皇天尊初真十戒文",
+      "虛皇天尊初真十戒文"
+    ],
+    "paths": [
+      "Book/4/7/4/9944v7n474-虛皇天尊初真十戒文道藏輯要本.json",
+      "Book/5/d/t/993ljjf5dt-虛皇天尊初真十戒文道藏輯要本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly0pt6p；edition=道藏輯要本",
+      "相同来源记录ID：l0i65vpewwti2410"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h7os1s",
+      "994xamevb5"
+    ],
+    "titles": [
+      "左傳經世鈔約選",
+      "左傳經世鈔約選"
+    ],
+    "paths": [
+      "Book/s/1/s/9940h7os1s-左傳經世鈔約選民國二十一年刻.json",
+      "Book/v/b/5/994xamevb5-左傳經世鈔約選民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4vfw1s；edition=民國二十一年刻",
+      "相同来源记录ID：22wh78va886woz85"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h14sn4",
+      "994xapj8qp"
+    ],
+    "titles": [
+      "爲學大指",
+      "爲學大指"
+    ],
+    "paths": [
+      "Book/s/n/4/9940h14sn4-爲學大指.json",
+      "Book/8/q/p/994xapj8qp-爲學大指.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4rp1j4；edition=",
+      "相同来源记录ID：nugqpom0crgxqjbg"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v9ts01",
+      "993ljlx1qa"
+    ],
+    "titles": [
+      "玄精碧匣靈寶聚玄經",
+      "玄精碧匣靈寶聚玄經"
+    ],
+    "paths": [
+      "Book/s/0/1/9944v9ts01-玄精碧匣靈寶聚玄經道藏本.json",
+      "Book/1/q/a/993ljlx1qa-玄精碧匣靈寶聚玄經道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly37pj5；edition=道藏本",
+      "相同来源记录ID：rkfzqqxbr32ivzzq"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v9ts00",
+      "993ljlx1q9"
+    ],
+    "titles": [
+      "玄精碧匣靈寶聚玄經",
+      "玄精碧匣靈寶聚玄經"
+    ],
+    "paths": [
+      "Book/s/0/0/9944v9ts00-玄精碧匣靈寶聚玄經抄本.json",
+      "Book/1/q/9/993ljlx1q9-玄精碧匣靈寶聚玄經抄本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly37pj5；edition=抄本",
+      "相同来源记录ID：ls5ta22s3icfw1be"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xdd1uyp",
+      "9940hc23nk"
+    ],
+    "titles": [
+      "東坡閒適詩選",
+      "東坡閒適詩選"
+    ],
+    "paths": [
+      "Book/u/y/p/994xdd1uyp-東坡閒適詩選.json",
+      "Book/3/n/k/9940hc23nk-東坡閒適詩選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fscfllon7；edition=",
+      "相同来源记录ID：sbs1lkqen44swlbi"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xdd1uyo",
+      "9940hcdc74"
+    ],
+    "titles": [
+      "閨範",
+      "閨範"
+    ],
+    "paths": [
+      "Book/u/y/o/994xdd1uyo-閨範民國二十三年鉛印.json",
+      "Book/c/7/4/9940hcdc74-閨範民國二十三年鉛印.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4yk9hc；edition=民國二十三年鉛印",
+      "相同来源记录ID：ohgra343lafnmhni"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gzvugw",
+      "994xaowrnk"
+    ],
+    "titles": [
+      "七經精義纂要",
+      "七經精義纂要"
+    ],
+    "paths": [
+      "Book/u/g/w/9940gzvugw-七經精義纂要民國二十四年刻.json",
+      "Book/r/n/k/994xaowrnk-七經精義纂要民國二十四年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4qrbwh；edition=民國二十四年刻",
+      "相同来源记录ID：kpn1amprol68s3gv"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcc7uv4",
+      "9940h3xxj4"
+    ],
+    "titles": [
+      "易理彙參臆言",
+      "易理彙參臆言"
+    ],
+    "paths": [
+      "Book/u/v/4/994xcc7uv4-易理彙參臆言.json",
+      "Book/x/j/4/9940h3xxj4-易理彙參臆言.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4tvpc0；edition=",
+      "相同来源记录ID：kb3n5wftkz51s1jq"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcc7uv5",
+      "9940h3mozl"
+    ],
+    "titles": [
+      "國朝河臣記",
+      "國朝河臣記"
+    ],
+    "paths": [
+      "Book/u/v/5/994xcc7uv5-國朝河臣記.json",
+      "Book/o/z/l/9940h3mozl-國朝河臣記.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4tkgsh；edition=",
+      "相同来源记录ID：lob4nwo2kancbfvf"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xannthc",
+      "9940h9k7b4"
+    ],
+    "titles": [
+      "大學誼詁",
+      "大學誼詁"
+    ],
+    "paths": [
+      "Book/t/h/c/994xannthc-大學誼詁.json",
+      "Book/7/b/4/9940h9k7b4-大學誼詁.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4x02rk；edition=",
+      "相同来源记录ID：hipgybdjnbu78ami"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v8ktts",
+      "993ljko3k0"
+    ],
+    "titles": [
+      "玄帝燈儀",
+      "玄帝燈儀"
+    ],
+    "paths": [
+      "Book/t/t/s/9944v8ktts-玄帝燈儀道藏本.json",
+      "Book/3/k/0/993ljko3k0-玄帝燈儀道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly1yrcx；edition=道藏本",
+      "相同来源记录ID：yrqzxnpz1zf8x78w"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcdgt1c",
+      "9940h3bgg0"
+    ],
+    "titles": [
+      "黃河工段文武兵夫記畧",
+      "黃河工段文武兵夫記畧"
+    ],
+    "paths": [
+      "Book/t/1/c/994xcdgt1c-黃河工段文武兵夫記畧.json",
+      "Book/g/g/0/9940h3bgg0-黃河工段文武兵夫記畧.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4t988w；edition=",
+      "相同来源记录ID：s80uxfvlbif4jr74"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljllt6p",
+      "9944v9ijgg"
+    ],
+    "titles": [
+      "玄教煉丹祕訣",
+      "玄教煉丹祕訣"
+    ],
+    "paths": [
+      "Book/t/6/p/993ljllt6p-玄教煉丹祕訣明抄本.json",
+      "Book/j/g/g/9944v9ijgg-玄教煉丹祕訣明抄本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly2wgzl；edition=明抄本",
+      "相同来源记录ID：k845zutjj63c2fwd"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gx2pkw",
+      "994xcba58g"
+    ],
+    "titles": [
+      "師曠占",
+      "師曠占"
+    ],
+    "paths": [
+      "Book/p/k/w/9940gx2pkw-師曠占.json",
+      "Book/5/8/g/994xcba58g-師曠占.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4pidq9；edition=",
+      "相同来源记录ID：xlfotk0p0gb2ifv4"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljo3pj4",
+      "9944vc0fsw"
+    ],
+    "titles": [
+      "玄天賜福燈科",
+      "玄天賜福燈科"
+    ],
+    "paths": [
+      "Book/p/j/4/993ljo3pj4-玄天賜福燈科清抄本.json",
+      "Book/f/s/w/9944vc0fsw-玄天賜福燈科清抄本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly5edc1；edition=清抄本",
+      "相同来源记录ID：bpzg60sdh3p2jh8z"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "988fza4pos",
+      "988g2bdrt8"
+    ],
+    "titles": [
+      "聞見近錄",
+      "聞見近錄"
+    ],
+    "paths": [
+      "Book/p/o/s/988fza4pos-聞見近錄欽定四庫全書文淵閣本.json",
+      "Book/r/t/8/988g2bdrt8-聞見近錄欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59f2htl2br4；edition=欽定四庫全書·文淵閣本",
+      "相同丛编及册位：[{\"id\": \"8rlb6yi1ecqo\", \"volume_index\": 1037}]；全部resources相同。"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gxdy4h",
+      "994xal5x4x"
+    ],
+    "titles": [
+      "汲冢瑣語",
+      "汲冢瑣語"
+    ],
+    "paths": [
+      "Book/y/4/h/9940gxdy4h-汲冢瑣語.json",
+      "Book/x/4/x/994xal5x4x-汲冢瑣語.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4q4utc；edition=",
+      "相同来源记录ID：jxr3pjg1uzu3qhzb"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gxdy4g",
+      "994xal5x4w"
+    ],
+    "titles": [
+      "公孫尼子",
+      "公孫尼子"
+    ],
+    "paths": [
+      "Book/y/4/g/9940gxdy4g-公孫尼子.json",
+      "Book/x/4/w/994xal5x4w-公孫尼子.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4ptm9s；edition=",
+      "相同来源记录ID：jtbtf87rxxnw8cxq"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944vbdypt",
+      "993ljnh8g0"
+    ],
+    "titles": [
+      "玄圃山靈□祕籙",
+      "玄圃山靈□祕籙"
+    ],
+    "paths": [
+      "Book/y/p/t/9944vbdypt-玄圃山靈祕籙道藏本.json",
+      "Book/8/g/0/993ljnh8g0-玄圃山靈祕籙道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly534sg；edition=道藏本",
+      "相同来源记录ID：mitcwagkcnads8yo"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h98yrk",
+      "994xanz20w"
+    ],
+    "titles": [
+      "負暄閒語",
+      "負暄閒語"
+    ],
+    "paths": [
+      "Book/y/r/k/9940h98yrk-負暄閒語.json",
+      "Book/2/0/w/994xanz20w-負暄閒語.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4wou80；edition=",
+      "相同来源记录ID：ho2ku4gd5aei1cz7"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljoey2o",
+      "9944vcbocg"
+    ],
+    "titles": [
+      "玄天上帝百字聖號",
+      "玄天上帝百字聖號"
+    ],
+    "paths": [
+      "Book/y/2/o/993ljoey2o-玄天上帝百字聖號續道藏本.json",
+      "Book/o/c/g/9944vcbocg-玄天上帝百字聖號續道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly5plvl；edition=續道藏本",
+      "相同来源记录ID：ra6vzyt1w62gm0k5"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljhuyo1",
+      "9944v6e60w"
+    ],
+    "titles": [
+      "修真程途全集",
+      "修真程途全集"
+    ],
+    "paths": [
+      "Book/y/o/1/993ljhuyo1-修真程途全集清末刻本.json",
+      "Book/6/0/w/9944v6e60w-修真程途全集清末刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fylxzs3k0；edition=清末刻本",
+      "相同来源记录ID：06z4f13adsbvxp7t"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaqgydc",
+      "9940h5tcsg"
+    ],
+    "titles": [
+      "觀省錄",
+      "觀省錄"
+    ],
+    "paths": [
+      "Book/y/d/c/994xaqgydc-觀省錄民國二十八年刻.json",
+      "Book/c/s/g/9940h5tcsg-觀省錄民國二十八年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4ui6f5；edition=民國二十八年刻",
+      "相同来源记录ID：sns3h5q2sfjjij32"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaqgydd",
+      "9940h4vn5s"
+    ],
+    "titles": [
+      "少陵閒適詩選",
+      "少陵閒適詩選"
+    ],
+    "paths": [
+      "Book/y/d/d/994xaqgydd-少陵閒適詩選.json",
+      "Book/n/5/s/9940h4vn5s-少陵閒適詩選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4u6xvk；edition=",
+      "相同来源记录ID：tait0eavu7ojwjvk"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gwg8hs",
+      "994xcaywox"
+    ],
+    "titles": [
+      "子夏易傳",
+      "子夏易傳"
+    ],
+    "paths": [
+      "Book/8/h/s/9940gwg8hs-子夏易傳清嘉慶十年刻.json",
+      "Book/w/o/x/994xcaywox-子夏易傳清嘉慶十年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4pidq8；edition=清嘉慶十年刻",
+      "相同来源记录ID：s7ja2f7lnvwp7byv"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xapj8qo",
+      "9940h1r9q8"
+    ],
+    "titles": [
+      "張橫渠文集",
+      "張橫渠文集"
+    ],
+    "paths": [
+      "Book/8/q/o/994xapj8qo-張橫渠文集民國二十六年刻.json",
+      "Book/9/q/8/9940h1r9q8-張橫渠文集民國二十六年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4sbim8；edition=民國二十六年刻",
+      "相同来源记录ID：n3l3kfs26n7mnyk3"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljnh8g1",
+      "9944vbp79c"
+    ],
+    "titles": [
+      "玄圃山靈□祕籙",
+      "玄圃山靈□祕籙"
+    ],
+    "paths": [
+      "Book/8/g/1/993ljnh8g1-玄圃山靈祕籙明刻本.json",
+      "Book/7/9/c/9944vbp79c-玄圃山靈祕籙明刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly534sg；edition=明刻本",
+      "相同来源记录ID：bcwd2ojsadlz77qy"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v6pekg",
+      "993lji677k"
+    ],
+    "titles": [
+      "修真歷驗鈔圖",
+      "修真歷驗鈔圖"
+    ],
+    "paths": [
+      "Book/e/k/g/9944v6pekg-修真歷驗鈔圖道藏本.json",
+      "Book/7/7/k/993lji677k-修真歷驗鈔圖道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly03c3l；edition=道藏本",
+      "相同来源记录ID：4lwfgnachuy4shnn"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xalse81",
+      "9940h800lc"
+    ],
+    "titles": [
+      "魯齋遺書約鈔",
+      "魯齋遺書約鈔"
+    ],
+    "paths": [
+      "Book/e/8/1/994xalse81-魯齋遺書約鈔.json",
+      "Book/0/l/c/9940h800lc-魯齋遺書約鈔.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4vr4lc；edition=",
+      "相同来源记录ID：0yscifjwa5qiuy6n"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xalse80",
+      "9940guw1s0"
+    ],
+    "titles": [
+      "毛詩馬王微",
+      "毛詩馬王微"
+    ],
+    "paths": [
+      "Book/e/8/0/994xalse80-毛詩馬王微清嘉慶十一年刻.json",
+      "Book/1/s/0/9940guw1s0-毛詩馬王微清嘉慶十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4ovwn4；edition=清嘉慶十一年刻",
+      "相同来源记录ID：ntfpzl7glcpwyud8"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h1g16p",
+      "994xap8074"
+    ],
+    "titles": [
+      "蛻軒集",
+      "蛻軒集"
+    ],
+    "paths": [
+      "Book/1/6/p/9940h1g16p-蛻軒集民國十年刻.json",
+      "Book/0/7/4/994xap8074-蛻軒集民國十年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4s0a2p；edition=民國十年刻",
+      "相同来源记录ID：m7d0a6p34nimvwjj"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h1g16o",
+      "994xap8075"
+    ],
+    "titles": [
+      "南華經解選讀",
+      "南華經解選讀"
+    ],
+    "paths": [
+      "Book/1/6/o/9940h1g16o-南華經解選讀民國二十一年刻.json",
+      "Book/0/7/5/994xap8075-南華經解選讀民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4s0a2o；edition=民國二十一年刻",
+      "相同来源记录ID：mdb4scseht4sn5n7"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944vag935",
+      "993ljmjitd"
+    ],
+    "titles": [
+      "玄靈轉經早朝行道儀",
+      "玄靈轉經早朝行道儀"
+    ],
+    "paths": [
+      "Book/9/3/5/9944vag935-玄靈轉經早朝行道儀道藏本.json",
+      "Book/i/t/d/993ljmjitd-玄靈轉經早朝行道儀道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly45f5s；edition=道藏本",
+      "相同来源记录ID：x07mei74jkwkprrr"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "988g0fn9xw",
+      "988g86e70g"
+    ],
+    "titles": [
+      "詩說",
+      "詩說"
+    ],
+    "paths": [
+      "Book/9/x/w/988g0fn9xw-詩說欽定四庫全書文淵閣本.json",
+      "Book/7/0/g/988g86e70g-詩說欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59f2hqgdnnl；edition=欽定四庫全書·文淵閣本",
+      "相同丛编及册位：[{\"id\": \"8rlb6yi1ecqo\", \"volume_index\": 87}]；全部resources相同。"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gvtreo",
+      "994xalh5oh"
+    ],
+    "titles": [
+      "古今官遺制考",
+      "古今官遺制考"
+    ],
+    "paths": [
+      "Book/r/e/o/9940gvtreo-古今官遺制考.json",
+      "Book/5/o/h/994xalh5oh-古今官遺制考.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4p756o；edition=",
+      "相同来源记录ID：m35755mn01nuvysm"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940he8rgg",
+      "994xar3fgg"
+    ],
+    "titles": [
+      "禮記節本",
+      "禮記節本"
+    ],
+    "paths": [
+      "Book/r/g/g/9940he8rgg-禮記節本民國二十一年刻.json",
+      "Book/f/g/g/994xar3fgg-禮記節本民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4zt7nl；edition=民國二十一年刻",
+      "相同来源记录ID：y4gmhxfm517a6q24"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9943teofsx",
+      "993ljhjq4h"
+    ],
+    "titles": [
+      "修造地司鎮宅",
+      "修造地司鎮宅"
+    ],
+    "paths": [
+      "Book/f/s/x/9943teofsx-修造地司鎮宅清乾隆三十九年抄本.json",
+      "Book/q/4/h/993ljhjq4h-修造地司鎮宅清乾隆三十九年抄本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fykw8dlvk；edition=清乾隆三十九年抄本",
+      "相同来源记录ID：5bjy20ydrod4tion"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h9vfuo",
+      "994xanz20x"
+    ],
+    "titles": [
+      "閱微草堂筆記約選",
+      "閱微草堂筆記約選"
+    ],
+    "paths": [
+      "Book/f/u/o/9940h9vfuo-閱微草堂筆記約選.json",
+      "Book/2/0/x/994xanz20x-閱微草堂筆記約選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4xbbb4；edition=",
+      "相同来源记录ID：i2eacl7qhckvqibj"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljihfr4",
+      "9944v70n40"
+    ],
+    "titles": [
+      "修真太極混元指玄圖",
+      "修真太極混元指玄圖"
+    ],
+    "paths": [
+      "Book/f/r/4/993ljihfr4-修真太極混元指玄圖道藏本.json",
+      "Book/n/4/0/9944v70n40-修真太極混元指玄圖道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly0ekn5；edition=道藏本",
+      "相同来源记录ID：ov2h4st53cztcjwr"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gy0f7k",
+      "994xakuolc"
+    ],
+    "titles": [
+      "列女詩並序",
+      "列女詩並序"
+    ],
+    "paths": [
+      "Book/f/7/k/9940gy0f7k-列女詩並序.json",
+      "Book/o/l/c/994xakuolc-列女詩並序.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4q4utd；edition=",
+      "相同来源记录ID：gaci6a0w5pgu70if"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940gy0f7l",
+      "994xamq3up"
+    ],
+    "titles": [
+      "歷代聖哲學粹",
+      "歷代聖哲學粹"
+    ],
+    "paths": [
+      "Book/f/7/l/9940gy0f7l-歷代聖哲學粹民國二十三至二十四年刻.json",
+      "Book/3/u/p/994xamq3up-歷代聖哲學粹民國二十三至二十四年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4qg3cw；edition=民國二十三至二十四年刻",
+      "相同来源记录ID：47exrc67pn7eqlgg"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940hat5hc",
+      "994xcblds1"
+    ],
+    "titles": [
+      "周慤慎公自著年譜",
+      "周慤慎公自著年譜"
+    ],
+    "paths": [
+      "Book/5/h/c/9940hat5hc-周慤慎公自著年譜.json",
+      "Book/d/s/1/994xcblds1-周慤慎公自著年譜.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4xxse8；edition=",
+      "相同来源记录ID：610mv04punz2zqn8"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944vcy5fk",
+      "993ljoq6ma"
+    ],
+    "titles": [
+      "玄武贊",
+      "玄武贊"
+    ],
+    "paths": [
+      "Book/5/f/k/9944vcy5fk-玄武贊真仙上乘本.json",
+      "Book/6/m/a/993ljoq6ma-玄武贊真仙上乘本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly6c2yp；edition=真仙上乘本",
+      "相同来源记录ID：o4mi8ey1zc5l501q"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9943tfm5fl",
+      "993ljqllvm"
+    ],
+    "titles": [
+      "薰風瑤琴寶錄八集",
+      "薰風瑤琴寶錄八集"
+    ],
+    "paths": [
+      "Book/5/f/l/9943tfm5fl-薰風瑤琴寶錄八集清宣統元年中州東善局刻本.json",
+      "Book/l/v/m/993ljqllvm-薰風瑤琴寶錄八集清宣統元年中州東善局刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fykw9bbi8；edition=清宣統元年中州東善局刻本",
+      "相同来源记录ID：ba46kp8pgxpwbagf"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "988g7p855a",
+      "988g262qkw"
+    ],
+    "titles": [
+      "西銘述解",
+      "西銘述解"
+    ],
+    "paths": [
+      "Book/5/5/a/988g7p855a-西銘述解欽定四庫全書文淵閣本.json",
+      "Book/q/k/w/988g262qkw-西銘述解欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59f2nkkyrr4；edition=欽定四庫全書·文淵閣本",
+      "相同丛编及册位：[{\"id\": \"8rlb6yi1ecqo\", \"volume_index\": 697}]；全部resources相同。"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xalh5og",
+      "9940gtyc5c"
+    ],
+    "titles": [
+      "漢志水道考證",
+      "漢志水道考證"
+    ],
+    "paths": [
+      "Book/5/o/g/994xalh5og-漢志水道考證.json",
+      "Book/c/5/c/9940gtyc5c-漢志水道考證.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4oko3k；edition=",
+      "相同来源记录ID：ksox1yt785v5ara2"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljjf5ds",
+      "9944v7bvnl"
+    ],
+    "titles": [
+      "虛皇天尊初真十戒文",
+      "虛皇天尊初真十戒文"
+    ],
+    "paths": [
+      "Book/5/d/s/993ljjf5ds-虛皇天尊初真十戒文道藏本.json",
+      "Book/v/n/l/9944v7bvnl-虛皇天尊初真十戒文道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly0pt6p；edition=道藏本",
+      "相同来源记录ID：ajkrdwkflmtwycc8"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljoq6m8",
+      "9944vcmww0"
+    ],
+    "titles": [
+      "玄武靈真說報父母恩經",
+      "玄武靈真說報父母恩經"
+    ],
+    "paths": [
+      "Book/6/m/8/993ljoq6m8-玄武靈真說報父母恩經道書十八種本.json",
+      "Book/w/w/0/9944vcmww0-玄武靈真說報父母恩經道書十八種本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly60uf5；edition=道書十八種本",
+      "相同来源记录ID：ewwmkhpct0dn0v2b"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaqs6ww",
+      "9940h56vpc"
+    ],
+    "titles": [
+      "周慤慎公節錄身世金箴",
+      "周慤慎公節錄身世金箴"
+    ],
+    "paths": [
+      "Book/6/w/w/994xaqs6ww-周慤慎公節錄身世金箴民國間周氏影印本.json",
+      "Book/v/p/c/9940h56vpc-周慤慎公節錄身世金箴民國間周氏影印本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4ui6f4；edition=民國間周氏影印本",
+      "相同来源记录ID：tep2681p7c0on2rm"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaqs6wx",
+      "9940hdxiww"
+    ],
+    "titles": [
+      "聖哲微言",
+      "聖哲微言"
+    ],
+    "paths": [
+      "Book/6/w/x/994xaqs6wx-聖哲微言民國二十二年刻.json",
+      "Book/i/w/w/9940hdxiww-聖哲微言民國二十二年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4zt7nk；edition=民國二十二年刻",
+      "相同来源记录ID：y2a2qtb07oj8pznl"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljpcnpd",
+      "9944vd9dz4"
+    ],
+    "titles": [
+      "玄學正宗",
+      "玄學正宗"
+    ],
+    "paths": [
+      "Book/n/p/d/993ljpcnpd-玄學正宗道書全集本.json",
+      "Book/d/z/4/9944vd9dz4-玄學正宗道書全集本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly6nbi9；edition=道書全集本",
+      "相同来源记录ID：dg3l7qfgqp7tlaqb"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h22i9s",
+      "994xccj3eo"
+    ],
+    "titles": [
+      "周慤慎公全集十種",
+      "周慤慎公全集十種"
+    ],
+    "paths": [
+      "Book/i/9/s/9940h22i9s-周慤慎公全集十種民國十年秋浦周氏刻.json",
+      "Book/3/e/o/994xccj3eo-周慤慎公全集十種民國十年秋浦周氏刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4sbim9；edition=民國十年秋浦周氏刻",
+      "相同来源记录ID：n16ajptmdwuyqnjc"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaoaakh",
+      "9940gz9dds"
+    ],
+    "titles": [
+      "求闕齋日記",
+      "求闕齋日記"
+    ],
+    "paths": [
+      "Book/a/k/h/994xaoaakh-求闕齋日記民國二十一年刻.json",
+      "Book/d/d/s/9940gz9dds-求闕齋日記民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4qrbwg；edition=民國二十一年刻",
+      "相同来源记录ID：jigg0xsmzlakj3ha"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaoaakg",
+      "9940h0ibk0"
+    ],
+    "titles": [
+      "周中丞集",
+      "周中丞集"
+    ],
+    "paths": [
+      "Book/a/k/g/994xaoaakg-周中丞集民國十九年刻.json",
+      "Book/b/k/0/9940h0ibk0-周中丞集民國十九年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4rdszk；edition=民國十九年刻",
+      "相同来源记录ID：iygia3eb2kkiip3j"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljm8a9t",
+      "9944va50jl"
+    ],
+    "titles": [
+      "玄覽人鳥山經圖",
+      "玄覽人鳥山經圖"
+    ],
+    "paths": [
+      "Book/a/9/t/993ljm8a9t-玄覽人鳥山經圖道藏本.json",
+      "Book/0/j/l/9944va50jl-玄覽人鳥山經圖道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly3u6m8；edition=道藏本",
+      "相同来源记录ID：lj1knv4gw5e3jdkd"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940hdmadc",
+      "994xan1ce8"
+    ],
+    "titles": [
+      "陽明理學集",
+      "陽明理學集"
+    ],
+    "paths": [
+      "Book/a/d/c/9940hdmadc-陽明理學集民國二十一年刻.json",
+      "Book/c/e/8/994xan1ce8-陽明理學集民國二十一年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4zhz40；edition=民國二十一年刻",
+      "相同来源记录ID：ege3u6ld25u2c7pw"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v97aww",
+      "993ljkzc3m"
+    ],
+    "titles": [
+      "璇璣斡運祈祿求嗣躬行心懺科儀",
+      "璇璣斡運祈祿求嗣躬行心懺科儀"
+    ],
+    "paths": [
+      "Book/a/w/w/9944v97aww-璇璣斡運祈祿求嗣躬行心懺科儀文昌聖典本.json",
+      "Book/c/3/m/993ljkzc3m-璇璣斡運祈祿求嗣躬行心懺科儀文昌聖典本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly2l8g1；edition=文昌聖典本",
+      "相同来源记录ID：oddey26bjkgargky"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v89la8",
+      "993ljkcv0g"
+    ],
+    "titles": [
+      "許真君受鍊形神上清畢道法要節文",
+      "許真君受鍊形神上清畢道法要節文"
+    ],
+    "paths": [
+      "Book/l/a/8/9944v89la8-許真君受鍊形神上清畢道法要節文道藏本.json",
+      "Book/v/0/g/993ljkcv0g-許真君受鍊形神上清畢道法要節文道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly1nitd；edition=道藏本",
+      "相同来源记录ID：e7ughmdjis36bcte"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljqllvk",
+      "9944ve73lt"
+    ],
+    "titles": [
+      "玄宗正旨",
+      "玄宗正旨"
+    ],
+    "paths": [
+      "Book/l/v/k/993ljqllvk-玄宗正旨道藏輯要本.json",
+      "Book/3/l/t/9944ve73lt-玄宗正旨道藏輯要本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly7l14x；edition=道藏輯要本",
+      "相同来源记录ID：purmfrhdoh0d2638"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944vb2q69",
+      "993ljn5zwh"
+    ],
+    "titles": [
+      "玄門十事威儀",
+      "玄門十事威儀"
+    ],
+    "paths": [
+      "Book/q/6/9/9944vb2q69-玄門十事威儀道藏本.json",
+      "Book/z/w/h/993ljn5zwh-玄門十事威儀道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly4rw8w；edition=道藏本",
+      "相同来源记录ID：pt4qdejupszne81c"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljnsgzl",
+      "9943tfaww1"
+    ],
+    "titles": [
+      "玄壇牒檄檢目",
+      "玄壇牒檄檢目"
+    ],
+    "paths": [
+      "Book/g/z/l/993ljnsgzl-玄壇牒檄檢目明抄本.json",
+      "Book/w/w/1/9943tfaww1-玄壇牒檄檢目明抄本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fykw902yo；edition=明抄本",
+      "相同来源记录ID：vk4fa87texf07m5b"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xaolj40",
+      "9940h0730g"
+    ],
+    "titles": [
+      "鏡古錄",
+      "鏡古錄"
+    ],
+    "paths": [
+      "Book/j/4/0/994xaolj40-鏡古錄民國十八年刻.json",
+      "Book/3/0/g/9940h0730g-鏡古錄民國十八年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4r2kg0；edition=民國十八年刻",
+      "相同来源记录ID：jvvafypgsqahcfmi"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h7dji8",
+      "994xamevb4"
+    ],
+    "titles": [
+      "周氏師古堂課選",
+      "周氏師古堂課選"
+    ],
+    "paths": [
+      "Book/j/i/8/9940h7dji8-周氏師古堂課選民國二十七年鉛印.json",
+      "Book/v/b/4/994xamevb4-周氏師古堂課選民國二十七年鉛印.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4v4ni8；edition=民國二十七年鉛印",
+      "相同来源记录ID：1q3uysfplwlnule1"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xccuby8",
+      "9940h3mozk"
+    ],
+    "titles": [
+      "玉山文集",
+      "玉山文集"
+    ],
+    "paths": [
+      "Book/b/y/8/994xccuby8-玉山文集.json",
+      "Book/o/z/k/9940h3mozk-玉山文集.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4tkgsg；edition=",
+      "相同来源记录ID：nykrxy6fc8j0uzb8"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xccuby9",
+      "9940h307wg"
+    ],
+    "titles": [
+      "弟子箴言",
+      "弟子箴言"
+    ],
+    "paths": [
+      "Book/b/y/9/994xccuby9-弟子箴言清胡達源撰民國二十三年刻.json",
+      "Book/7/w/g/9940h307wg-弟子箴言清胡達源撰民國二十三年刻.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4sxzpd；edition=清胡達源撰民國二十三年刻",
+      "相同来源记录ID：pih2lxahuqdf7tp7"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9940h6r2f4",
+      "994xamq3uo"
+    ],
+    "titles": [
+      "淵明閒適詩選",
+      "淵明閒適詩選"
+    ],
+    "paths": [
+      "Book/2/f/4/9940h6r2f4-淵明閒適詩選.json",
+      "Book/3/u/o/994xamq3uo-淵明閒適詩選.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4uteyp；edition=",
+      "相同来源记录ID：247fkq2muhrjfjgm"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944v8w2dc",
+      "993ljkzc3k"
+    ],
+    "titles": [
+      "玄都律文",
+      "玄都律文"
+    ],
+    "paths": [
+      "Book/2/d/c/9944v8w2dc-玄都律文道藏本.json",
+      "Book/c/3/k/993ljkzc3k-玄都律文道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly29zwh；edition=道藏本",
+      "相同来源记录ID：2qa3tkuojudwpl6p"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9944ve73ls",
+      "993ljqadc1"
+    ],
+    "titles": [
+      "玄宗正旨",
+      "玄宗正旨"
+    ],
+    "paths": [
+      "Book/3/l/s/9944ve73ls-玄宗正旨重刊道藏輯要本.json",
+      "Book/d/c/1/993ljqadc1-玄宗正旨重刊道藏輯要本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly7l14x；edition=重刊道藏輯要本",
+      "相同来源记录ID：b1vfsoy3764142my"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "9943tezoch",
+      "993ljjqdxd"
+    ],
+    "titles": [
+      "虛無自然六合通天金符籙祖",
+      "虛無自然六合通天金符籙祖"
+    ],
+    "paths": [
+      "Book/o/c/h/9943tezoch-虛無自然六合通天金符籙祖清刻本.json",
+      "Book/d/x/d/993ljjqdxd-虛無自然六合通天金符籙祖清刻本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fykw8ouf4；edition=清刻本",
+      "相同来源记录ID：7z55w7usmcke3wuy"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "994xcblds0",
+      "9940hahwxs"
+    ],
+    "titles": [
+      "易理彙參",
+      "易理彙參"
+    ],
+    "paths": [
+      "Book/d/s/0/994xcblds0-易理彙參.json",
+      "Book/w/x/s/9940hahwxs-易理彙參.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyh4xmjuo；edition=",
+      "相同来源记录ID：0obnfdfgexvwfph7"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljj3wu9",
+      "9944v7bvnk"
+    ],
+    "titles": [
+      "虛皇天尊初真十戒文",
+      "虛皇天尊初真十戒文"
+    ],
+    "paths": [
+      "Book/w/u/9/993ljj3wu9-虛皇天尊初真十戒文重刊道藏輯要本.json",
+      "Book/v/n/k/9944v7bvnk-虛皇天尊初真十戒文重刊道藏輯要本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly0pt6p；edition=重刊道藏輯要本",
+      "相同来源记录ID：g7ekq0teu2gifb2r"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "993ljpnw8y",
+      "9944vdvv28"
+    ],
+    "titles": [
+      "軒轅黃帝水經藥法",
+      "軒轅黃帝水經藥法"
+    ],
+    "paths": [
+      "Book/w/8/y/993ljpnw8y-軒轅黃帝水經藥法道藏本.json",
+      "Book/v/2/8/9944vdvv28-軒轅黃帝水經藥法道藏本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "独立重新读取全部源JSON复验：仅排除id/revision/revised_at/updated_at/created_at，剩余所有字段逐项完全一致。",
+      "work_id=d59fyly79sld；edition=道藏本",
+      "相同来源记录ID：la16jwqb6mpfnbwg"
+    ],
+    "recommendation": "属重复元记录，保留资料较完整或被引用较多者，另一条留merged_into墓碑；合并前核对入边和外仓资产。",
+    "review_method": "全字段确定性复验（非逐条史料考证）",
+    "human_reviewed": false
+  },
+  {
+    "ids": [
+      "988g26dz46",
+      "988g85ghdx"
+    ],
+    "titles": [
+      "建炎德安守御錄",
+      "建炎德安守御錄）"
+    ],
+    "paths": [
+      "Book/z/4/6/988g26dz46-建炎德安守御錄欽定四庫全書文淵閣本.json",
+      "Book/h/d/x/988g85ghdx-建炎德安守御錄欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同work_id d59f2hq8vym8、同文淵閣第727冊、同扫描链接；全部实体字段相同，后一条题名多出右括号「）」",
+      "前者还保留异名建炎德安守禦錄"
+    ],
+    "recommendation": "保留988g26dz46，合并重复资源与引用；后者写墓碑。",
+    "review_method": "逐条读取完整JSON并核对版本、丛编、卷册和资源",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "988g1vgo3r",
+      "988g3aytqe"
+    ],
+    "titles": [
+      "續宋編年資治通鑑",
+      "續宋編年資治通鑑"
+    ],
+    "paths": [
+      "Book/o/3/r/988g1vgo3r-續宋編年資治通鑑欽定四庫全書文淵閣本.json",
+      "Book/t/q/e/988g3aytqe-續宋編年資治通鑑欽定四庫全書文淵閣本.json"
+    ],
+    "verdict": "confirmed",
+    "evidence": [
+      "同work_id d59f2goulfr5、同文淵閣第328冊、同扫描链接和同五组CADAL分卷URL",
+      "唯一内容差别为988g1vgo3r多一条维基文库链接，未显示第二藏本或不同卷册范围"
+    ],
+    "recommendation": "保留资源较多的988g1vgo3r，合并入边并为另一条留墓碑。",
+    "review_method": "逐条读取完整JSON并核对版本、丛编、卷册和资源",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "988fd6gt1c",
+      "988fdz6n0g"
+    ],
+    "titles": [
+      "會昌一品集",
+      "李衛公集別集"
+    ],
+    "paths": [
+      "Book/t/1/c/988fd6gt1c-會昌一品集欽定四庫全書薈要摛藻堂本.json",
+      "Book/n/0/g/988fdz6n0g-李衛公集別集欽定四庫全書薈要摛藻堂本.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "同work、同摛藻堂四庫薈要第366冊及同扫描URL；题分别會昌一品集、李衛公集別集",
+      "可能整书与附属別集关系；共享一册资源不能证明相同文本范围"
+    ],
+    "recommendation": "核对该册目录及两条最初切分位置，再决定并入Book.attached_texts还是保留部分记录。",
+    "review_method": "逐条读取完整JSON并核对版本、丛编、卷册和资源",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "9941tkui9s",
+      "9941tncem9"
+    ],
+    "titles": [
+      "文選存",
+      "文選存"
+    ],
+    "paths": [
+      "Book/i/9/s/9941tkui9s-文選存影印唐寫本.json",
+      "Book/e/m/9/9941tncem9-文選存影印唐寫本.json"
+    ],
+    "verdict": "unresolved",
+    "evidence": [
+      "同work、影印唐寫本及同丛编，九馆provenance一致",
+      "一条著录文選存一卷，另一条文選存一卷（答客難及解嘲），source.instance不同且后者有李善注者",
+      "未提供卷次或叶码，无法确定为相同一卷"
+    ],
+    "recommendation": "比对影印目录、底本卷次/叶码后裁；暂不合并。",
+    "review_method": "逐条读取完整JSON并核对版本、丛编、卷册和资源",
+    "human_reviewed": true
+  },
+  {
+    "ids": [
+      "988fxpmrdk",
+      "988fxpxzwh"
+    ],
+    "titles": [
+      "張先生校正楊寶學易傳",
+      "張先生校正楊寶學易傳"
+    ],
+    "paths": [
+      "Book/r/d/k/988fxpmrdk-張先生校正楊寶學易傳宋刻本.json",
+      "Book/z/w/h/988fxpxzwh-張先生校正楊寶學易傳宋刻本.json"
+    ],
+    "verdict": "retain",
+    "evidence": [
+      "同work同宋刻本，但中華再造善本编号分别ZHSY000008/ZHSY000007，数字扫描不同",
+      "前者馆藏著录明确「明鄭希聖、明朱良育跋，又一部」，支持同版另一部藏本"
+    ],
+    "recommendation": "保留两个Book，可补充同版关系与各自馆藏信息。",
+    "review_method": "逐条读取完整JSON并核对版本、丛编、卷册和资源",
+    "human_reviewed": true
+  }
+]

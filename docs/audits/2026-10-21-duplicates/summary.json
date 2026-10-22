@@ -1,0 +1,19 @@
+{
+  "people": {
+    "groups": 19,
+    "records": 39,
+    "redundant_records": 20
+  },
+  "work": {
+    "groups": 452,
+    "records": 910,
+    "redundant_records": 458
+  },
+  "book": {
+    "groups": 1398,
+    "records": 2796,
+    "redundant_records": 1398
+  },
+  "conflicts": [],
+  "validation_errors": []
+}

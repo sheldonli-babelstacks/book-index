@@ -1,0 +1,588 @@
+[
+  {
+    "case_id": "EC01",
+    "ids": [
+      "d59f2gcp9ypt",
+      "d59f2gckwn42"
+    ],
+    "titles": [
+      "唐摭言",
+      "摭言"
+    ],
+    "paths": [
+      "Work/y/p/t/d59f2gcp9ypt-唐摭言.json",
+      "Work/n/4/2/d59f2gckwn42-摭言.json"
+    ],
+    "verdict": "confirmed",
+    "label": "王定保《唐摭言》／《摭言》",
+    "evidence": [
+      "二条authors同指王定保hixhd2h9bf6f，均十五卷。",
+      "《唐摭言》四库提要引陈振孙《书录解题》王定保为吴融婿、光化三年进士等，与《摭言》直斋条所载人物和科举内容同。",
+      "何晦同名书在四库提要明确单列，与此组隔离。"
+    ],
+    "recommendation": "合并这两条王定保作品，保留唐摭言/摭言两题；何晦条不得并入。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC02",
+    "ids": [
+      "d59f2gckwn41",
+      "d59f2pyuj2m9"
+    ],
+    "titles": [
+      "唐摭言",
+      "摭言"
+    ],
+    "paths": [
+      "Work/n/4/1/d59f2gckwn41-唐摭言.json",
+      "Work/2/m/9/d59f2pyuj2m9-摭言.json"
+    ],
+    "verdict": "confirmed",
+    "label": "何晦《唐摭言》／《摭言》",
+    "evidence": [
+      "二条authors同指何晦hixhd2h9blps；国史经籍志「唐摭言十五卷（南唐何晦）」与宋史艺文志「何晦摭言十五卷」。",
+      "国史条2026-10-15备注已确认这是何晦同名异书，而宋史条亦明确区别王定保。"
+    ],
+    "recommendation": "合并何晦这两条，保留别名；与王定保组独立。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC03",
+    "ids": [
+      "d59f27y2pbls",
+      "d59f2pr4emma",
+      "d59f9nmjd0qz",
+      "d59f9uwa5qm8"
+    ],
+    "titles": [
+      "春秋穀梁傳集解",
+      "春秋榖梁傳集解",
+      "穀梁傳集解",
+      "春秋穀梁集解"
+    ],
+    "paths": [
+      "Work/b/l/s/d59f27y2pbls-春秋穀梁傳集解.json",
+      "Work/m/m/a/d59f2pr4emma-春秋榖梁傳集解.json",
+      "Work/0/q/z/d59f9nmjd0qz-穀梁傳集解.json",
+      "Work/q/m/8/d59f9uwa5qm8-春秋穀梁集解.json"
+    ],
+    "verdict": "confirmed",
+    "label": "胡訥／胡納穀梁集解四条",
+    "evidence": [
+      "四条分别题春秋穀梁傳集解、春秋榖梁傳集解、穀梁傳集解、春秋穀梁集解，均十卷；见丁国钧、经义考、文廷式、秦荣光诸目。",
+      "d59f27y2pbls的2026-09-06备注明确「庫條題胡納乃丁本胡訥之訛」「d59f2pr4emma（經義考）為重出」。",
+      "秦本记录注明「上四種並胡訥撰」，文廷式条作者同为胡訥；与范寧十二卷、孔衍十四卷明确区分。"
+    ],
+    "recommendation": "四条归一；同步核正作者胡訥及人物ID（人物组已确认胡納/胡訥重复），保留异题和各志卷数原文。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC04",
+    "ids": [
+      "d59f27t5ej29",
+      "d59f27xiewap"
+    ],
+    "titles": [
+      "春秋穀梁傳注",
+      "春秋穀梁傳唐固注"
+    ],
+    "paths": [
+      "Work/j/2/9/d59f27t5ej29-春秋穀梁傳注.json",
+      "Work/w/a/p/d59f27xiewap-春秋穀梁傳唐固注.json"
+    ],
+    "verdict": "confirmed",
+    "label": "唐固《穀梁》注异题重出",
+    "evidence": [
+      "二条同指唐固hixhd2h9bkn2。d59f27t5ej29三国艺文志考语直接引隋志十三卷、旧唐志十二卷、新唐志十二卷。",
+      "d59f27xiewap承载的正是隋志十三卷、经义考及新唐志十二卷条；卷数差异已由同一考语桥接。",
+      "范寧条的2026-08-23备注已明确指出两者同书而分二。"
+    ],
+    "recommendation": "两条归一，规范注者role；保留十三/十二卷跨志差异，维护contains_text_of原典关系。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC05",
+    "ids": [
+      "d59f9nmjd0qy",
+      "d59f9s1agyki",
+      "d59f2q6f18n6",
+      "d59f9uwa5qm9"
+    ],
+    "titles": [
+      "春秋穀梁經傳集注",
+      "春秋穀梁傳注",
+      "程闡經傳集注",
+      "春秋穀梁傳集解"
+    ],
+    "paths": [
+      "Work/0/q/y/d59f9nmjd0qy-春秋穀梁經傳集注.json",
+      "Work/y/k/i/d59f9s1agyki-春秋穀梁傳注.json",
+      "Work/8/n/6/d59f2q6f18n6-程闡經傳集注.json",
+      "Work/q/m/9/d59f9uwa5qm9-春秋穀梁傳集解.json"
+    ],
+    "verdict": "confirmed",
+    "label": "程闡十六卷穀梁注四条",
+    "evidence": [
+      "文廷式条春秋穀梁經傳集注十六卷与吴士鉴条春秋穀梁傳注十六卷同指程闡hixhd2h9bk86。",
+      "吴本summary明确「兩《唐志》作經傳集註」，直接桥接新唐志条「程闡經傳集注十六卷」。",
+      "秦荣光春秋穀梁傳集解十六卷的summary明载「《唐志》作經傳集注；程闡撰」，但顶层漏作者，ai_note反称不著撰人。"
+    ],
+    "recommendation": "四条归一；修正顶层无作者与所引著录原文矛盾，保留题名异文与来源。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC06",
+    "ids": [
+      "d59f2j522ltu",
+      "d59fxwor1vcx"
+    ],
+    "titles": [
+      "詩集傳通釋",
+      "詩集傳通釋"
+    ],
+    "paths": [
+      "Work/l/t/u/d59f2j522ltu-詩集傳通釋.json",
+      "Work/v/c/x/d59fxwor1vcx-詩集傳通釋.json"
+    ],
+    "verdict": "confirmed",
+    "label": "劉瑾《詩集傳通釋》被角色解析拆成两书",
+    "evidence": [
+      "旧条元劉瑾撰，描述明确元至正十二年建安劉氏日新書堂刻本。",
+      "新条原始author_info「宋朱熹集傳;元劉瑾通釋」，summary含同一元刻本，但顶层仅朱熹集傳、period误置song。",
+      "新条ai_note明确「責任者 role 異常未寫入：劉瑾通釋」，可定位误分原因；Book组亦核同版。"
+    ],
+    "recommendation": "合并这两条通释作品，保留刘瑾通释/朱熹原集传的层次；不要并入朱熹《詩集傳》原注本，Book不同藏本仍保留。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC07",
+    "ids": [
+      "d59f2q7zj6yp",
+      "d59fy1jip6o1"
+    ],
+    "titles": [
+      "夢溪筆談",
+      "古迂陳氏家藏夢溪筆談"
+    ],
+    "paths": [
+      "Work/6/y/p/d59f2q7zj6yp-夢溪筆談.json",
+      "Work/6/o/1/d59fy1jip6o1-古迂陳氏家藏夢溪筆談.json"
+    ],
+    "verdict": "confirmed",
+    "label": "《夢溪筆談》与古迂陳氏家藏题",
+    "evidence": [
+      "旧条直斋著录二十六卷，summary明载「沈括存中撰」，顶层authors却为空。",
+      "新条古迂陳氏家藏夢溪筆談二十六卷，沈括撰，唯一版本是元大德九年陳仁子東山書院刻本；差异为藏版冠题。"
+    ],
+    "recommendation": "归一原书，古迂陳氏家藏冠题与元刻本信息保留于版本；不要自动并入一卷选本或含补续的全编组。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EC08",
+    "ids": [
+      "d59fysi9ssn4",
+      "d59fyr05oa2o"
+    ],
+    "titles": [
+      "畫苑紀藝",
+      "畫苑紀藝"
+    ],
+    "paths": [
+      "Work/s/n/4/d59fysi9ssn4-畫苑紀藝.json",
+      "Work/a/2/o/d59fyr05oa2o-畫苑紀藝.json"
+    ],
+    "verdict": "confirmed",
+    "label": "畫苑紀藝同源重复导入",
+    "evidence": [
+      "两条除id外全文一致；相同中国古籍总目源记录ID、同一陈太史重订百川学海丛书记录，同题同责任者同卷。",
+      "【叢書子目新建·未比对到单行本】叢書线（GUJI-526）：叢書子目新建，未比对到单行本（已按題名＋作者＋朝代全局预查）；所屬叢書記錄 uztjesv26f6fmk2q（陳太史重訂百川學海一百七種）\n叢書线（GUJI-526）據《中國古籍總目》（上圖聯合目錄）自動錄入；匹配檔=新；源記錄：ljub4z65e3v0n5oc"
+    ],
+    "recommendation": "保留一条并写墓碑，迁移Book和其他引用；作者是否旧题另行保留原著录，不影响同源记录重复事实。",
+    "overlaps_exact_duplicate_pool": true
+  },
+  {
+    "case_id": "EC09",
+    "ids": [
+      "d59fysi9ssn5",
+      "d59fyr05oa2p"
+    ],
+    "titles": [
+      "端硯譜",
+      "端硯譜"
+    ],
+    "paths": [
+      "Work/s/n/5/d59fysi9ssn5-端硯譜.json",
+      "Work/a/2/p/d59fyr05oa2p-端硯譜.json"
+    ],
+    "verdict": "confirmed",
+    "label": "端硯譜同源重复导入",
+    "evidence": [
+      "两条除id外全文一致；相同中国古籍总目源记录ID、同一陈太史重订百川学海丛书记录，同题同责任者同卷。",
+      "【叢書子目新建·未比对到单行本】叢書线（GUJI-526）：叢書子目新建，未比对到单行本（已按題名＋作者＋朝代全局预查）；所屬叢書記錄 uztjesv26f6fmk2q（陳太史重訂百川學海一百七種）\n叢書线（GUJI-526）據《中國古籍總目》（上圖聯合目錄）自動錄入；匹配檔=新；源記錄：nn841m5s3fnhxqfy\n全版本無撰，取訂者"
+    ],
+    "recommendation": "保留一条并写墓碑，迁移Book和其他引用；作者是否旧题另行保留原著录，不影响同源记录重复事实。",
+    "overlaps_exact_duplicate_pool": true
+  },
+  {
+    "case_id": "EC10",
+    "ids": [
+      "d59fyr03sutd",
+      "d59fysi8v30h"
+    ],
+    "titles": [
+      "鷹品",
+      "鷹品"
+    ],
+    "paths": [
+      "Work/u/t/d/d59fyr03sutd-鷹品.json",
+      "Work/3/0/h/d59fysi8v30h-鷹品.json"
+    ],
+    "verdict": "confirmed",
+    "label": "鷹品同源重复导入",
+    "evidence": [
+      "两条除id外全文一致；相同中国古籍总目源记录ID、同一陈太史重订百川学海丛书记录，同题同责任者同卷。",
+      "【叢書子目新建·未比对到单行本】叢書线（GUJI-526）：叢書子目新建，未比对到单行本（已按題名＋作者＋朝代全局预查）；所屬叢書記錄 uztjesv26f6fmk2q（陳太史重訂百川學海一百七種）\n叢書线（GUJI-526）據《中國古籍總目》（上圖聯合目錄）自動錄入；匹配檔=新；源記錄：amnrcm88xgdswye6"
+    ],
+    "recommendation": "保留一条并写墓碑，迁移Book和其他引用；作者是否旧题另行保留原著录，不影响同源记录重复事实。",
+    "overlaps_exact_duplicate_pool": true
+  },
+  {
+    "case_id": "EC11",
+    "ids": [
+      "d59fysi88lxc",
+      "d59fyr04fbwg"
+    ],
+    "titles": [
+      "天彭牡丹記",
+      "天彭牡丹記"
+    ],
+    "paths": [
+      "Work/l/x/c/d59fysi88lxc-天彭牡丹記.json",
+      "Work/b/w/g/d59fyr04fbwg-天彭牡丹記.json"
+    ],
+    "verdict": "confirmed",
+    "label": "天彭牡丹記同源重复导入",
+    "evidence": [
+      "两条除id外全文一致；相同中国古籍总目源记录ID、同一陈太史重订百川学海丛书记录，同题同责任者同卷。",
+      "【叢書子目新建·未比对到单行本】叢書线（GUJI-526）：叢書子目新建，未比对到单行本（已按題名＋作者＋朝代全局预查）；所屬叢書記錄 uztjesv26f6fmk2q（陳太史重訂百川學海一百七種）\n叢書线（GUJI-526）據《中國古籍總目》（上圖聯合目錄）自動錄入；匹配檔=新；源記錄：qgzj52s7r8n26xmo"
+    ],
+    "recommendation": "保留一条并写墓碑，迁移Book和其他引用；作者是否旧题另行保留原著录，不影响同源记录重复事实。",
+    "overlaps_exact_duplicate_pool": true
+  },
+  {
+    "case_id": "EP01",
+    "ids": [
+      "d59f9ux1mmf5",
+      "d59f9ux02fpi"
+    ],
+    "titles": [
+      "維摩經",
+      "維摩經"
+    ],
+    "paths": [
+      "Work/m/f/5/d59f9ux1mmf5-維摩經.json",
+      "Work/f/p/i/d59f9ux02fpi-維摩經.json"
+    ],
+    "verdict": "probable",
+    "label": "匿名《維摩經》全字段重复但缺来源位置",
+    "evidence": [
+      "除id外全文一致，同为秦荣光补晋书艺文志裸题維摩經、无作者、无卷数、无页码/条目号。",
+      "该志同名佛经可涉及不同译注；当前字段无法证明两条落在同一原始著录位置。"
+    ],
+    "recommendation": "先回查秦志整理本的section/页码/邻接作者，再合并；不要机械和其他曇詵/僧肇条合并。",
+    "overlaps_exact_duplicate_pool": true
+  },
+  {
+    "case_id": "EP02",
+    "ids": [
+      "d59f28jel3wk",
+      "d59fyt6a4xdu"
+    ],
+    "titles": [
+      "貞觀政要",
+      "古寫本本貞觀政要殘"
+    ],
+    "paths": [
+      "Work/3/w/k/d59f28jel3wk-貞觀政要.json",
+      "Work/x/d/u/d59fyt6a4xdu-古寫本本貞觀政要殘.json"
+    ],
+    "verdict": "probable",
+    "label": "《古寫本本貞觀政要殘》版本冠题重出",
+    "evidence": [
+      "两条均吳兢撰；新条题古写本残二卷存卷五至六，附佚篇一卷校记一卷，author_info另载罗振玉辑并校。",
+      "新条建立原因仅为卷数不是单一N卷、因此auto-split，未提供独立新内容证据。"
+    ],
+    "recommendation": "优先将残本/辑校信息落Book；先核罗振玉佚篇与校记是否独立研究Work，不能把整组校记静默丢掉。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EP03",
+    "ids": [
+      "d59f2hnysjr6",
+      "d59fxry7f9xc"
+    ],
+    "titles": [
+      "瀧岡阡表",
+      "歐陽文忠公瀧岡阡表"
+    ],
+    "paths": [
+      "Work/j/r/6/d59f2hnysjr6-瀧岡阡表.json",
+      "Work/9/x/c/d59fxry7f9xc-歐陽文忠公瀧岡阡表.json"
+    ],
+    "verdict": "probable",
+    "label": "《瀧岡阡表》文本与影印明拓书法条",
+    "evidence": [
+      "旧条是subtype article，歐陽修作；新条歐陽文忠公瀧岡阡表一卷，原文歐陽修書，清宣统三年影印明拓本。",
+      "Book版本组发现同一来源Book跨两Work重复；但一侧文章、一侧书法/碑刻语义需要建模裁决。"
+    ],
+    "recommendation": "先修复已确认同来源Book重复；明确书法作品是否独立Work后决定两Work归并或关联。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EP04",
+    "ids": [
+      "d59f2hq5rl6o",
+      "d59fxwzfxgxt"
+    ],
+    "titles": [
+      "夢溪筆談全編",
+      "夢溪筆譚"
+    ],
+    "paths": [
+      "Work/l/6/o/d59f2hq5rl6o-夢溪筆談全編.json",
+      "Work/g/x/t/d59fxwzfxgxt-夢溪筆譚.json"
+    ],
+    "verdict": "probable",
+    "label": "《夢溪筆談全編》与《夢溪筆譚》",
+    "evidence": [
+      "全编条四库提要为原书二十六卷、补二卷、续一卷；新總目筆譚为二十六卷补一卷。",
+      "同沈括但附属补续的组配有差异，且全编作为独立Work的层级本身需要清理。"
+    ],
+    "recommendation": "与原书/补笔谈/续笔谈整组梳理后定Work层级，版本组合放Book，不因标题近似整组自动并。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EU01",
+    "ids": [
+      "d59f206ep2ww",
+      "d59fy1iadhj5"
+    ],
+    "titles": [
+      "論衡",
+      "論衡"
+    ],
+    "paths": [
+      "Work/2/w/w/d59f206ep2ww-論衡.json",
+      "Work/h/j/5/d59fy1iadhj5-論衡.json"
+    ],
+    "verdict": "unresolved",
+    "label": "匿名新《論衡》待查版本",
+    "evidence": [
+      "旧条王充三十卷，多源；新总目裸题、作者空、未给卷数，自动split。",
+      "库内同时有茅維六卷的同名异书，不能只因王充书更有名就归之。"
+    ],
+    "recommendation": "查新条Book与原始总目具体馆藏，定位作者/卷数后裁定。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "EU02",
+    "ids": [
+      "d59f2q7zj6yp",
+      "d59fxwylng8x"
+    ],
+    "titles": [
+      "夢溪筆談",
+      "夢溪筆談"
+    ],
+    "paths": [
+      "Work/6/y/p/d59f2q7zj6yp-夢溪筆談.json",
+      "Work/g/8/x/d59fxwylng8x-夢溪筆談.json"
+    ],
+    "verdict": "unresolved",
+    "label": "《夢溪筆談》二十六卷与一卷丛书子目",
+    "evidence": [
+      "旧条原书二十六卷；新条總目沈括夢溪筆談一卷，苍雪庵日钞子目，备注又涉林思進异名合并。"
+    ],
+    "recommendation": "先核一卷是节选、残本还是版本计量，避免把选本不加辨别并原书。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER01",
+    "ids": [
+      "d59f206ep2ww",
+      "d59f2nfzizuq"
+    ],
+    "titles": [
+      "論衡",
+      "論衡"
+    ],
+    "paths": [
+      "Work/2/w/w/d59f206ep2ww-論衡.json",
+      "Work/z/u/q/d59f2nfzizuq-論衡.json"
+    ],
+    "verdict": "retain",
+    "label": "王充与茅維同名《論衡》",
+    "evidence": [
+      "王充东汉三十卷与茅維明六卷；明史艺文志将茅維論衡与表衡、策衡并列。"
+    ],
+    "recommendation": "保留两Work，以作者和时代消歧。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER02",
+    "ids": [
+      "d59f2068rklc",
+      "d59fxwou68si"
+    ],
+    "titles": [
+      "說文解字",
+      "說文解字"
+    ],
+    "paths": [
+      "Work/k/l/c/d59f2068rklc-說文解字.json",
+      "Work/8/s/i/d59fxwou68si-說文解字.json"
+    ],
+    "verdict": "retain",
+    "label": "许慎原典与段玉裁/徐灏注箋",
+    "evidence": [
+      "原典许慎；另一条明确段玉裁注、徐灝箋，注释有独立知识内容。"
+    ],
+    "recommendation": "保留原典/注本分层；注本可另与徐灏說文解字注箋核重，已转晚期Work组。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER03",
+    "ids": [
+      "d59f28jel3wk",
+      "d59f2gnqn282"
+    ],
+    "titles": [
+      "貞觀政要",
+      "貞觀政要"
+    ],
+    "paths": [
+      "Work/3/w/k/d59f28jel3wk-貞觀政要.json",
+      "Work/2/8/2/d59f2gnqn282-貞觀政要.json"
+    ],
+    "verdict": "retain",
+    "label": "吳兢《貞觀政要》与察罕蒙译",
+    "evidence": [
+      "元史author_info明确察罕譯，现有2026-10-15记录已裁为蒙译≠原书。"
+    ],
+    "recommendation": "不合并；必要时修作者role为譯。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER04",
+    "ids": [
+      "d59f27ywo3r4",
+      "d59f27y2pbls",
+      "d59f9s1agykg"
+    ],
+    "titles": [
+      "春秋穀梁傳集解",
+      "春秋穀梁傳集解",
+      "春秋穀梁傳集解"
+    ],
+    "paths": [
+      "Work/3/r/4/d59f27ywo3r4-春秋穀梁傳集解.json",
+      "Work/b/l/s/d59f27y2pbls-春秋穀梁傳集解.json",
+      "Work/y/k/g/d59f9s1agykg-春秋穀梁傳集解.json"
+    ],
+    "verdict": "retain",
+    "label": "范寧／胡訥／孔衍不同穀梁注本",
+    "evidence": [
+      "范寧十二卷、胡訥十卷、孔衍十四卷分别不同责任者；作者角色集解/注有独立创造。"
+    ],
+    "recommendation": "注本之间保留；只各自合并同作者异题重出。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER05",
+    "ids": [
+      "d59f284rdaf7",
+      "d59fyt7ayxhc"
+    ],
+    "titles": [
+      "史記集解",
+      "史記集解"
+    ],
+    "paths": [
+      "Work/a/f/7/d59f284rdaf7-史記集解.json",
+      "Work/x/h/c/d59fyt7ayxhc-史記集解.json"
+    ],
+    "verdict": "retain",
+    "label": "裴駰与王光《史記集解》",
+    "evidence": [
+      "裴駰南朝宋注本130卷，王光清一卷抄本，作者和内容规模俱不同。"
+    ],
+    "recommendation": "保留同名异书。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER06",
+    "ids": [
+      "d59f27uwrpc0",
+      "d59f27vksz5s"
+    ],
+    "titles": [
+      "徐邈音",
+      "徐邈音"
+    ],
+    "paths": [
+      "Work/p/c/0/d59f27uwrpc0-徐邈音.json",
+      "Work/z/5/s/d59f27vksz5s-徐邈音.json"
+    ],
+    "verdict": "retain",
+    "label": "徐邈《音》同名不同所释经",
+    "evidence": [
+      "一条二卷论语音义，一条三卷礼记音义；2026-09-06核查记录已按新唐书原书邻接条辨开。"
+    ],
+    "recommendation": "不合并；建议题名补所释经名以减少未来误报。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER07",
+    "ids": [
+      "d59f28jxxtl0",
+      "d59f28m1shkz"
+    ],
+    "titles": [
+      "張楚金翰苑",
+      "張楚金翰苑"
+    ],
+    "paths": [
+      "Work/t/l/0/d59f28jxxtl0-張楚金翰苑.json",
+      "Work/h/k/z/d59f28m1shkz-張楚金翰苑.json"
+    ],
+    "verdict": "retain",
+    "label": "張楚金《翰苑》同目分列不同卷数",
+    "evidence": [
+      "新唐书艺文志同目两条分别三十卷和七卷；现有核对记录明确存疑保留，不能仅靠同作者同题判重。"
+    ],
+    "recommendation": "继续保留，只有原志一书两著证据成立后再并。",
+    "overlaps_exact_duplicate_pool": false
+  },
+  {
+    "case_id": "ER08",
+    "ids": [
+      "d59f28jy924i",
+      "d59f28lrsw77"
+    ],
+    "titles": [
+      "地理經",
+      "地理經"
+    ],
+    "paths": [
+      "Work/2/4/i/d59f28jy924i-地理經.json",
+      "Work/w/7/7/d59f28lrsw77-地理經.json"
+    ],
+    "verdict": "retain",
+    "label": "一行《地理經》同目十二/十五卷",
+    "evidence": [
+      "宋史艺文志同类分两条，分别十二和十五卷；依仓库录入判准「同志卷异疑二书」。"
+    ],
+    "recommendation": "保留待考，不能按同题同作者批并。",
+    "overlaps_exact_duplicate_pool": false
+  }
+]
